@@ -1,0 +1,1001 @@
+OrderID,OrderDate,ShipDate,ShipMode,CustomerID,CustomerName,Segment,City,State,PostalCode,Region,ProductID,Category,Sub-Category,ProductName,Sales,Quantity,Discount,Profit
+ORD-100000,8/17/2018,8/18/2018,Standard Class,CUST-1125,Cameron Jones,Corporate,Austin,TX,81482,East,PROD-14165,Technology,Machines,Machines Item 16,2272.26,2,0,105.83
+ORD-100001,10/31/2020,11/10/2020,First Class,CUST-1101,Skyler Wilson,Consumer,San Jose,CA,46463,East,PROD-54597,Office Supplies,Labels,Labels Item 143,51.87,3,0,11.32
+ORD-100002,11/21/2019,11/23/2019,First Class,CUST-1049,Parker Lopez,Corporate,San Francisco,CA,15695,South,PROD-59615,Technology,Phones,Phones Item 41,1737.81,9,0,371
+ORD-100003,1/11/2020,1/21/2020,First Class,CUST-1035,Taylor Davis,Corporate,Los Angeles,CA,40512,East,PROD-69429,Furniture,Tables,Tables Item 326,8584.44,6,0,2586.16
+ORD-100004,12/29/2019,1/2/2020,Standard Class,CUST-1359,Jordan Martin,Corporate,Dallas,TX,42087,West,PROD-45382,Furniture,Furnishings,Furnishings Item 474,811.26,9,0,89.48
+ORD-100005,10/27/2019,10/28/2019,First Class,CUST-1016,Avery Gonzalez,Consumer,Houston,TX,84341,Central,PROD-61856,Office Supplies,Labels,Labels Item 453,159.76,8,0,18.69
+ORD-100006,10/13/2018,10/17/2018,Standard Class,CUST-1275,Drew Jackson,Consumer,San Jose,CA,62350,Central,PROD-76784,Office Supplies,Binders,Binders Item 253,57.28,2,0.1,-7.65
+ORD-100007,8/13/2018,8/16/2018,Standard Class,CUST-1405,Kendall Martin,Consumer,San Antonio,TX,88104,South,PROD-82512,Technology,Copiers,Copiers Item 441,799.07,1,0.1,234.96
+ORD-100008,8/23/2018,9/1/2018,Standard Class,CUST-1393,Avery Brown,Consumer,Chicago,IL,69470,East,PROD-75612,Technology,Copiers,Copiers Item 391,5529.96,3,0,711.34
+ORD-100009,8/6/2018,8/11/2018,Standard Class,CUST-1259,Reese Miller,Consumer,San Francisco,CA,31174,East,PROD-74042,Technology,Copiers,Copiers Item 10,1778.82,2,0.2,161.71
+ORD-100010,9/22/2019,9/26/2019,First Class,CUST-1449,Finley Williams,Consumer,San Diego,CA,19071,West,PROD-82063,Office Supplies,Labels,Labels Item 85,233.45,5,0,24.39
+ORD-100011,5/16/2020,5/20/2020,Standard Class,CUST-1386,Riley Martinez,Consumer,Austin,TX,95180,Central,PROD-25860,Furniture,Furnishings,Furnishings Item 127,4211.04,4,0,1060.03
+ORD-100012,2/13/2018,2/23/2018,Standard Class,CUST-1301,Cameron Smith,Consumer,Austin,TX,17716,West,PROD-53309,Office Supplies,Paper,Paper Item 37,540.54,9,0,105.22
+ORD-100013,9/21/2020,9/25/2020,Standard Class,CUST-1370,Finley Jackson,Consumer,San Francisco,CA,71993,South,PROD-22704,Office Supplies,Paper,Paper Item 338,130.97,7,0,15.47
+ORD-100014,4/21/2020,4/29/2020,Standard Class,CUST-1027,Morgan Johnson,Consumer,Philadelphia,PA,24322,West,PROD-80292,Office Supplies,Binders,Binders Item 230,25.14,3,0,2.71
+ORD-100015,7/25/2019,8/2/2019,First Class,CUST-1472,Jordan Anderson,Corporate,Columbus,OH,82132,East,PROD-11934,Office Supplies,Envelopes,Envelopes Item 497,18.51,2,0.2,5.44
+ORD-100016,4/30/2019,5/3/2019,Second Class,CUST-1246,Riley Gonzalez,Home Office,Chicago,IL,59672,East,PROD-69638,Furniture,Tables,Tables Item 147,8720.77,7,0.1,500.69
+ORD-100017,9/23/2020,9/26/2020,First Class,CUST-1111,Taylor Jackson,Corporate,New York,NY,51104,East,PROD-72493,Office Supplies,Envelopes,Envelopes Item 258,454.77,9,0,73.03
+ORD-100018,11/6/2020,11/8/2020,Standard Class,CUST-1035,Reese Williams,Corporate,Houston,TX,62923,East,PROD-85880,Technology,Accessories,Accessories Item 305,122.48,1,0,18.67
+ORD-100019,5/8/2020,5/18/2020,Standard Class,CUST-1161,Drew Miller,Corporate,Philadelphia,PA,41285,Central,PROD-98039,Furniture,Bookcases,Bookcases Item 331,6709.6,5,0,1521.21
+ORD-100020,5/29/2018,5/30/2018,Second Class,CUST-1288,Morgan Williams,Consumer,Dallas,TX,44760,West,PROD-42018,Furniture,Chairs,Chairs Item 190,3289.2,5,0,1480.14
+ORD-100021,9/12/2019,9/22/2019,Same Day,CUST-1413,Rowan Smith,Corporate,Dallas,TX,49240,East,PROD-25129,Office Supplies,Writing,Writing Item 456,36.22,2,0.1,11.71
+ORD-100022,11/15/2018,11/20/2018,Second Class,CUST-1107,Avery Miller,Corporate,Columbus,OH,44600,South,PROD-22097,Furniture,Chairs,Chairs Item 325,12226.35,7,0.1,2521.52
+ORD-100023,4/1/2018,4/2/2018,Second Class,CUST-1066,Drew Garcia,Corporate,Dallas,TX,66057,East,PROD-29536,Office Supplies,Paper,Paper Item 280,83.11,1,0.1,23.75
+ORD-100024,10/31/2018,11/7/2018,First Class,CUST-1157,Parker Johnson,Home Office,Houston,TX,99399,West,PROD-56357,Technology,Phones,Phones Item 400,2042.71,9,0.2,120.34
+ORD-100025,4/12/2020,4/22/2020,Standard Class,CUST-1473,Cameron Garcia,Home Office,San Francisco,CA,33206,South,PROD-53540,Office Supplies,Binders,Binders Item 401,180.12,7,0.1,-1.8
+ORD-100026,5/24/2019,5/29/2019,First Class,CUST-1359,Morgan Gonzalez,Home Office,Columbus,OH,71694,West,PROD-55830,Office Supplies,Labels,Labels Item 157,332.88,4,0,6.12
+ORD-100027,1/31/2019,2/7/2019,Second Class,CUST-1442,Jordan Rodriguez,Consumer,Dallas,TX,62386,Central,PROD-44237,Office Supplies,Paper,Paper Item 92,386.26,10,0.3,28.71
+ORD-100028,6/28/2019,6/29/2019,First Class,CUST-1222,Parker Hernandez,Consumer,Dallas,TX,25157,South,PROD-43386,Technology,Accessories,Accessories Item 23,3079.65,7,0,769.47
+ORD-100029,2/8/2019,2/14/2019,Second Class,CUST-1485,Avery Martin,Consumer,Columbus,OH,26334,Central,PROD-97410,Technology,Copiers,Copiers Item 210,13154.64,6,0,3769.2
+ORD-100030,8/29/2019,9/7/2019,First Class,CUST-1215,Hayden Garcia,Corporate,Phoenix,AZ,63225,East,PROD-37549,Furniture,Tables,Tables Item 221,15539.8,10,0,2410.85
+ORD-100031,10/22/2019,10/30/2019,Second Class,CUST-1345,Riley Taylor,Consumer,Fort Worth,TX,32241,East,PROD-22240,Furniture,Tables,Tables Item 420,993.38,4,0.1,104.49
+ORD-100032,4/6/2019,4/10/2019,First Class,CUST-1023,Cameron Thomas,Corporate,San Francisco,CA,19545,South,PROD-60328,Furniture,Bookcases,Bookcases Item 254,12131.35,7,0,-11.87
+ORD-100033,1/12/2018,1/14/2018,Standard Class,CUST-1112,Jamie Taylor,Consumer,Dallas,TX,42662,East,PROD-70901,Furniture,Bookcases,Bookcases Item 342,1095.82,9,0.3,341.85
+ORD-100034,10/12/2019,10/20/2019,Standard Class,CUST-1368,Rowan Wilson,Corporate,Dallas,TX,68446,West,PROD-68991,Technology,Machines,Machines Item 133,3408.23,4,0.1,1095.97
+ORD-100035,7/22/2019,7/31/2019,Second Class,CUST-1122,Drew Anderson,Consumer,Phoenix,AZ,40735,Central,PROD-80798,Furniture,Tables,Tables Item 42,3879.72,3,0,280.17
+ORD-100036,2/24/2020,2/27/2020,Standard Class,CUST-1032,Kendall Wilson,Consumer,San Diego,CA,64496,East,PROD-61049,Office Supplies,Labels,Labels Item 464,711.6,10,0.2,39.47
+ORD-100037,2/10/2018,2/20/2018,Second Class,CUST-1003,Parker Martinez,Corporate,Columbus,OH,64921,West,PROD-45774,Furniture,Bookcases,Bookcases Item 224,11526.64,8,0,1969.94
+ORD-100038,11/20/2019,11/27/2019,Standard Class,CUST-1430,Reese Jones,Home Office,Dallas,TX,13534,South,PROD-21003,Technology,Phones,Phones Item 330,16009.98,7,0,5754.82
+ORD-100039,8/3/2020,8/6/2020,First Class,CUST-1194,Avery Miller,Consumer,Philadelphia,PA,59692,Central,PROD-20735,Furniture,Tables,Tables Item 241,911.61,1,0.1,201.08
+ORD-100040,4/17/2018,4/23/2018,First Class,CUST-1035,Taylor Smith,Home Office,Houston,TX,12671,West,PROD-72070,Office Supplies,Binders,Binders Item 343,106.46,2,0,14.07
+ORD-100041,3/23/2019,3/31/2019,Standard Class,CUST-1392,Parker Garcia,Corporate,Jacksonville,FL,25012,West,PROD-85849,Furniture,Chairs,Chairs Item 14,1301.95,5,0,224.84
+ORD-100042,2/8/2020,2/15/2020,Standard Class,CUST-1101,Jordan Jackson,Corporate,Austin,TX,41830,East,PROD-99687,Technology,Copiers,Copiers Item 308,204.59,2,0.1,1.99
+ORD-100043,3/26/2018,4/1/2018,Standard Class,CUST-1338,Parker Williams,Consumer,Philadelphia,PA,11658,South,PROD-66822,Furniture,Chairs,Chairs Item 492,6250.26,6,0,1906.95
+ORD-100044,7/30/2020,8/2/2020,Second Class,CUST-1375,Rowan Rodriguez,Corporate,Fort Worth,TX,80539,South,PROD-87656,Furniture,Furnishings,Furnishings Item 138,8734.8,6,0.2,1012.1
+ORD-100045,6/27/2018,7/2/2018,Standard Class,CUST-1124,Reese Jackson,Corporate,San Antonio,TX,54092,East,PROD-33834,Furniture,Tables,Tables Item 250,6093.28,4,0,3.62
+ORD-100046,6/14/2019,6/20/2019,Second Class,CUST-1305,Drew Moore,Consumer,Houston,TX,21221,West,PROD-74038,Technology,Machines,Machines Item 285,2526.55,4,0.1,390.45
+ORD-100047,10/2/2020,10/10/2020,Standard Class,CUST-1047,Quinn Davis,Consumer,Houston,TX,50135,Central,PROD-65771,Furniture,Tables,Tables Item 382,3279.42,9,0,422.31
+ORD-100048,7/18/2020,7/23/2020,Second Class,CUST-1118,Morgan Miller,Consumer,Jacksonville,FL,80236,West,PROD-73464,Office Supplies,Binders,Binders Item 142,651.77,10,0.3,156.54
+ORD-100049,12/10/2020,12/20/2020,Second Class,CUST-1051,Riley Martinez,Consumer,Chicago,IL,49618,East,PROD-45954,Technology,Accessories,Accessories Item 24,2616.95,1,0,834.76
+ORD-100050,9/16/2018,9/24/2018,First Class,CUST-1006,Finley Martinez,Consumer,San Diego,CA,54657,West,PROD-72616,Office Supplies,Writing,Writing Item 59,161.52,2,0,55.66
+ORD-100051,6/1/2018,6/11/2018,Standard Class,CUST-1027,Casey Jones,Corporate,Phoenix,AZ,21164,West,PROD-64548,Office Supplies,Envelopes,Envelopes Item 311,808.38,10,0.1,162.54
+ORD-100052,4/8/2019,4/17/2019,Second Class,CUST-1465,Reese Martinez,Home Office,San Antonio,TX,50026,East,PROD-37235,Technology,Phones,Phones Item 321,3870.6,4,0,577.51
+ORD-100053,6/16/2018,6/19/2018,First Class,CUST-1282,Jordan Garcia,Consumer,San Diego,CA,87832,South,PROD-40340,Furniture,Chairs,Chairs Item 148,3972.87,5,0.1,539.76
+ORD-100054,7/18/2020,7/20/2020,Standard Class,CUST-1473,Drew Jackson,Corporate,Fort Worth,TX,35928,South,PROD-39466,Office Supplies,Envelopes,Envelopes Item 332,197.21,3,0.2,-27.34
+ORD-100055,10/19/2018,10/21/2018,First Class,CUST-1405,Quinn Martin,Corporate,San Jose,CA,47828,South,PROD-49857,Office Supplies,Labels,Labels Item 359,133.11,7,0.2,29.48
+ORD-100056,10/21/2020,10/30/2020,Second Class,CUST-1041,Reese Johnson,Home Office,Jacksonville,FL,52247,Central,PROD-40005,Office Supplies,Paper,Paper Item 493,137.5,10,0,32.22
+ORD-100057,2/12/2018,2/17/2018,Standard Class,CUST-1390,Jamie Thomas,Consumer,San Diego,CA,46458,West,PROD-93202,Technology,Machines,Machines Item 417,5505.58,8,0.3,881.29
+ORD-100058,8/20/2020,8/26/2020,Second Class,CUST-1164,Morgan Garcia,Consumer,Jacksonville,FL,74942,Central,PROD-82102,Technology,Machines,Machines Item 19,12528,8,0,837.29
+ORD-100059,6/1/2019,6/7/2019,First Class,CUST-1395,Hayden Taylor,Corporate,New York,NY,96200,South,PROD-34586,Furniture,Chairs,Chairs Item 266,11669.88,6,0,4066.66
+ORD-100060,10/17/2020,10/25/2020,Standard Class,CUST-1104,Drew Moore,Consumer,Phoenix,AZ,67424,South,PROD-92578,Office Supplies,Paper,Paper Item 312,346.75,4,0.1,61.64
+ORD-100061,9/29/2019,10/8/2019,First Class,CUST-1208,Jordan Davis,Home Office,Fort Worth,TX,24871,South,PROD-75323,Office Supplies,Binders,Binders Item 478,157.45,5,0,-3.28
+ORD-100062,7/14/2019,7/21/2019,Standard Class,CUST-1241,Cameron Anderson,Consumer,San Antonio,TX,34983,West,PROD-64387,Office Supplies,Writing,Writing Item 175,269.19,9,0,51.76
+ORD-100063,1/6/2018,1/11/2018,Standard Class,CUST-1428,Finley Jackson,Home Office,San Diego,CA,29476,South,PROD-55236,Technology,Machines,Machines Item 171,12295.64,9,0.1,1574.91
+ORD-100064,2/12/2020,2/20/2020,Standard Class,CUST-1445,Riley Davis,Consumer,Houston,TX,63841,East,PROD-59968,Furniture,Furnishings,Furnishings Item 198,451.14,3,0,107.07
+ORD-100065,3/17/2018,3/20/2018,Standard Class,CUST-1302,Avery Brown,Home Office,San Diego,CA,23069,South,PROD-63736,Office Supplies,Binders,Binders Item 446,76.44,3,0,11.38
+ORD-100066,6/27/2019,7/3/2019,Standard Class,CUST-1203,Jordan Hernandez,Home Office,Columbus,OH,79942,South,PROD-80912,Furniture,Furnishings,Furnishings Item 19,3325.5,10,0,734.2
+ORD-100067,8/12/2019,8/16/2019,Standard Class,CUST-1222,Morgan Brown,Consumer,Jacksonville,FL,49251,East,PROD-17355,Office Supplies,Writing,Writing Item 151,154.32,6,0,27.64
+ORD-100068,10/26/2018,10/30/2018,Standard Class,CUST-1289,Jamie Garcia,Consumer,San Jose,CA,60140,West,PROD-40433,Furniture,Bookcases,Bookcases Item 237,6803.3,5,0,591.61
+ORD-100069,1/20/2018,1/28/2018,Standard Class,CUST-1346,Skyler Garcia,Consumer,Philadelphia,PA,87014,Central,PROD-42780,Technology,Machines,Machines Item 234,10950.4,5,0,2987.02
+ORD-100070,2/27/2020,3/6/2020,First Class,CUST-1195,Finley Lopez,Consumer,Jacksonville,FL,48696,East,PROD-45976,Technology,Machines,Machines Item 5,8927.92,10,0.2,3112.49
+ORD-100071,4/11/2018,4/21/2018,Standard Class,CUST-1426,Quinn Davis,Corporate,Philadelphia,PA,38705,West,PROD-98835,Technology,Copiers,Copiers Item 387,4849.83,3,0,1683.27
+ORD-100072,3/22/2018,3/27/2018,Standard Class,CUST-1017,Finley Lopez,Corporate,Los Angeles,CA,48680,Central,PROD-33021,Technology,Machines,Machines Item 103,780.46,3,0.1,94.27
+ORD-100073,1/20/2020,1/29/2020,Standard Class,CUST-1139,Jamie Rodriguez,Home Office,San Diego,CA,48684,Central,PROD-19869,Office Supplies,Labels,Labels Item 73,64.9,4,0.2,18.87
+ORD-100074,3/24/2020,4/2/2020,Second Class,CUST-1404,Hayden Smith,Consumer,Los Angeles,CA,69609,Central,PROD-86619,Technology,Copiers,Copiers Item 196,849.06,6,0,326.71
+ORD-100075,4/24/2019,5/2/2019,First Class,CUST-1452,Skyler Hernandez,Home Office,Houston,TX,94889,East,PROD-49608,Technology,Machines,Machines Item 333,486.01,7,0,138.43
+ORD-100076,4/3/2018,4/4/2018,Second Class,CUST-1252,Morgan Brown,Consumer,Dallas,TX,27781,South,PROD-97881,Furniture,Tables,Tables Item 487,9437.22,9,0,2433.77
+ORD-100077,11/13/2018,11/20/2018,Standard Class,CUST-1426,Emerson Martin,Consumer,Phoenix,AZ,14288,Central,PROD-68287,Office Supplies,Labels,Labels Item 487,61.09,4,0.2,2.03
+ORD-100078,7/23/2018,7/29/2018,Standard Class,CUST-1330,Parker Johnson,Consumer,Houston,TX,26011,South,PROD-94109,Office Supplies,Binders,Binders Item 328,487.97,10,0.3,124.17
+ORD-100079,4/14/2018,4/20/2018,First Class,CUST-1064,Finley Miller,Consumer,San Francisco,CA,82641,West,PROD-40539,Technology,Accessories,Accessories Item 169,1160.49,3,0.1,186.48
+ORD-100080,1/6/2018,1/11/2018,Standard Class,CUST-1074,Casey Moore,Consumer,Chicago,IL,24408,East,PROD-56955,Office Supplies,Paper,Paper Item 405,141.68,4,0,19.44
+ORD-100081,2/2/2018,2/5/2018,Second Class,CUST-1064,Kendall Taylor,Consumer,Los Angeles,CA,72422,South,PROD-69245,Furniture,Chairs,Chairs Item 258,4278.3,4,0.2,1055.6
+ORD-100082,3/30/2018,4/8/2018,Second Class,CUST-1329,Alex Johnson,Home Office,Columbus,OH,62640,South,PROD-74260,Technology,Phones,Phones Item 365,19642.56,8,0,6750.49
+ORD-100083,6/15/2018,6/21/2018,Standard Class,CUST-1033,Casey Rodriguez,Corporate,San Jose,CA,81874,Central,PROD-69469,Furniture,Tables,Tables Item 259,5216.1,10,0,2347.25
+ORD-100084,8/23/2018,9/1/2018,Standard Class,CUST-1110,Kendall Anderson,Home Office,San Antonio,TX,54424,South,PROD-22463,Furniture,Furnishings,Furnishings Item 161,1620.85,7,0,11.66
+ORD-100085,6/7/2019,6/13/2019,Same Day,CUST-1351,Emerson Williams,Consumer,Los Angeles,CA,22219,South,PROD-27054,Office Supplies,Writing,Writing Item 285,36.22,1,0,11.69
+ORD-100086,11/7/2019,11/9/2019,Second Class,CUST-1447,Kendall Johnson,Home Office,San Jose,CA,50953,Central,PROD-76507,Office Supplies,Envelopes,Envelopes Item 109,197.48,3,0.1,50.18
+ORD-100087,4/5/2019,4/7/2019,Second Class,CUST-1284,Parker Brown,Corporate,San Jose,CA,39643,South,PROD-89822,Technology,Phones,Phones Item 476,1353.7,5,0,441.37
+ORD-100088,7/14/2019,7/19/2019,Standard Class,CUST-1179,Alex Garcia,Home Office,San Jose,CA,96159,South,PROD-92991,Office Supplies,Binders,Binders Item 498,17.84,1,0,3.7
+ORD-100089,12/22/2020,12/26/2020,Second Class,CUST-1232,Avery Garcia,Consumer,Jacksonville,FL,52517,East,PROD-30632,Office Supplies,Binders,Binders Item 387,29,10,0,8.17
+ORD-100090,6/17/2018,6/22/2018,Second Class,CUST-1217,Emerson Martin,Consumer,Phoenix,AZ,38255,East,PROD-24534,Furniture,Furnishings,Furnishings Item 146,2478.7,10,0,498.17
+ORD-100091,9/24/2019,9/25/2019,First Class,CUST-1306,Taylor Smith,Consumer,Houston,TX,27987,Central,PROD-25726,Furniture,Tables,Tables Item 4,10074.24,8,0.1,342.3
+ORD-100092,12/26/2018,12/29/2018,Second Class,CUST-1360,Cameron Taylor,Consumer,Austin,TX,56421,East,PROD-67176,Furniture,Chairs,Chairs Item 10,8456.45,8,0.2,2267.51
+ORD-100093,10/4/2019,10/14/2019,Second Class,CUST-1207,Kendall Martinez,Consumer,New York,NY,52568,West,PROD-57428,Technology,Machines,Machines Item 46,4580.1,7,0.1,299.81
+ORD-100094,5/14/2019,5/21/2019,Standard Class,CUST-1268,Jordan Gonzalez,Home Office,Jacksonville,FL,54500,West,PROD-20011,Furniture,Bookcases,Bookcases Item 262,1369.06,2,0,372.93
+ORD-100095,2/2/2019,2/8/2019,Second Class,CUST-1490,Casey Davis,Consumer,Phoenix,AZ,35856,West,PROD-95918,Technology,Accessories,Accessories Item 39,5356.45,3,0.3,1779.45
+ORD-100096,10/8/2020,10/16/2020,Standard Class,CUST-1389,Finley Anderson,Corporate,Fort Worth,TX,83989,Central,PROD-29786,Technology,Copiers,Copiers Item 226,3959.38,2,0,300.45
+ORD-100097,9/13/2019,9/18/2019,Standard Class,CUST-1180,Rowan Williams,Consumer,San Diego,CA,14929,East,PROD-20057,Furniture,Tables,Tables Item 331,1534.1,2,0,302.99
+ORD-100098,11/4/2020,11/11/2020,Second Class,CUST-1283,Taylor Anderson,Home Office,San Jose,CA,95437,West,PROD-75715,Furniture,Furnishings,Furnishings Item 78,567.14,1,0,161.88
+ORD-100099,12/5/2019,12/7/2019,Standard Class,CUST-1088,Taylor Davis,Corporate,San Diego,CA,78690,West,PROD-47079,Furniture,Tables,Tables Item 199,8068.54,7,0.1,1220.36
+ORD-100100,4/18/2018,4/24/2018,First Class,CUST-1048,Skyler Gonzalez,Consumer,Jacksonville,FL,96057,West,PROD-86380,Furniture,Chairs,Chairs Item 340,3839.71,3,0.2,1727.87
+ORD-100101,9/28/2019,10/5/2019,First Class,CUST-1362,Jordan Martinez,Consumer,Austin,TX,53054,West,PROD-94675,Technology,Phones,Phones Item 344,10413.9,7,0,1991.68
+ORD-100102,2/7/2018,2/13/2018,Second Class,CUST-1486,Riley Hernandez,Home Office,San Diego,CA,35166,West,PROD-20114,Office Supplies,Binders,Binders Item 152,42.26,2,0,2.72
+ORD-100103,12/14/2020,12/15/2020,Standard Class,CUST-1448,Reese Jones,Consumer,Chicago,IL,31266,West,PROD-67366,Technology,Accessories,Accessories Item 23,647.22,7,0,192.39
+ORD-100104,5/2/2019,5/10/2019,Standard Class,CUST-1385,Reese Davis,Consumer,Phoenix,AZ,71474,West,PROD-70513,Furniture,Furnishings,Furnishings Item 394,5889.02,5,0.1,972.3
+ORD-100105,10/26/2020,11/4/2020,Second Class,CUST-1082,Riley Martin,Consumer,Phoenix,AZ,16839,South,PROD-77621,Furniture,Chairs,Chairs Item 436,3869.96,2,0,1040.4
+ORD-100106,11/25/2018,11/30/2018,Second Class,CUST-1262,Casey Wilson,Consumer,Fort Worth,TX,39102,South,PROD-64381,Furniture,Chairs,Chairs Item 28,13503.42,7,0,1697.44
+ORD-100107,4/28/2019,5/5/2019,Same Day,CUST-1191,Cameron Smith,Consumer,Los Angeles,CA,95191,Central,PROD-15020,Office Supplies,Binders,Binders Item 147,286.13,8,0.1,78.18
+ORD-100108,10/12/2018,10/20/2018,Second Class,CUST-1002,Jordan Smith,Consumer,Columbus,OH,29597,South,PROD-41147,Office Supplies,Writing,Writing Item 155,170.82,2,0,11.77
+ORD-100109,5/9/2020,5/19/2020,Second Class,CUST-1056,Emerson Martin,Consumer,Austin,TX,77551,West,PROD-48177,Technology,Accessories,Accessories Item 220,1679.27,1,0,198.9
+ORD-100110,5/8/2019,5/18/2019,Second Class,CUST-1340,Jordan Taylor,Home Office,Los Angeles,CA,78951,East,PROD-15706,Furniture,Furnishings,Furnishings Item 326,9189.95,7,0.3,2349.03
+ORD-100111,6/4/2019,6/5/2019,Second Class,CUST-1034,Parker Davis,Corporate,Austin,TX,23587,Central,PROD-56176,Office Supplies,Paper,Paper Item 280,62.21,6,0.1,24.36
+ORD-100112,12/25/2018,1/2/2019,Same Day,CUST-1245,Jamie Jones,Consumer,San Francisco,CA,69988,East,PROD-15741,Furniture,Bookcases,Bookcases Item 406,3997.63,4,0.2,1226.84
+ORD-100113,10/9/2019,10/14/2019,Standard Class,CUST-1417,Skyler Thomas,Consumer,San Francisco,CA,94790,West,PROD-16265,Furniture,Tables,Tables Item 444,8967,6,0,1669.33
+ORD-100114,1/24/2020,1/31/2020,Standard Class,CUST-1380,Reese Gonzalez,Consumer,Chicago,IL,75038,South,PROD-20828,Furniture,Tables,Tables Item 373,9864.26,7,0,640.38
+ORD-100115,1/5/2019,1/14/2019,Second Class,CUST-1052,Jordan Hernandez,Corporate,Phoenix,AZ,68447,South,PROD-56077,Office Supplies,Labels,Labels Item 229,27.69,1,0.1,9.58
+ORD-100116,12/24/2019,1/3/2020,Same Day,CUST-1140,Taylor Williams,Corporate,San Antonio,TX,57619,West,PROD-89635,Office Supplies,Binders,Binders Item 348,650.56,8,0,140.87
+ORD-100117,5/18/2018,5/22/2018,Standard Class,CUST-1187,Parker Gonzalez,Home Office,New York,NY,89310,West,PROD-58623,Technology,Machines,Machines Item 191,19738.51,8,0.1,4162.16
+ORD-100118,10/9/2018,10/18/2018,Second Class,CUST-1160,Drew Davis,Home Office,New York,NY,34385,South,PROD-83619,Technology,Machines,Machines Item 61,6947.1,5,0.1,2448.73
+ORD-100119,7/2/2020,7/6/2020,Same Day,CUST-1146,Emerson Miller,Consumer,Columbus,OH,19706,South,PROD-21506,Office Supplies,Labels,Labels Item 415,354.78,6,0.1,64.17
+ORD-100120,5/13/2018,5/22/2018,Standard Class,CUST-1456,Quinn Garcia,Corporate,Fort Worth,TX,93584,West,PROD-25907,Furniture,Bookcases,Bookcases Item 103,4256.52,3,0,884.83
+ORD-100121,10/8/2020,10/9/2020,Second Class,CUST-1293,Parker Anderson,Corporate,Dallas,TX,27009,East,PROD-62187,Office Supplies,Writing,Writing Item 368,280.96,8,0,56.51
+ORD-100122,4/18/2020,4/28/2020,First Class,CUST-1497,Avery Williams,Consumer,Austin,TX,77811,Central,PROD-93859,Office Supplies,Envelopes,Envelopes Item 301,104.79,3,0.1,20.94
+ORD-100123,9/22/2018,9/29/2018,Standard Class,CUST-1444,Taylor Brown,Consumer,Phoenix,AZ,31581,West,PROD-55353,Furniture,Bookcases,Bookcases Item 486,864.65,9,0.2,66.83
+ORD-100124,6/11/2018,6/16/2018,First Class,CUST-1489,Skyler Rodriguez,Consumer,Phoenix,AZ,90534,East,PROD-87569,Technology,Accessories,Accessories Item 483,14074.8,10,0,-487.26
+ORD-100125,11/23/2019,12/3/2019,First Class,CUST-1442,Alex Williams,Consumer,Austin,TX,85598,Central,PROD-84991,Technology,Accessories,Accessories Item 214,17806.8,10,0,3968.72
+ORD-100126,10/16/2020,10/25/2020,Second Class,CUST-1489,Quinn Thomas,Consumer,San Francisco,CA,99783,South,PROD-19564,Furniture,Furnishings,Furnishings Item 353,109.48,1,0,7.97
+ORD-100127,5/1/2020,5/9/2020,Second Class,CUST-1174,Reese Jones,Consumer,Jacksonville,FL,51853,Central,PROD-58567,Furniture,Bookcases,Bookcases Item 264,9615.33,9,0,1344.43
+ORD-100128,5/11/2019,5/19/2019,First Class,CUST-1230,Cameron Jones,Consumer,Phoenix,AZ,60351,South,PROD-52917,Office Supplies,Binders,Binders Item 479,697.14,10,0.1,171.46
+ORD-100129,1/24/2019,1/27/2019,Second Class,CUST-1263,Reese Thomas,Home Office,San Diego,CA,13037,East,PROD-41552,Furniture,Furnishings,Furnishings Item 111,2164.3,10,0,59.51
+ORD-100130,4/14/2018,4/19/2018,Second Class,CUST-1451,Emerson Martinez,Consumer,Columbus,OH,24089,South,PROD-57943,Office Supplies,Writing,Writing Item 392,49.42,7,0,22.24
+ORD-100131,3/31/2020,4/1/2020,Standard Class,CUST-1099,Parker Moore,Consumer,San Antonio,TX,76093,South,PROD-91689,Technology,Copiers,Copiers Item 349,19195.4,10,0,7701.38
+ORD-100132,7/18/2018,7/25/2018,Second Class,CUST-1173,Skyler Lopez,Corporate,Houston,TX,88966,South,PROD-15938,Technology,Phones,Phones Item 20,5896.12,3,0.1,1072.02
+ORD-100133,8/28/2020,9/6/2020,Second Class,CUST-1310,Rowan Jones,Consumer,San Jose,CA,51750,West,PROD-87820,Furniture,Tables,Tables Item 173,5506.14,9,0.1,1283.2
+ORD-100134,12/26/2020,1/3/2021,Standard Class,CUST-1153,Emerson Smith,Consumer,Austin,TX,24366,South,PROD-92478,Technology,Copiers,Copiers Item 14,23896.5,10,0,3026.73
+ORD-100135,4/12/2019,4/13/2019,Standard Class,CUST-1087,Rowan Martin,Corporate,San Antonio,TX,29369,West,PROD-24404,Office Supplies,Envelopes,Envelopes Item 98,9.69,1,0,-0.2
+ORD-100136,5/7/2020,5/10/2020,Second Class,CUST-1104,Kendall Taylor,Corporate,Fort Worth,TX,71814,East,PROD-77984,Technology,Accessories,Accessories Item 107,859.95,9,0,75.14
+ORD-100137,9/6/2020,9/15/2020,Second Class,CUST-1489,Jamie Anderson,Home Office,Philadelphia,PA,81601,Central,PROD-89963,Technology,Copiers,Copiers Item 248,1501.98,4,0.3,569.79
+ORD-100138,7/26/2019,8/4/2019,Second Class,CUST-1482,Quinn Martinez,Corporate,Jacksonville,FL,74094,Central,PROD-83464,Furniture,Tables,Tables Item 479,1775.25,5,0,387.24
+ORD-100139,2/17/2020,2/24/2020,Standard Class,CUST-1488,Casey Martinez,Consumer,Jacksonville,FL,20358,Central,PROD-72793,Furniture,Tables,Tables Item 110,5196.46,4,0.1,-69.98
+ORD-100140,7/10/2019,7/19/2019,Standard Class,CUST-1070,Morgan Martin,Corporate,Houston,TX,41779,East,PROD-93616,Technology,Accessories,Accessories Item 120,1987.39,1,0,447.71
+ORD-100141,11/8/2019,11/16/2019,First Class,CUST-1394,Casey Smith,Home Office,Fort Worth,TX,30701,South,PROD-72580,Technology,Machines,Machines Item 334,6634.55,4,0.1,2508.94
+ORD-100142,8/12/2019,8/18/2019,Second Class,CUST-1030,Jordan Jackson,Consumer,Jacksonville,FL,14888,West,PROD-14763,Furniture,Bookcases,Bookcases Item 429,5469.79,7,0.1,504.92
+ORD-100143,1/17/2019,1/22/2019,Standard Class,CUST-1004,Quinn Jackson,Corporate,Fort Worth,TX,53914,Central,PROD-27589,Furniture,Furnishings,Furnishings Item 436,13750.2,9,0,363.14
+ORD-100144,1/30/2019,2/1/2019,Second Class,CUST-1374,Reese Rodriguez,Corporate,New York,NY,54185,Central,PROD-33002,Technology,Accessories,Accessories Item 313,396.21,7,0.1,60.03
+ORD-100145,11/21/2020,11/27/2020,First Class,CUST-1342,Morgan Garcia,Home Office,San Diego,CA,52415,West,PROD-60275,Office Supplies,Writing,Writing Item 121,83.45,8,0.1,33.77
+ORD-100146,11/7/2019,11/12/2019,Standard Class,CUST-1293,Alex Rodriguez,Corporate,Jacksonville,FL,40972,East,PROD-71000,Technology,Phones,Phones Item 158,4455.06,3,0,109.63
+ORD-100147,10/26/2020,10/31/2020,Standard Class,CUST-1327,Quinn Lopez,Corporate,Houston,TX,27507,South,PROD-89395,Office Supplies,Labels,Labels Item 192,280.48,7,0.1,46.95
+ORD-100148,8/22/2020,8/31/2020,Standard Class,CUST-1422,Riley Davis,Corporate,San Jose,CA,20730,South,PROD-20237,Technology,Copiers,Copiers Item 470,12075.4,10,0,4409.55
+ORD-100149,11/1/2020,11/5/2020,Standard Class,CUST-1076,Jamie Hernandez,Home Office,San Diego,CA,25235,West,PROD-21919,Technology,Machines,Machines Item 461,1395.09,9,0,472.64
+ORD-100150,4/24/2018,5/2/2018,First Class,CUST-1212,Reese Jackson,Consumer,San Diego,CA,98181,Central,PROD-61897,Technology,Phones,Phones Item 131,1022.71,1,0.1,191.27
+ORD-100151,5/30/2018,5/31/2018,Second Class,CUST-1358,Jordan Moore,Home Office,Fort Worth,TX,19046,South,PROD-63591,Office Supplies,Writing,Writing Item 93,232.04,3,0.1,104.42
+ORD-100152,5/10/2020,5/16/2020,Same Day,CUST-1195,Reese Gonzalez,Consumer,Austin,TX,96742,West,PROD-25549,Technology,Copiers,Copiers Item 92,17846.19,9,0,2778.74
+ORD-100153,9/18/2018,9/22/2018,Standard Class,CUST-1387,Alex Martinez,Consumer,Jacksonville,FL,81361,South,PROD-40102,Technology,Machines,Machines Item 127,14124.88,8,0,2645.7
+ORD-100154,7/19/2019,7/23/2019,Standard Class,CUST-1371,Morgan Johnson,Corporate,San Antonio,TX,90599,East,PROD-18819,Office Supplies,Binders,Binders Item 52,941.4,10,0,-44.89
+ORD-100155,4/10/2018,4/14/2018,Standard Class,CUST-1205,Reese Davis,Consumer,San Francisco,CA,17398,West,PROD-40692,Technology,Copiers,Copiers Item 418,19370,10,0,6463.09
+ORD-100156,10/19/2019,10/23/2019,Second Class,CUST-1073,Rowan Davis,Consumer,Phoenix,AZ,17989,West,PROD-82856,Technology,Machines,Machines Item 254,969.91,1,0.3,254.53
+ORD-100157,2/20/2020,2/29/2020,Second Class,CUST-1213,Kendall Jones,Consumer,Chicago,IL,80507,South,PROD-49418,Office Supplies,Binders,Binders Item 440,107.57,3,0.1,20.28
+ORD-100158,4/29/2018,5/8/2018,Second Class,CUST-1213,Skyler Taylor,Consumer,Houston,TX,43422,West,PROD-68954,Furniture,Chairs,Chairs Item 434,11545.92,6,0,1404.31
+ORD-100159,1/26/2019,1/27/2019,Second Class,CUST-1344,Reese Martin,Consumer,Los Angeles,CA,34662,West,PROD-53642,Furniture,Bookcases,Bookcases Item 156,672,1,0,137.7
+ORD-100160,1/25/2019,1/27/2019,Standard Class,CUST-1386,Emerson Davis,Corporate,Jacksonville,FL,36805,South,PROD-52154,Office Supplies,Envelopes,Envelopes Item 398,424,5,0,44.66
+ORD-100161,12/28/2020,1/3/2021,Second Class,CUST-1184,Rowan Thomas,Consumer,San Francisco,CA,71537,Central,PROD-51015,Office Supplies,Writing,Writing Item 212,70.28,1,0,9.65
+ORD-100162,3/30/2019,4/2/2019,First Class,CUST-1283,Finley Jackson,Corporate,Phoenix,AZ,29976,West,PROD-59786,Furniture,Bookcases,Bookcases Item 292,5105.76,4,0,1140.84
+ORD-100163,11/23/2019,11/28/2019,Standard Class,CUST-1250,Emerson Anderson,Consumer,San Francisco,CA,56160,West,PROD-74004,Office Supplies,Envelopes,Envelopes Item 95,508.66,9,0.3,127.04
+ORD-100164,5/1/2018,5/10/2018,First Class,CUST-1433,Jordan Johnson,Corporate,San Antonio,TX,28021,West,PROD-11198,Office Supplies,Binders,Binders Item 112,266.76,9,0,65.68
+ORD-100165,5/4/2018,5/14/2018,Standard Class,CUST-1478,Reese Thomas,Corporate,New York,NY,10866,South,PROD-79391,Office Supplies,Paper,Paper Item 370,405.35,5,0,38.42
+ORD-100166,8/11/2019,8/12/2019,Standard Class,CUST-1357,Kendall Garcia,Consumer,Los Angeles,CA,78732,West,PROD-91235,Office Supplies,Binders,Binders Item 270,445.81,5,0.1,-15.39
+ORD-100167,7/2/2019,7/9/2019,First Class,CUST-1491,Hayden Anderson,Consumer,Jacksonville,FL,39603,Central,PROD-95686,Technology,Phones,Phones Item 440,2333.71,1,0,78.25
+ORD-100168,2/16/2020,2/23/2020,Standard Class,CUST-1028,Alex Garcia,Consumer,Columbus,OH,66873,Central,PROD-79226,Technology,Phones,Phones Item 471,1035.59,1,0,379.38
+ORD-100169,8/31/2020,9/5/2020,First Class,CUST-1038,Drew Moore,Consumer,New York,NY,33508,Central,PROD-86943,Office Supplies,Binders,Binders Item 74,425.32,7,0.2,54.13
+ORD-100170,9/5/2019,9/8/2019,Standard Class,CUST-1290,Hayden Moore,Consumer,San Francisco,CA,28343,East,PROD-17038,Technology,Copiers,Copiers Item 51,2291.17,7,0,415.75
+ORD-100171,6/5/2018,6/11/2018,Standard Class,CUST-1314,Reese Gonzalez,Home Office,Philadelphia,PA,13883,Central,PROD-39902,Furniture,Furnishings,Furnishings Item 183,11963.45,9,0.2,3489.88
+ORD-100172,6/3/2020,6/6/2020,Standard Class,CUST-1338,Hayden Williams,Corporate,Phoenix,AZ,42302,East,PROD-30214,Office Supplies,Writing,Writing Item 195,90.07,3,0.1,13.63
+ORD-100173,10/11/2019,10/17/2019,First Class,CUST-1002,Quinn Anderson,Consumer,Phoenix,AZ,23399,West,PROD-66489,Office Supplies,Binders,Binders Item 230,27.54,9,0,7.78
+ORD-100174,4/15/2020,4/17/2020,First Class,CUST-1181,Skyler Williams,Consumer,San Francisco,CA,52523,South,PROD-64238,Office Supplies,Writing,Writing Item 199,163.31,2,0.1,24.08
+ORD-100175,5/13/2019,5/23/2019,Standard Class,CUST-1350,Hayden Garcia,Consumer,Phoenix,AZ,45180,South,PROD-31916,Office Supplies,Paper,Paper Item 223,475.55,5,0,50.61
+ORD-100176,9/18/2020,9/20/2020,Second Class,CUST-1483,Cameron Thomas,Consumer,Houston,TX,70012,East,PROD-10887,Office Supplies,Writing,Writing Item 486,666.12,7,0,272.76
+ORD-100177,2/18/2020,2/24/2020,Second Class,CUST-1220,Reese Jones,Consumer,San Jose,CA,36326,South,PROD-62198,Furniture,Bookcases,Bookcases Item 496,5546.82,6,0,1707.46
+ORD-100178,10/2/2020,10/12/2020,Standard Class,CUST-1166,Hayden Rodriguez,Corporate,San Antonio,TX,57843,East,PROD-87624,Technology,Accessories,Accessories Item 280,2413.18,3,0.1,783.3
+ORD-100179,2/25/2018,3/5/2018,Standard Class,CUST-1107,Reese Martinez,Corporate,Los Angeles,CA,63627,South,PROD-41722,Office Supplies,Writing,Writing Item 130,204.47,3,0.1,7.44
+ORD-100180,2/12/2020,2/14/2020,Second Class,CUST-1306,Emerson Jackson,Consumer,Dallas,TX,64827,East,PROD-24335,Furniture,Chairs,Chairs Item 394,5736.89,4,0.1,551.33
+ORD-100181,12/29/2019,1/1/2020,Standard Class,CUST-1022,Finley Gonzalez,Home Office,Philadelphia,PA,66420,East,PROD-43913,Office Supplies,Paper,Paper Item 114,452.39,9,0.1,80.95
+ORD-100182,3/29/2019,4/6/2019,Second Class,CUST-1237,Finley Taylor,Consumer,New York,NY,73277,East,PROD-21253,Furniture,Furnishings,Furnishings Item 60,2732.94,3,0,390.56
+ORD-100183,12/4/2019,12/12/2019,Standard Class,CUST-1266,Emerson Lopez,Consumer,San Diego,CA,69303,Central,PROD-15856,Office Supplies,Writing,Writing Item 415,26.94,2,0,7.45
+ORD-100184,12/4/2019,12/6/2019,Standard Class,CUST-1084,Cameron Taylor,Consumer,Chicago,IL,53383,South,PROD-63090,Furniture,Bookcases,Bookcases Item 323,986.49,3,0,250.23
+ORD-100185,6/4/2020,6/11/2020,First Class,CUST-1314,Riley Anderson,Consumer,San Antonio,TX,10583,West,PROD-18200,Office Supplies,Writing,Writing Item 296,21.44,2,0.1,7.35
+ORD-100186,1/18/2019,1/24/2019,Second Class,CUST-1234,Morgan Rodriguez,Corporate,San Diego,CA,79168,Central,PROD-90125,Technology,Machines,Machines Item 201,2706.4,10,0,346.43
+ORD-100187,12/22/2019,12/30/2019,Standard Class,CUST-1416,Quinn Martin,Consumer,Austin,TX,27556,Central,PROD-50026,Office Supplies,Binders,Binders Item 60,247.62,3,0,50.63
+ORD-100188,10/17/2018,10/26/2018,Second Class,CUST-1305,Casey Jackson,Consumer,Chicago,IL,73788,West,PROD-74178,Technology,Accessories,Accessories Item 148,6373.8,3,0,2030.2
+ORD-100189,7/12/2020,7/22/2020,First Class,CUST-1183,Alex Thomas,Consumer,Columbus,OH,60324,South,PROD-64477,Furniture,Furnishings,Furnishings Item 364,15177.04,8,0,1862.44
+ORD-100190,6/19/2018,6/29/2018,First Class,CUST-1389,Cameron Martinez,Consumer,Houston,TX,80465,Central,PROD-84140,Office Supplies,Labels,Labels Item 381,789.04,8,0,79.13
+ORD-100191,8/20/2018,8/30/2018,First Class,CUST-1396,Skyler Lopez,Consumer,San Francisco,CA,15453,South,PROD-65725,Technology,Accessories,Accessories Item 53,1075.32,4,0,369.06
+ORD-100192,3/8/2018,3/16/2018,Second Class,CUST-1441,Jordan Anderson,Home Office,Los Angeles,CA,41056,West,PROD-89988,Technology,Copiers,Copiers Item 324,16351.3,7,0,-1053.83
+ORD-100193,10/13/2018,10/17/2018,Standard Class,CUST-1412,Taylor Jackson,Consumer,Phoenix,AZ,88231,West,PROD-47923,Furniture,Tables,Tables Item 294,6360.86,5,0.3,2343.37
+ORD-100194,11/19/2020,11/21/2020,First Class,CUST-1384,Kendall Johnson,Home Office,Columbus,OH,95969,West,PROD-42725,Technology,Accessories,Accessories Item 75,1897.4,6,0.1,272.7
+ORD-100195,3/15/2020,3/23/2020,First Class,CUST-1323,Drew Wilson,Consumer,Los Angeles,CA,93050,East,PROD-58374,Furniture,Tables,Tables Item 233,7711.12,8,0,1383.78
+ORD-100196,1/6/2018,1/8/2018,Standard Class,CUST-1234,Parker Williams,Corporate,San Antonio,TX,38551,South,PROD-45197,Office Supplies,Labels,Labels Item 166,37.6,5,0,12.5
+ORD-100197,9/25/2018,10/5/2018,Standard Class,CUST-1403,Avery Johnson,Consumer,Austin,TX,70238,East,PROD-67840,Office Supplies,Binders,Binders Item 234,41.42,1,0.3,11.29
+ORD-100198,5/26/2020,5/30/2020,Same Day,CUST-1465,Casey Martinez,Consumer,Fort Worth,TX,45916,East,PROD-42819,Technology,Copiers,Copiers Item 43,15591.26,6,0.1,101.76
+ORD-100199,12/5/2018,12/6/2018,Second Class,CUST-1156,Cameron Wilson,Corporate,Jacksonville,FL,22475,East,PROD-20215,Office Supplies,Labels,Labels Item 68,871.2,10,0,68.57
+ORD-100200,6/30/2020,7/1/2020,First Class,CUST-1175,Morgan Wilson,Corporate,San Diego,CA,19283,West,PROD-23425,Furniture,Chairs,Chairs Item 53,2916.06,6,0,549.26
+ORD-100201,9/5/2019,9/8/2019,Second Class,CUST-1416,Casey Jones,Consumer,San Jose,CA,11110,West,PROD-37925,Furniture,Tables,Tables Item 322,4767.07,3,0.2,1420.68
+ORD-100202,6/25/2020,6/29/2020,First Class,CUST-1051,Casey Brown,Consumer,San Antonio,TX,56076,South,PROD-42477,Furniture,Bookcases,Bookcases Item 142,387.8,2,0,91.84
+ORD-100203,8/7/2019,8/8/2019,Standard Class,CUST-1337,Quinn Miller,Consumer,Dallas,TX,34726,South,PROD-41370,Furniture,Chairs,Chairs Item 254,7490.28,7,0,1397.1
+ORD-100204,10/20/2020,10/30/2020,First Class,CUST-1455,Alex Lopez,Home Office,Chicago,IL,60703,South,PROD-71736,Furniture,Bookcases,Bookcases Item 489,2554.66,2,0,327.42
+ORD-100205,5/19/2018,5/20/2018,Second Class,CUST-1020,Taylor Gonzalez,Consumer,Austin,TX,75673,South,PROD-20803,Furniture,Furnishings,Furnishings Item 328,11463.66,9,0,4622.1
+ORD-100206,11/9/2018,11/14/2018,First Class,CUST-1040,Rowan Miller,Home Office,Chicago,IL,80305,Central,PROD-50654,Furniture,Chairs,Chairs Item 358,7493.28,7,0.1,1249.04
+ORD-100207,5/4/2019,5/5/2019,First Class,CUST-1473,Kendall Brown,Consumer,San Jose,CA,17212,Central,PROD-25655,Technology,Accessories,Accessories Item 7,5043.6,3,0.1,1498.74
+ORD-100208,12/2/2018,12/10/2018,Same Day,CUST-1267,Rowan Rodriguez,Consumer,Chicago,IL,45227,East,PROD-66272,Office Supplies,Writing,Writing Item 140,262.62,9,0,42.3
+ORD-100209,6/7/2018,6/15/2018,Second Class,CUST-1184,Taylor Thomas,Home Office,Chicago,IL,58193,West,PROD-85223,Furniture,Chairs,Chairs Item 346,1478.08,2,0,25.71
+ORD-100210,11/8/2020,11/9/2020,First Class,CUST-1441,Alex Davis,Consumer,Philadelphia,PA,60197,West,PROD-82465,Office Supplies,Paper,Paper Item 412,414.4,7,0,-20.52
+ORD-100211,5/24/2019,5/31/2019,Standard Class,CUST-1163,Drew Williams,Consumer,Los Angeles,CA,75803,East,PROD-77603,Office Supplies,Binders,Binders Item 24,572.25,7,0,127.9
+ORD-100212,8/10/2020,8/15/2020,Standard Class,CUST-1159,Avery Williams,Consumer,New York,NY,58354,West,PROD-91620,Furniture,Tables,Tables Item 125,11081.84,8,0,2981.41
+ORD-100213,10/7/2020,10/11/2020,Standard Class,CUST-1279,Cameron Jones,Consumer,San Antonio,TX,13133,West,PROD-93354,Technology,Copiers,Copiers Item 430,886.45,1,0.3,316.64
+ORD-100214,1/3/2018,1/10/2018,Standard Class,CUST-1372,Quinn Brown,Consumer,Houston,TX,65026,South,PROD-46677,Office Supplies,Binders,Binders Item 48,74.73,1,0.2,12.79
+ORD-100215,11/30/2020,12/7/2020,Standard Class,CUST-1190,Reese Williams,Consumer,Dallas,TX,27499,South,PROD-84425,Office Supplies,Envelopes,Envelopes Item 32,513.01,7,0.1,74.97
+ORD-100216,9/25/2018,9/29/2018,Second Class,CUST-1435,Avery Gonzalez,Corporate,Jacksonville,FL,52762,Central,PROD-40619,Furniture,Tables,Tables Item 39,7900.76,4,0,1702.28
+ORD-100217,8/12/2018,8/15/2018,First Class,CUST-1230,Reese Hernandez,Consumer,Dallas,TX,56961,West,PROD-70731,Furniture,Tables,Tables Item 136,1585.48,2,0,76.61
+ORD-100218,9/16/2019,9/26/2019,First Class,CUST-1427,Avery Jones,Consumer,Houston,TX,56627,South,PROD-98759,Technology,Phones,Phones Item 154,13096.53,5,0.1,2790.56
+ORD-100219,12/23/2018,12/24/2018,Same Day,CUST-1437,Reese Moore,Corporate,Houston,TX,22415,South,PROD-25919,Office Supplies,Binders,Binders Item 7,43.14,1,0.1,9.21
+ORD-100220,4/1/2019,4/4/2019,First Class,CUST-1205,Parker Williams,Consumer,Phoenix,AZ,19828,East,PROD-94670,Office Supplies,Binders,Binders Item 228,127.95,3,0,21.36
+ORD-100221,11/11/2019,11/13/2019,First Class,CUST-1236,Taylor Garcia,Home Office,San Antonio,TX,61773,South,PROD-99550,Office Supplies,Labels,Labels Item 219,260.22,3,0,45.11
+ORD-100222,1/19/2019,1/24/2019,Second Class,CUST-1452,Casey Johnson,Corporate,San Jose,CA,42215,Central,PROD-82179,Furniture,Furnishings,Furnishings Item 246,1635.16,1,0,591.84
+ORD-100223,2/24/2020,2/27/2020,Second Class,CUST-1329,Rowan Davis,Corporate,San Francisco,CA,81258,East,PROD-72873,Furniture,Tables,Tables Item 279,15138.32,8,0,3292.51
+ORD-100224,10/25/2020,10/31/2020,Second Class,CUST-1092,Alex Hernandez,Consumer,New York,NY,46822,East,PROD-86544,Furniture,Tables,Tables Item 120,5120.43,3,0,729.34
+ORD-100225,5/9/2019,5/14/2019,Standard Class,CUST-1405,Taylor Davis,Consumer,San Francisco,CA,60911,Central,PROD-41005,Office Supplies,Binders,Binders Item 304,79.16,6,0.1,-0.94
+ORD-100226,1/5/2020,1/15/2020,First Class,CUST-1358,Parker Jackson,Consumer,San Jose,CA,34672,South,PROD-33010,Technology,Copiers,Copiers Item 252,2863.07,1,0,45.15
+ORD-100227,4/22/2019,5/2/2019,First Class,CUST-1269,Emerson Smith,Consumer,San Jose,CA,36406,West,PROD-52413,Furniture,Bookcases,Bookcases Item 31,1359.82,1,0,332.15
+ORD-100228,10/18/2018,10/20/2018,Standard Class,CUST-1440,Parker Williams,Consumer,Austin,TX,61851,East,PROD-52284,Furniture,Tables,Tables Item 70,3389.44,3,0.1,273.37
+ORD-100229,6/13/2020,6/21/2020,Standard Class,CUST-1089,Skyler Martin,Corporate,Houston,TX,97232,West,PROD-48602,Furniture,Tables,Tables Item 66,3670.84,3,0.1,526.9
+ORD-100230,3/12/2020,3/22/2020,First Class,CUST-1308,Avery Martin,Consumer,San Jose,CA,23645,South,PROD-20198,Office Supplies,Writing,Writing Item 122,222.56,6,0.3,43.13
+ORD-100231,12/10/2018,12/12/2018,Standard Class,CUST-1343,Avery Anderson,Consumer,Houston,TX,42707,East,PROD-24160,Furniture,Tables,Tables Item 369,1711.75,1,0,626.76
+ORD-100232,6/16/2020,6/23/2020,Same Day,CUST-1452,Kendall Thomas,Home Office,Philadelphia,PA,81568,South,PROD-85766,Office Supplies,Labels,Labels Item 334,224.36,4,0,68.02
+ORD-100233,5/31/2018,6/1/2018,Second Class,CUST-1163,Drew Brown,Consumer,Chicago,IL,59212,West,PROD-81702,Technology,Phones,Phones Item 483,2444.76,2,0,488.78
+ORD-100234,9/15/2020,9/16/2020,Second Class,CUST-1334,Jamie Martin,Home Office,Chicago,IL,17019,East,PROD-34901,Furniture,Bookcases,Bookcases Item 210,2521.77,9,0.1,904.52
+ORD-100235,6/28/2019,7/3/2019,Second Class,CUST-1049,Taylor Gonzalez,Consumer,Columbus,OH,74349,West,PROD-10500,Office Supplies,Writing,Writing Item 219,45.74,2,0,13.05
+ORD-100236,9/10/2020,9/14/2020,First Class,CUST-1105,Jamie Martinez,Home Office,San Diego,CA,25139,Central,PROD-74106,Furniture,Furnishings,Furnishings Item 459,1579.6,5,0,-43.76
+ORD-100237,3/4/2020,3/7/2020,Second Class,CUST-1195,Parker Garcia,Consumer,Phoenix,AZ,67637,South,PROD-45200,Furniture,Bookcases,Bookcases Item 289,903.08,1,0,319.08
+ORD-100238,7/18/2018,7/20/2018,Standard Class,CUST-1413,Skyler Wilson,Home Office,San Jose,CA,39820,East,PROD-80190,Furniture,Furnishings,Furnishings Item 352,14504.88,8,0,2959.23
+ORD-100239,4/28/2019,5/6/2019,Second Class,CUST-1202,Taylor Taylor,Consumer,Dallas,TX,84905,West,PROD-32659,Office Supplies,Labels,Labels Item 486,165.48,3,0.3,-13.32
+ORD-100240,1/30/2019,2/2/2019,First Class,CUST-1040,Kendall Miller,Home Office,Austin,TX,29382,Central,PROD-21406,Furniture,Chairs,Chairs Item 199,7409.34,9,0,2206.4
+ORD-100241,10/30/2019,11/4/2019,Standard Class,CUST-1469,Alex Martin,Consumer,San Francisco,CA,64997,East,PROD-29424,Furniture,Bookcases,Bookcases Item 291,19015.7,10,0,4177.45
+ORD-100242,7/25/2018,7/27/2018,Standard Class,CUST-1051,Quinn Moore,Home Office,Fort Worth,TX,63856,Central,PROD-84976,Furniture,Furnishings,Furnishings Item 312,2694.32,8,0,480.22
+ORD-100243,7/19/2019,7/26/2019,First Class,CUST-1311,Hayden Johnson,Consumer,Fort Worth,TX,53449,West,PROD-45203,Office Supplies,Labels,Labels Item 460,163.86,6,0,45.15
+ORD-100244,9/13/2019,9/18/2019,Second Class,CUST-1251,Morgan Davis,Consumer,Jacksonville,FL,68079,Central,PROD-89295,Furniture,Furnishings,Furnishings Item 331,1890.62,2,0,338.91
+ORD-100245,3/9/2019,3/16/2019,Standard Class,CUST-1388,Rowan Lopez,Corporate,Dallas,TX,30836,East,PROD-27779,Furniture,Furnishings,Furnishings Item 400,4975.7,9,0.2,1136.32
+ORD-100246,3/1/2018,3/4/2018,First Class,CUST-1426,Riley Johnson,Consumer,San Diego,CA,16626,Central,PROD-45910,Technology,Accessories,Accessories Item 189,15260.24,8,0,2521.76
+ORD-100247,9/11/2018,9/12/2018,First Class,CUST-1250,Reese Anderson,Consumer,Columbus,OH,72204,Central,PROD-43903,Furniture,Bookcases,Bookcases Item 384,602.64,2,0,103.03
+ORD-100248,3/2/2020,3/3/2020,First Class,CUST-1292,Riley Davis,Corporate,Austin,TX,37096,Central,PROD-77276,Technology,Machines,Machines Item 11,401.58,1,0,19.22
+ORD-100249,9/28/2018,10/1/2018,Standard Class,CUST-1004,Cameron Rodriguez,Corporate,Phoenix,AZ,94245,Central,PROD-55706,Furniture,Furnishings,Furnishings Item 236,3620.25,5,0,863.5
+ORD-100250,9/11/2019,9/20/2019,Standard Class,CUST-1203,Finley Brown,Consumer,Austin,TX,59051,Central,PROD-73142,Furniture,Chairs,Chairs Item 33,7554.71,6,0.3,3222.92
+ORD-100251,10/28/2019,11/2/2019,Second Class,CUST-1364,Quinn Miller,Consumer,San Francisco,CA,41496,East,PROD-96577,Technology,Machines,Machines Item 164,1440.48,3,0.1,204.08
+ORD-100252,10/15/2020,10/20/2020,Second Class,CUST-1214,Hayden Gonzalez,Corporate,San Jose,CA,84978,West,PROD-99957,Furniture,Bookcases,Bookcases Item 274,2719.74,8,0.2,223.4
+ORD-100253,1/5/2020,1/14/2020,Second Class,CUST-1087,Skyler Garcia,Consumer,San Diego,CA,26769,Central,PROD-99091,Technology,Accessories,Accessories Item 461,1535.38,6,0.1,173.37
+ORD-100254,4/1/2019,4/7/2019,First Class,CUST-1446,Quinn Wilson,Corporate,Philadelphia,PA,58717,Central,PROD-70786,Technology,Copiers,Copiers Item 436,758.98,2,0,6
+ORD-100255,5/26/2018,6/3/2018,Standard Class,CUST-1256,Morgan Gonzalez,Consumer,San Antonio,TX,17086,West,PROD-54914,Office Supplies,Binders,Binders Item 210,301.6,10,0.2,47.36
+ORD-100256,7/26/2020,7/29/2020,Second Class,CUST-1366,Jamie Williams,Consumer,Austin,TX,33176,Central,PROD-10617,Technology,Phones,Phones Item 232,7600.9,5,0,1275.17
+ORD-100257,12/12/2018,12/22/2018,Standard Class,CUST-1250,Jordan Jones,Corporate,Austin,TX,66283,South,PROD-60242,Furniture,Furnishings,Furnishings Item 3,1608.85,1,0,297.73
+ORD-100258,2/4/2020,2/5/2020,Standard Class,CUST-1387,Rowan Miller,Consumer,New York,NY,92141,West,PROD-50906,Office Supplies,Writing,Writing Item 67,127.06,2,0,35.85
+ORD-100259,9/19/2019,9/22/2019,First Class,CUST-1023,Quinn Martinez,Consumer,Dallas,TX,88167,Central,PROD-54922,Furniture,Bookcases,Bookcases Item 462,12072.88,8,0,1274.37
+ORD-100260,1/21/2019,1/24/2019,Standard Class,CUST-1470,Hayden Smith,Consumer,Jacksonville,FL,27197,West,PROD-87292,Technology,Phones,Phones Item 259,1709.61,3,0,195.45
+ORD-100261,3/18/2018,3/25/2018,Standard Class,CUST-1130,Skyler Martin,Consumer,New York,NY,96765,East,PROD-16322,Technology,Phones,Phones Item 354,2927.76,2,0,95.54
+ORD-100262,2/18/2020,2/20/2020,Standard Class,CUST-1242,Casey Miller,Corporate,Austin,TX,11219,Central,PROD-96832,Furniture,Chairs,Chairs Item 267,6278,5,0,658.04
+ORD-100263,10/8/2018,10/15/2018,Standard Class,CUST-1053,Rowan Martin,Consumer,Los Angeles,CA,23928,South,PROD-36181,Office Supplies,Envelopes,Envelopes Item 399,338.62,5,0.1,-28.12
+ORD-100264,2/18/2019,2/24/2019,Standard Class,CUST-1151,Jamie Johnson,Consumer,Fort Worth,TX,37222,South,PROD-10358,Furniture,Bookcases,Bookcases Item 7,194.45,2,0.2,54.87
+ORD-100265,10/8/2020,10/11/2020,Standard Class,CUST-1399,Rowan Williams,Corporate,Los Angeles,CA,43540,West,PROD-44619,Furniture,Tables,Tables Item 238,1795.65,1,0,110.34
+ORD-100266,12/24/2018,12/25/2018,Standard Class,CUST-1184,Avery Wilson,Corporate,Los Angeles,CA,16014,East,PROD-53078,Office Supplies,Binders,Binders Item 184,291.98,8,0.3,18.49
+ORD-100267,7/4/2019,7/6/2019,Second Class,CUST-1175,Jamie Brown,Consumer,San Diego,CA,45629,South,PROD-65278,Technology,Machines,Machines Item 333,4059.87,3,0,769.5
+ORD-100268,5/1/2018,5/4/2018,First Class,CUST-1466,Finley Thomas,Corporate,Austin,TX,67430,West,PROD-57002,Technology,Machines,Machines Item 314,1285.76,1,0.2,106.38
+ORD-100269,9/25/2018,10/3/2018,Standard Class,CUST-1057,Kendall Anderson,Consumer,Phoenix,AZ,95848,Central,PROD-85582,Office Supplies,Envelopes,Envelopes Item 371,389.7,10,0,27.85
+ORD-100270,11/24/2019,12/3/2019,Standard Class,CUST-1358,Reese Brown,Consumer,Jacksonville,FL,42581,South,PROD-29484,Furniture,Furnishings,Furnishings Item 430,641.81,9,0.2,33.79
+ORD-100271,4/22/2018,4/23/2018,Standard Class,CUST-1080,Rowan Thomas,Home Office,Columbus,OH,31679,East,PROD-41574,Furniture,Tables,Tables Item 170,3443.1,5,0,349.39
+ORD-100272,4/2/2019,4/11/2019,Standard Class,CUST-1206,Cameron Williams,Consumer,San Francisco,CA,85108,South,PROD-68598,Office Supplies,Labels,Labels Item 162,19.24,2,0.3,3.97
+ORD-100273,2/6/2018,2/8/2018,Second Class,CUST-1018,Skyler Moore,Consumer,Los Angeles,CA,89194,Central,PROD-95799,Technology,Accessories,Accessories Item 344,11444.83,8,0.3,3310.62
+ORD-100274,1/15/2020,1/16/2020,Standard Class,CUST-1432,Reese Hernandez,Consumer,San Jose,CA,88636,South,PROD-69314,Technology,Copiers,Copiers Item 59,4269.11,2,0.1,320.71
+ORD-100275,3/31/2019,4/1/2019,Second Class,CUST-1424,Quinn Moore,Consumer,Jacksonville,FL,23935,East,PROD-28408,Office Supplies,Labels,Labels Item 421,382.48,7,0,68.7
+ORD-100276,2/6/2019,2/10/2019,First Class,CUST-1436,Hayden Miller,Consumer,San Francisco,CA,34979,Central,PROD-16094,Office Supplies,Labels,Labels Item 475,595.1,10,0,75.66
+ORD-100277,7/11/2020,7/19/2020,Standard Class,CUST-1489,Rowan Jones,Home Office,New York,NY,79515,East,PROD-86692,Technology,Machines,Machines Item 248,3241.54,9,0.1,1198.87
+ORD-100278,12/29/2018,1/8/2019,First Class,CUST-1417,Casey Brown,Consumer,San Jose,CA,89450,Central,PROD-64875,Technology,Machines,Machines Item 312,3462.6,4,0,1203.21
+ORD-100279,12/4/2019,12/9/2019,Second Class,CUST-1068,Casey Wilson,Corporate,Fort Worth,TX,77147,Central,PROD-82559,Technology,Copiers,Copiers Item 324,6883.68,4,0,157.24
+ORD-100280,8/19/2019,8/25/2019,Standard Class,CUST-1067,Jamie Taylor,Consumer,Austin,TX,52255,East,PROD-86389,Furniture,Furnishings,Furnishings Item 293,4689.66,7,0.1,859.72
+ORD-100281,12/29/2020,1/3/2021,Standard Class,CUST-1216,Alex Taylor,Consumer,San Antonio,TX,29048,East,PROD-36201,Technology,Phones,Phones Item 137,1526.57,3,0.3,298.11
+ORD-100282,5/29/2019,6/1/2019,Standard Class,CUST-1353,Quinn Miller,Corporate,New York,NY,57013,South,PROD-98542,Office Supplies,Envelopes,Envelopes Item 379,86.18,9,0.2,10.77
+ORD-100283,3/7/2020,3/11/2020,Standard Class,CUST-1407,Quinn Johnson,Home Office,San Antonio,TX,64600,Central,PROD-11699,Technology,Phones,Phones Item 381,2494.15,5,0,261.59
+ORD-100284,6/26/2020,6/30/2020,Standard Class,CUST-1360,Parker Jackson,Consumer,San Jose,CA,35751,West,PROD-33255,Furniture,Furnishings,Furnishings Item 350,827.62,2,0,66.68
+ORD-100285,12/22/2018,12/31/2018,First Class,CUST-1020,Kendall Rodriguez,Consumer,Chicago,IL,31093,Central,PROD-71122,Office Supplies,Writing,Writing Item 364,269.64,3,0,30.9
+ORD-100286,10/23/2019,11/2/2019,First Class,CUST-1477,Reese Martinez,Consumer,San Jose,CA,82110,Central,PROD-78864,Office Supplies,Writing,Writing Item 113,29.58,3,0,-3.56
+ORD-100287,10/31/2020,11/3/2020,Second Class,CUST-1274,Hayden Williams,Consumer,Fort Worth,TX,37964,Central,PROD-48479,Furniture,Tables,Tables Item 112,19656.4,10,0,5153.06
+ORD-100288,1/19/2018,1/21/2018,Standard Class,CUST-1228,Cameron Martin,Home Office,Houston,TX,15226,Central,PROD-60577,Furniture,Chairs,Chairs Item 132,2174.69,9,0.1,493.29
+ORD-100289,2/20/2018,3/1/2018,Standard Class,CUST-1191,Rowan Taylor,Consumer,New York,NY,48854,West,PROD-22577,Furniture,Chairs,Chairs Item 86,15639.66,9,0,2655.79
+ORD-100290,5/15/2018,5/19/2018,Standard Class,CUST-1396,Riley Wilson,Corporate,Houston,TX,80484,South,PROD-99921,Technology,Phones,Phones Item 79,2454.87,1,0,228.6
+ORD-100291,11/11/2019,11/12/2019,First Class,CUST-1027,Jamie Rodriguez,Consumer,San Jose,CA,39837,Central,PROD-69129,Furniture,Furnishings,Furnishings Item 323,9476.95,7,0,1100.18
+ORD-100292,2/4/2018,2/11/2018,Standard Class,CUST-1273,Alex Martin,Consumer,Jacksonville,FL,86756,East,PROD-56884,Technology,Phones,Phones Item 476,25105.86,9,0,10674.97
+ORD-100293,9/10/2019,9/20/2019,First Class,CUST-1391,Reese Gonzalez,Consumer,Austin,TX,14039,South,PROD-38818,Office Supplies,Envelopes,Envelopes Item 70,185.47,7,0.1,69.43
+ORD-100294,8/28/2019,8/31/2019,Second Class,CUST-1454,Parker Smith,Consumer,Dallas,TX,28530,East,PROD-85067,Office Supplies,Paper,Paper Item 306,541.87,7,0,60.83
+ORD-100295,6/24/2018,6/29/2018,First Class,CUST-1379,Parker Miller,Consumer,Austin,TX,77181,West,PROD-38939,Office Supplies,Binders,Binders Item 316,218.45,5,0,13.05
+ORD-100296,1/7/2019,1/17/2019,Standard Class,CUST-1435,Skyler Anderson,Corporate,Los Angeles,CA,48096,East,PROD-35875,Furniture,Chairs,Chairs Item 372,10398.4,10,0,1299.44
+ORD-100297,11/9/2019,11/15/2019,First Class,CUST-1335,Cameron Brown,Consumer,Los Angeles,CA,35362,Central,PROD-53036,Furniture,Furnishings,Furnishings Item 316,5583.2,5,0.1,799.48
+ORD-100298,11/9/2018,11/19/2018,Standard Class,CUST-1413,Avery Wilson,Consumer,Philadelphia,PA,42266,West,PROD-46264,Technology,Machines,Machines Item 431,5280.72,6,0,228.67
+ORD-100299,11/11/2019,11/19/2019,Second Class,CUST-1183,Quinn Thomas,Consumer,Chicago,IL,94613,East,PROD-80597,Furniture,Bookcases,Bookcases Item 101,4446.99,5,0.1,943.34
+ORD-100300,6/6/2018,6/8/2018,Standard Class,CUST-1434,Rowan Smith,Corporate,San Jose,CA,63101,West,PROD-44159,Office Supplies,Envelopes,Envelopes Item 279,487.71,9,0,79.09
+ORD-100301,11/1/2018,11/7/2018,Second Class,CUST-1456,Finley Martinez,Consumer,Dallas,TX,76900,East,PROD-75820,Furniture,Tables,Tables Item 6,1123.6,4,0.1,147.31
+ORD-100302,12/6/2018,12/15/2018,First Class,CUST-1081,Jamie Jackson,Home Office,Austin,TX,29162,South,PROD-38681,Furniture,Chairs,Chairs Item 390,1388.64,8,0,149.65
+ORD-100303,6/26/2019,7/2/2019,First Class,CUST-1342,Riley Taylor,Home Office,Philadelphia,PA,60868,South,PROD-15230,Furniture,Chairs,Chairs Item 333,8273.58,6,0,2244.04
+ORD-100304,12/3/2020,12/8/2020,Standard Class,CUST-1134,Finley Moore,Consumer,San Antonio,TX,95678,South,PROD-77720,Furniture,Chairs,Chairs Item 129,7508.96,7,0.3,699.83
+ORD-100305,4/2/2019,4/11/2019,Second Class,CUST-1418,Parker Thomas,Corporate,Fort Worth,TX,89195,East,PROD-67658,Technology,Accessories,Accessories Item 85,4989.16,4,0,2245.12
+ORD-100306,7/30/2019,8/3/2019,First Class,CUST-1080,Parker Martin,Corporate,Los Angeles,CA,96652,West,PROD-24855,Furniture,Tables,Tables Item 247,5842.32,8,0,1170.61
+ORD-100307,11/27/2018,12/4/2018,First Class,CUST-1022,Casey Jackson,Consumer,Chicago,IL,92515,East,PROD-17328,Technology,Accessories,Accessories Item 86,2240.28,5,0.2,427.28
+ORD-100308,11/24/2020,12/1/2020,Standard Class,CUST-1288,Alex Martinez,Home Office,Houston,TX,68877,South,PROD-38752,Furniture,Bookcases,Bookcases Item 426,1257.69,7,0,300.04
+ORD-100309,1/8/2019,1/18/2019,Standard Class,CUST-1135,Jamie Hernandez,Home Office,San Jose,CA,87410,East,PROD-60523,Office Supplies,Labels,Labels Item 68,169,2,0,62.47
+ORD-100310,12/6/2020,12/15/2020,Standard Class,CUST-1423,Casey Martin,Consumer,San Diego,CA,90576,East,PROD-22214,Technology,Phones,Phones Item 247,1047.65,3,0.2,113.84
+ORD-100311,1/3/2018,1/10/2018,Standard Class,CUST-1189,Taylor Taylor,Consumer,San Francisco,CA,73192,South,PROD-65769,Furniture,Chairs,Chairs Item 69,1845.65,5,0,462.52
+ORD-100312,4/22/2019,4/24/2019,Second Class,CUST-1448,Skyler Wilson,Consumer,New York,NY,10932,East,PROD-59155,Technology,Phones,Phones Item 336,1834.24,4,0.1,449.79
+ORD-100313,10/9/2019,10/16/2019,Second Class,CUST-1079,Kendall Jackson,Consumer,Columbus,OH,80268,South,PROD-90200,Technology,Copiers,Copiers Item 142,9946,7,0.1,3025.48
+ORD-100314,4/26/2020,5/5/2020,Standard Class,CUST-1247,Jamie Lopez,Consumer,San Diego,CA,43263,Central,PROD-62183,Technology,Copiers,Copiers Item 377,2614.34,3,0.2,385.81
+ORD-100315,9/1/2018,9/5/2018,Second Class,CUST-1358,Jamie Brown,Consumer,San Antonio,TX,54359,East,PROD-93345,Office Supplies,Labels,Labels Item 3,147.65,2,0.1,43.37
+ORD-100316,8/23/2020,9/2/2020,Second Class,CUST-1032,Drew Davis,Consumer,San Jose,CA,14948,South,PROD-88311,Furniture,Tables,Tables Item 30,2718.93,3,0,268.71
+ORD-100317,6/18/2020,6/19/2020,First Class,CUST-1336,Rowan Martinez,Consumer,San Francisco,CA,88579,West,PROD-98345,Technology,Accessories,Accessories Item 19,5508.66,6,0,-482.78
+ORD-100318,1/1/2018,1/4/2018,First Class,CUST-1141,Hayden Lopez,Corporate,San Antonio,TX,86818,West,PROD-18993,Technology,Phones,Phones Item 471,4495.76,2,0,-43.3
+ORD-100319,12/14/2019,12/20/2019,Same Day,CUST-1141,Cameron Martin,Home Office,San Diego,CA,62947,East,PROD-63363,Furniture,Bookcases,Bookcases Item 260,3608.34,2,0,656.45
+ORD-100320,10/27/2020,11/1/2020,Second Class,CUST-1059,Rowan Rodriguez,Home Office,Columbus,OH,85352,Central,PROD-59424,Technology,Machines,Machines Item 289,8380.8,8,0.1,2406.04
+ORD-100321,11/27/2019,12/5/2019,Standard Class,CUST-1459,Finley Smith,Consumer,Phoenix,AZ,18854,South,PROD-98724,Technology,Accessories,Accessories Item 360,6768.83,4,0.1,1296.06
+ORD-100322,4/24/2020,4/30/2020,Standard Class,CUST-1004,Drew Davis,Consumer,San Antonio,TX,98302,Central,PROD-33394,Office Supplies,Envelopes,Envelopes Item 244,80.76,6,0,16.14
+ORD-100323,7/6/2019,7/9/2019,Standard Class,CUST-1349,Riley Thomas,Corporate,Houston,TX,41726,Central,PROD-36577,Office Supplies,Binders,Binders Item 428,125.35,4,0.1,31.12
+ORD-100324,12/31/2019,1/3/2020,Standard Class,CUST-1061,Jordan Thomas,Corporate,San Francisco,CA,80972,East,PROD-91352,Furniture,Tables,Tables Item 162,2058.11,8,0.2,496.26
+ORD-100325,7/17/2019,7/25/2019,First Class,CUST-1391,Rowan Rodriguez,Consumer,San Francisco,CA,85584,West,PROD-65466,Office Supplies,Envelopes,Envelopes Item 245,488.52,9,0,161.05
+ORD-100326,12/13/2019,12/20/2019,Standard Class,CUST-1397,Jamie Anderson,Home Office,Jacksonville,FL,77922,South,PROD-11549,Furniture,Chairs,Chairs Item 346,7172.36,4,0,871.53
+ORD-100327,7/26/2018,8/1/2018,Second Class,CUST-1441,Drew Garcia,Consumer,Houston,TX,45311,South,PROD-57962,Technology,Copiers,Copiers Item 95,7591.44,8,0,1734.33
+ORD-100328,5/8/2020,5/14/2020,Second Class,CUST-1205,Drew Anderson,Consumer,Chicago,IL,85483,West,PROD-40907,Office Supplies,Writing,Writing Item 285,147.56,7,0.2,53.29
+ORD-100329,2/6/2019,2/9/2019,Standard Class,CUST-1378,Casey Thomas,Corporate,Chicago,IL,65249,South,PROD-79990,Office Supplies,Envelopes,Envelopes Item 369,474.77,6,0.1,108.36
+ORD-100330,9/7/2019,9/12/2019,Standard Class,CUST-1290,Taylor Gonzalez,Consumer,Chicago,IL,17869,West,PROD-92557,Furniture,Furnishings,Furnishings Item 50,5162.83,8,0.1,1726.64
+ORD-100331,6/17/2019,6/23/2019,Second Class,CUST-1285,Drew Lopez,Consumer,Los Angeles,CA,56018,West,PROD-47304,Technology,Accessories,Accessories Item 182,2520.45,6,0.1,319.2
+ORD-100332,9/25/2020,10/3/2020,Standard Class,CUST-1195,Reese Martinez,Consumer,Chicago,IL,31964,Central,PROD-19351,Furniture,Furnishings,Furnishings Item 41,1491.12,3,0,440.87
+ORD-100333,10/5/2019,10/11/2019,Standard Class,CUST-1363,Drew Martin,Corporate,Phoenix,AZ,68313,Central,PROD-64262,Technology,Machines,Machines Item 86,4633.49,3,0.2,1375.34
+ORD-100334,9/14/2018,9/18/2018,Standard Class,CUST-1481,Jordan Miller,Consumer,Los Angeles,CA,22524,East,PROD-13455,Furniture,Chairs,Chairs Item 395,9822.4,7,0,-155.84
+ORD-100335,6/20/2018,6/22/2018,Second Class,CUST-1079,Jordan Gonzalez,Consumer,Houston,TX,47247,South,PROD-27206,Technology,Accessories,Accessories Item 270,3150.51,3,0,673.31
+ORD-100336,1/1/2020,1/7/2020,Standard Class,CUST-1239,Skyler Rodriguez,Consumer,Chicago,IL,80685,West,PROD-92712,Technology,Machines,Machines Item 384,5611.6,10,0,1124.96
+ORD-100337,12/29/2020,1/3/2021,Standard Class,CUST-1246,Skyler Davis,Corporate,San Diego,CA,50352,Central,PROD-30410,Furniture,Tables,Tables Item 156,831.66,1,0,233.09
+ORD-100338,10/7/2018,10/13/2018,Second Class,CUST-1273,Alex Thomas,Home Office,San Diego,CA,49270,East,PROD-88250,Furniture,Tables,Tables Item 119,950.91,1,0,191.76
+ORD-100339,1/22/2019,1/29/2019,Standard Class,CUST-1223,Hayden Davis,Consumer,Jacksonville,FL,94671,South,PROD-44469,Furniture,Bookcases,Bookcases Item 41,8696.38,7,0,3913.37
+ORD-100340,11/24/2020,12/4/2020,Standard Class,CUST-1350,Drew Martinez,Corporate,Dallas,TX,45235,South,PROD-33908,Office Supplies,Paper,Paper Item 70,18.85,5,0,7.42
+ORD-100341,7/21/2020,7/31/2020,Second Class,CUST-1358,Reese Thomas,Consumer,New York,NY,29942,East,PROD-34371,Technology,Phones,Phones Item 498,5538.1,2,0,1389.14
+ORD-100342,9/14/2018,9/22/2018,Standard Class,CUST-1119,Jordan Jones,Consumer,Houston,TX,54815,South,PROD-58679,Furniture,Furnishings,Furnishings Item 238,1429.12,1,0,300.16
+ORD-100343,10/27/2018,10/28/2018,Second Class,CUST-1200,Jordan Moore,Consumer,Houston,TX,42778,South,PROD-42631,Office Supplies,Paper,Paper Item 198,491.68,8,0,21.26
+ORD-100344,3/10/2018,3/14/2018,Second Class,CUST-1394,Morgan Taylor,Corporate,Houston,TX,71974,South,PROD-52344,Technology,Copiers,Copiers Item 82,1155.52,1,0.1,233.49
+ORD-100345,12/2/2020,12/4/2020,Second Class,CUST-1326,Quinn Miller,Consumer,New York,NY,97385,West,PROD-92956,Office Supplies,Binders,Binders Item 223,556.26,6,0,106.81
+ORD-100346,7/20/2019,7/30/2019,First Class,CUST-1404,Cameron Smith,Home Office,San Jose,CA,72294,West,PROD-42600,Furniture,Chairs,Chairs Item 81,7433.12,8,0,3344.9
+ORD-100347,11/25/2019,11/26/2019,First Class,CUST-1330,Casey Moore,Corporate,Chicago,IL,73942,West,PROD-67503,Furniture,Tables,Tables Item 376,3312.24,4,0,804.46
+ORD-100348,2/13/2020,2/19/2020,Standard Class,CUST-1128,Taylor Thomas,Corporate,Dallas,TX,48628,South,PROD-34461,Office Supplies,Envelopes,Envelopes Item 279,44.22,6,0,13.64
+ORD-100349,8/17/2020,8/22/2020,Standard Class,CUST-1306,Skyler Garcia,Consumer,Chicago,IL,68901,Central,PROD-69517,Furniture,Tables,Tables Item 1,531.27,9,0,58.47
+ORD-100350,1/15/2019,1/16/2019,Standard Class,CUST-1186,Reese Davis,Consumer,Los Angeles,CA,96283,South,PROD-99551,Office Supplies,Envelopes,Envelopes Item 255,312.12,9,0,88.1
+ORD-100351,8/3/2019,8/9/2019,Second Class,CUST-1164,Morgan Brown,Consumer,Los Angeles,CA,15737,West,PROD-36486,Office Supplies,Paper,Paper Item 55,737.2,8,0,-72.61
+ORD-100352,3/7/2018,3/17/2018,Standard Class,CUST-1198,Emerson Taylor,Corporate,San Jose,CA,43546,East,PROD-89423,Furniture,Bookcases,Bookcases Item 368,1450.74,2,0,482.25
+ORD-100353,3/4/2019,3/12/2019,Standard Class,CUST-1426,Jordan Anderson,Corporate,New York,NY,57307,South,PROD-90862,Furniture,Chairs,Chairs Item 137,8386.38,9,0,685.86
+ORD-100354,5/25/2018,5/30/2018,First Class,CUST-1110,Rowan Brown,Consumer,Houston,TX,79685,South,PROD-78969,Office Supplies,Binders,Binders Item 337,96.04,4,0,4.32
+ORD-100355,1/2/2019,1/11/2019,Standard Class,CUST-1212,Morgan Jackson,Consumer,San Diego,CA,97194,South,PROD-33644,Office Supplies,Binders,Binders Item 282,135.03,7,0,21.89
+ORD-100356,11/20/2018,11/29/2018,Same Day,CUST-1226,Parker Hernandez,Consumer,Philadelphia,PA,58722,South,PROD-52395,Technology,Machines,Machines Item 312,6020.56,4,0,1664.88
+ORD-100357,3/15/2019,3/22/2019,Standard Class,CUST-1474,Drew Lopez,Home Office,San Diego,CA,62047,East,PROD-47287,Technology,Phones,Phones Item 306,1099.93,1,0,177.24
+ORD-100358,9/11/2019,9/12/2019,Second Class,CUST-1113,Riley Hernandez,Consumer,Columbus,OH,46170,West,PROD-70341,Office Supplies,Paper,Paper Item 183,176.7,3,0,10.24
+ORD-100359,1/22/2020,2/1/2020,First Class,CUST-1131,Quinn Williams,Consumer,San Jose,CA,38499,East,PROD-73246,Technology,Copiers,Copiers Item 89,20764.73,8,0.1,5025.07
+ORD-100360,7/15/2018,7/25/2018,Standard Class,CUST-1019,Finley Gonzalez,Consumer,New York,NY,53829,Central,PROD-25799,Furniture,Furnishings,Furnishings Item 446,1223.6,4,0.1,102.91
+ORD-100361,1/24/2018,1/31/2018,First Class,CUST-1268,Taylor Hernandez,Consumer,Chicago,IL,52838,West,PROD-98294,Office Supplies,Paper,Paper Item 375,488.48,7,0.3,78.28
+ORD-100362,10/30/2020,11/1/2020,First Class,CUST-1148,Hayden Jones,Consumer,Los Angeles,CA,72371,East,PROD-44413,Technology,Machines,Machines Item 44,10615.78,7,0,1047.69
+ORD-100363,9/25/2018,9/28/2018,Second Class,CUST-1101,Emerson Gonzalez,Corporate,Houston,TX,83553,West,PROD-44898,Office Supplies,Paper,Paper Item 398,528.5,7,0,104.6
+ORD-100364,7/3/2018,7/5/2018,Standard Class,CUST-1216,Parker Lopez,Consumer,Philadelphia,PA,87840,East,PROD-55838,Furniture,Bookcases,Bookcases Item 316,3674.56,8,0,610.78
+ORD-100365,6/21/2020,6/22/2020,Standard Class,CUST-1119,Riley Lopez,Consumer,Jacksonville,FL,21247,East,PROD-41856,Technology,Phones,Phones Item 486,4706,10,0.2,934.63
+ORD-100366,8/13/2019,8/14/2019,Second Class,CUST-1411,Morgan Martinez,Consumer,New York,NY,53499,West,PROD-36712,Technology,Accessories,Accessories Item 280,1044.25,9,0.1,469.91
+ORD-100367,9/16/2020,9/26/2020,Standard Class,CUST-1072,Alex Gonzalez,Consumer,Austin,TX,79048,East,PROD-17878,Furniture,Bookcases,Bookcases Item 146,641.27,4,0.1,30.23
+ORD-100368,7/10/2019,7/11/2019,Second Class,CUST-1483,Alex Williams,Consumer,Phoenix,AZ,96898,Central,PROD-48337,Office Supplies,Paper,Paper Item 445,546,7,0,189.26
+ORD-100369,2/19/2020,2/28/2020,Same Day,CUST-1050,Avery Thomas,Home Office,Dallas,TX,21537,West,PROD-70029,Office Supplies,Envelopes,Envelopes Item 288,45.19,1,0,-6.29
+ORD-100370,12/20/2020,12/25/2020,Second Class,CUST-1201,Jamie Smith,Consumer,Philadelphia,PA,56580,Central,PROD-46159,Office Supplies,Envelopes,Envelopes Item 416,41.27,1,0,1.6
+ORD-100371,3/3/2020,3/4/2020,Standard Class,CUST-1485,Drew Davis,Consumer,Fort Worth,TX,61491,West,PROD-78251,Office Supplies,Labels,Labels Item 492,158.64,10,0.2,32.43
+ORD-100372,4/11/2019,4/18/2019,First Class,CUST-1078,Kendall Martinez,Home Office,Philadelphia,PA,68873,West,PROD-86156,Office Supplies,Binders,Binders Item 278,276.64,4,0.2,44.82
+ORD-100373,9/25/2019,10/4/2019,Standard Class,CUST-1220,Casey Jackson,Home Office,Philadelphia,PA,18888,East,PROD-29073,Office Supplies,Writing,Writing Item 373,25.68,1,0.1,6.25
+ORD-100374,4/27/2020,5/4/2020,Second Class,CUST-1381,Drew Jones,Corporate,Los Angeles,CA,27241,West,PROD-90864,Office Supplies,Envelopes,Envelopes Item 137,651.1,10,0,88.92
+ORD-100375,4/18/2019,4/28/2019,First Class,CUST-1351,Alex Lopez,Consumer,San Francisco,CA,72469,West,PROD-95140,Technology,Machines,Machines Item 192,1164.79,3,0.2,199.94
+ORD-100376,10/3/2020,10/11/2020,First Class,CUST-1098,Cameron Johnson,Consumer,New York,NY,45370,South,PROD-36812,Office Supplies,Binders,Binders Item 34,173.21,3,0.2,29.32
+ORD-100377,6/18/2020,6/28/2020,Second Class,CUST-1166,Reese Davis,Consumer,San Francisco,CA,15482,South,PROD-61662,Technology,Copiers,Copiers Item 314,6814.8,10,0,1251.18
+ORD-100378,12/11/2020,12/12/2020,Standard Class,CUST-1231,Reese Johnson,Home Office,Houston,TX,77987,South,PROD-83098,Technology,Phones,Phones Item 199,5739.66,9,0.1,1101.15
+ORD-100379,4/11/2018,4/15/2018,Second Class,CUST-1203,Quinn Martinez,Consumer,San Antonio,TX,48590,East,PROD-70762,Technology,Accessories,Accessories Item 425,4416.48,8,0,725.89
+ORD-100380,10/22/2020,10/24/2020,First Class,CUST-1299,Skyler Jones,Consumer,Philadelphia,PA,69098,East,PROD-87373,Office Supplies,Labels,Labels Item 460,211.1,4,0.2,29.11
+ORD-100381,7/4/2018,7/9/2018,Second Class,CUST-1332,Jamie Brown,Consumer,Jacksonville,FL,68903,Central,PROD-60343,Office Supplies,Envelopes,Envelopes Item 373,232.47,9,0,35.45
+ORD-100382,11/24/2018,12/1/2018,Standard Class,CUST-1022,Jamie Hernandez,Consumer,Austin,TX,29672,West,PROD-16725,Office Supplies,Binders,Binders Item 215,363.9,5,0,75.75
+ORD-100383,7/2/2020,7/7/2020,Standard Class,CUST-1060,Casey Miller,Consumer,San Francisco,CA,43175,East,PROD-75358,Furniture,Furnishings,Furnishings Item 279,824.51,1,0,173.42
+ORD-100384,10/7/2020,10/11/2020,First Class,CUST-1337,Emerson Anderson,Consumer,Los Angeles,CA,88802,East,PROD-46452,Office Supplies,Envelopes,Envelopes Item 318,546.51,9,0.1,55.27
+ORD-100385,3/2/2019,3/3/2019,First Class,CUST-1028,Parker Johnson,Consumer,New York,NY,97424,Central,PROD-16426,Furniture,Chairs,Chairs Item 56,8809.46,7,0.3,594.79
+ORD-100386,11/27/2018,12/2/2018,Standard Class,CUST-1354,Reese Jackson,Corporate,Chicago,IL,69682,Central,PROD-49229,Office Supplies,Paper,Paper Item 166,15.7,6,0.2,-0.32
+ORD-100387,5/19/2018,5/26/2018,Standard Class,CUST-1033,Quinn Thomas,Consumer,Jacksonville,FL,45968,Central,PROD-78766,Technology,Machines,Machines Item 108,10720.64,4,0,4199.94
+ORD-100388,8/12/2018,8/22/2018,Standard Class,CUST-1322,Rowan Williams,Consumer,Jacksonville,FL,89269,Central,PROD-44034,Furniture,Tables,Tables Item 270,11508.07,10,0.3,356.98
+ORD-100389,12/26/2019,12/29/2019,Standard Class,CUST-1254,Rowan Thomas,Consumer,Chicago,IL,89876,West,PROD-35369,Technology,Copiers,Copiers Item 1,2302.96,2,0,188.94
+ORD-100390,8/30/2018,9/3/2018,Standard Class,CUST-1212,Kendall Johnson,Consumer,Dallas,TX,93558,West,PROD-46913,Office Supplies,Binders,Binders Item 131,119.7,2,0,32.41
+ORD-100391,11/3/2020,11/12/2020,Second Class,CUST-1003,Morgan Hernandez,Consumer,Jacksonville,FL,84569,East,PROD-53321,Office Supplies,Binders,Binders Item 427,202.18,6,0.2,2.11
+ORD-100392,9/8/2020,9/16/2020,Standard Class,CUST-1330,Casey Thomas,Consumer,San Diego,CA,80381,Central,PROD-17342,Furniture,Furnishings,Furnishings Item 428,10138.41,9,0,-308.37
+ORD-100393,10/9/2019,10/18/2019,Standard Class,CUST-1106,Finley Hernandez,Corporate,Fort Worth,TX,56346,East,PROD-14085,Office Supplies,Writing,Writing Item 174,664.65,7,0,76.18
+ORD-100394,12/6/2018,12/16/2018,Standard Class,CUST-1095,Reese Brown,Home Office,San Francisco,CA,50407,Central,PROD-45585,Technology,Phones,Phones Item 212,4591.1,2,0,1361.81
+ORD-100395,5/2/2019,5/8/2019,Second Class,CUST-1486,Quinn Miller,Consumer,Chicago,IL,24710,Central,PROD-22137,Office Supplies,Binders,Binders Item 228,723.51,9,0,127.54
+ORD-100396,9/15/2020,9/24/2020,First Class,CUST-1174,Emerson Taylor,Consumer,Philadelphia,PA,28781,East,PROD-36894,Technology,Accessories,Accessories Item 371,1287.14,1,0,564.58
+ORD-100397,12/5/2020,12/7/2020,First Class,CUST-1477,Taylor Martin,Home Office,Philadelphia,PA,71194,East,PROD-96374,Office Supplies,Envelopes,Envelopes Item 382,136.35,5,0,35.54
+ORD-100398,10/2/2019,10/6/2019,Second Class,CUST-1098,Quinn Rodriguez,Consumer,San Francisco,CA,67817,East,PROD-30643,Furniture,Bookcases,Bookcases Item 141,643.48,2,0,16.34
+ORD-100399,11/18/2020,11/20/2020,First Class,CUST-1179,Skyler Hernandez,Consumer,Jacksonville,FL,47128,West,PROD-50812,Office Supplies,Paper,Paper Item 314,172.14,6,0,33.07
+ORD-100400,4/14/2018,4/17/2018,First Class,CUST-1462,Taylor Brown,Consumer,Los Angeles,CA,65897,South,PROD-87693,Office Supplies,Envelopes,Envelopes Item 323,30.4,8,0,-0.47
+ORD-100401,10/2/2019,10/8/2019,Standard Class,CUST-1365,Skyler Williams,Home Office,San Francisco,CA,71039,West,PROD-22748,Office Supplies,Labels,Labels Item 234,253.4,5,0.1,62.39
+ORD-100402,8/11/2020,8/19/2020,First Class,CUST-1114,Casey Martin,Consumer,Philadelphia,PA,61390,West,PROD-52567,Technology,Copiers,Copiers Item 233,15689.84,8,0,1940.87
+ORD-100403,8/31/2020,9/2/2020,Second Class,CUST-1236,Jamie Martinez,Corporate,San Jose,CA,85324,West,PROD-63174,Technology,Phones,Phones Item 419,105.54,2,0,25.67
+ORD-100404,5/26/2018,5/31/2018,Standard Class,CUST-1205,Finley Wilson,Consumer,Houston,TX,81820,West,PROD-18658,Furniture,Furnishings,Furnishings Item 175,1140.95,4,0.1,427.24
+ORD-100405,6/1/2020,6/8/2020,Standard Class,CUST-1175,Skyler Davis,Consumer,Austin,TX,20209,South,PROD-88128,Office Supplies,Envelopes,Envelopes Item 238,403.02,6,0,148.5
+ORD-100406,6/30/2020,7/3/2020,Second Class,CUST-1207,Jordan Martin,Consumer,Columbus,OH,88172,South,PROD-94540,Furniture,Furnishings,Furnishings Item 339,391.97,1,0,63.12
+ORD-100407,10/12/2018,10/22/2018,Standard Class,CUST-1325,Alex Jones,Corporate,San Diego,CA,79632,Central,PROD-35646,Furniture,Furnishings,Furnishings Item 106,4782.72,6,0,1323.81
+ORD-100408,9/16/2019,9/23/2019,Standard Class,CUST-1468,Parker Williams,Consumer,San Jose,CA,76902,South,PROD-18180,Office Supplies,Writing,Writing Item 190,332.95,9,0.3,46.03
+ORD-100409,1/2/2018,1/11/2018,Standard Class,CUST-1183,Morgan Martinez,Home Office,Houston,TX,66585,South,PROD-60173,Technology,Copiers,Copiers Item 208,12721.73,7,0,2593.03
+ORD-100410,3/9/2019,3/12/2019,Second Class,CUST-1096,Skyler Gonzalez,Corporate,Philadelphia,PA,64687,West,PROD-27600,Furniture,Bookcases,Bookcases Item 6,1056.86,2,0,-3.05
+ORD-100411,10/22/2018,10/30/2018,Standard Class,CUST-1499,Casey Williams,Consumer,San Francisco,CA,64507,South,PROD-91690,Technology,Machines,Machines Item 93,8639.2,8,0,727.31
+ORD-100412,7/10/2020,7/17/2020,Second Class,CUST-1095,Kendall Martin,Consumer,San Diego,CA,41031,Central,PROD-14385,Furniture,Tables,Tables Item 20,14521.4,10,0,3614.03
+ORD-100413,1/25/2020,1/27/2020,Standard Class,CUST-1492,Jordan Jones,Corporate,Dallas,TX,46624,South,PROD-78597,Technology,Phones,Phones Item 456,14386.3,10,0,-437.76
+ORD-100414,8/25/2020,8/27/2020,Standard Class,CUST-1276,Finley Martinez,Corporate,Fort Worth,TX,55029,East,PROD-77195,Furniture,Furnishings,Furnishings Item 464,10753.28,8,0,2058.59
+ORD-100415,11/10/2019,11/17/2019,Second Class,CUST-1408,Quinn Martinez,Consumer,Jacksonville,FL,88333,Central,PROD-18050,Technology,Copiers,Copiers Item 323,5284.16,8,0,1064.68
+ORD-100416,4/16/2018,4/21/2018,Standard Class,CUST-1319,Alex Martinez,Consumer,Chicago,IL,76269,East,PROD-27372,Furniture,Tables,Tables Item 316,554.05,5,0,140.12
+ORD-100417,6/11/2019,6/12/2019,Standard Class,CUST-1309,Jamie Jackson,Corporate,Austin,TX,68543,Central,PROD-40958,Office Supplies,Writing,Writing Item 249,19.01,3,0.1,-0.04
+ORD-100418,3/9/2018,3/15/2018,Same Day,CUST-1495,Casey Martin,Home Office,Chicago,IL,75004,South,PROD-96594,Furniture,Bookcases,Bookcases Item 226,3053.73,3,0,-69.46
+ORD-100419,12/8/2019,12/9/2019,Standard Class,CUST-1386,Morgan Johnson,Consumer,San Antonio,TX,72420,Central,PROD-59781,Furniture,Bookcases,Bookcases Item 350,10872.96,7,0,3245.09
+ORD-100420,10/25/2018,11/3/2018,Standard Class,CUST-1006,Quinn Anderson,Consumer,Philadelphia,PA,79501,East,PROD-93548,Office Supplies,Envelopes,Envelopes Item 182,87.15,7,0,17.57
+ORD-100421,7/13/2019,7/19/2019,Second Class,CUST-1410,Morgan Rodriguez,Corporate,San Antonio,TX,70438,West,PROD-78151,Technology,Accessories,Accessories Item 173,4489.68,3,0,627.74
+ORD-100422,1/22/2018,1/23/2018,Standard Class,CUST-1006,Kendall Brown,Consumer,Austin,TX,68450,Central,PROD-43016,Office Supplies,Writing,Writing Item 99,69.46,1,0,-0.48
+ORD-100423,7/8/2018,7/9/2018,Standard Class,CUST-1336,Riley Martin,Corporate,Jacksonville,FL,25725,East,PROD-59277,Technology,Accessories,Accessories Item 337,22148.28,10,0.1,2922.56
+ORD-100424,1/14/2019,1/16/2019,Standard Class,CUST-1129,Quinn Anderson,Corporate,Los Angeles,CA,93726,South,PROD-97500,Furniture,Furnishings,Furnishings Item 395,9653.16,6,0,477.51
+ORD-100425,6/1/2018,6/6/2018,Standard Class,CUST-1195,Hayden Hernandez,Home Office,Phoenix,AZ,44690,West,PROD-74450,Furniture,Chairs,Chairs Item 476,4803.8,4,0,1400.49
+ORD-100426,1/1/2019,1/9/2019,First Class,CUST-1276,Kendall Miller,Corporate,Los Angeles,CA,67878,Central,PROD-19557,Office Supplies,Paper,Paper Item 37,336.42,10,0.1,7.29
+ORD-100427,7/2/2020,7/3/2020,Standard Class,CUST-1076,Alex Johnson,Corporate,Phoenix,AZ,29871,Central,PROD-77552,Furniture,Chairs,Chairs Item 363,8853.68,8,0,1353.29
+ORD-100428,4/7/2020,4/9/2020,Standard Class,CUST-1001,Hayden Thomas,Consumer,Dallas,TX,57044,Central,PROD-62509,Technology,Copiers,Copiers Item 29,5242.76,2,0,1457.51
+ORD-100429,11/28/2019,11/30/2019,Standard Class,CUST-1389,Quinn Miller,Consumer,New York,NY,60353,West,PROD-23994,Furniture,Furnishings,Furnishings Item 323,8007.78,6,0,2035.89
+ORD-100430,6/15/2020,6/19/2020,First Class,CUST-1098,Alex Jackson,Consumer,San Antonio,TX,18256,Central,PROD-12151,Furniture,Furnishings,Furnishings Item 19,8399.64,6,0,1054.58
+ORD-100431,3/29/2018,4/5/2018,First Class,CUST-1413,Rowan Anderson,Home Office,Columbus,OH,80328,West,PROD-19441,Technology,Accessories,Accessories Item 19,4435.47,3,0,1135.27
+ORD-100432,2/9/2018,2/17/2018,Standard Class,CUST-1316,Taylor Davis,Corporate,Chicago,IL,11882,West,PROD-50283,Technology,Phones,Phones Item 421,1358.4,2,0,377.93
+ORD-100433,12/16/2018,12/26/2018,First Class,CUST-1418,Morgan Brown,Consumer,San Francisco,CA,90691,West,PROD-65864,Office Supplies,Binders,Binders Item 173,37.31,7,0,7.32
+ORD-100434,10/9/2018,10/15/2018,Standard Class,CUST-1406,Riley Johnson,Consumer,Philadelphia,PA,18286,East,PROD-64415,Furniture,Bookcases,Bookcases Item 87,8459.82,6,0,1976.19
+ORD-100435,6/17/2020,6/21/2020,Standard Class,CUST-1020,Casey Brown,Corporate,Austin,TX,90273,South,PROD-73827,Office Supplies,Paper,Paper Item 42,97.16,1,0,15
+ORD-100436,7/2/2018,7/12/2018,Standard Class,CUST-1213,Emerson Jones,Consumer,Austin,TX,45513,South,PROD-32878,Furniture,Bookcases,Bookcases Item 313,1891.32,1,0,596.69
+ORD-100437,10/20/2020,10/30/2020,Same Day,CUST-1321,Quinn Lopez,Consumer,Dallas,TX,40885,West,PROD-22541,Office Supplies,Envelopes,Envelopes Item 317,406.9,6,0.2,69.32
+ORD-100438,11/5/2020,11/9/2020,Second Class,CUST-1320,Riley Rodriguez,Consumer,Los Angeles,CA,29558,South,PROD-30940,Furniture,Bookcases,Bookcases Item 344,672.25,1,0,7.65
+ORD-100439,1/16/2020,1/21/2020,First Class,CUST-1128,Avery Martin,Corporate,San Francisco,CA,69394,East,PROD-80432,Office Supplies,Paper,Paper Item 91,37.31,3,0.1,8.96
+ORD-100440,9/20/2020,9/29/2020,First Class,CUST-1458,Cameron Anderson,Consumer,Philadelphia,PA,64927,West,PROD-40154,Technology,Copiers,Copiers Item 399,498.64,2,0,27.38
+ORD-100441,7/20/2018,7/24/2018,Standard Class,CUST-1445,Riley Gonzalez,Home Office,Los Angeles,CA,71733,South,PROD-28997,Office Supplies,Labels,Labels Item 111,730.3,10,0,243.45
+ORD-100442,3/4/2020,3/10/2020,First Class,CUST-1368,Riley Lopez,Home Office,Houston,TX,54025,West,PROD-17818,Office Supplies,Envelopes,Envelopes Item 144,25.2,3,0,5.78
+ORD-100443,8/11/2020,8/19/2020,Second Class,CUST-1389,Avery Davis,Home Office,San Jose,CA,30550,West,PROD-21334,Technology,Accessories,Accessories Item 211,21387.24,9,0,-1102.77
+ORD-100444,3/20/2019,3/30/2019,Second Class,CUST-1236,Drew Smith,Corporate,Jacksonville,FL,42329,West,PROD-85951,Furniture,Furnishings,Furnishings Item 114,5372.56,10,0.2,1526.52
+ORD-100445,1/11/2018,1/18/2018,Same Day,CUST-1020,Emerson Taylor,Consumer,Dallas,TX,61684,South,PROD-69302,Technology,Phones,Phones Item 254,7421.08,4,0,1587.84
+ORD-100446,1/26/2018,2/2/2018,Standard Class,CUST-1067,Parker Martinez,Consumer,Los Angeles,CA,12087,South,PROD-31207,Technology,Copiers,Copiers Item 361,4571.01,8,0.2,1214.1
+ORD-100447,2/19/2018,2/27/2018,Second Class,CUST-1070,Hayden Garcia,Corporate,Philadelphia,PA,92157,South,PROD-92222,Technology,Phones,Phones Item 37,13442.07,7,0.2,2495.41
+ORD-100448,11/13/2019,11/22/2019,First Class,CUST-1218,Drew Martin,Consumer,San Francisco,CA,37151,East,PROD-17184,Technology,Copiers,Copiers Item 264,14370.43,6,0.2,4695.98
+ORD-100449,8/16/2018,8/23/2018,Second Class,CUST-1316,Taylor Lopez,Consumer,Austin,TX,83241,East,PROD-28141,Technology,Accessories,Accessories Item 172,4871,4,0,477.3
+ORD-100450,9/6/2020,9/16/2020,Standard Class,CUST-1359,Riley Davis,Consumer,Fort Worth,TX,45043,South,PROD-18305,Furniture,Chairs,Chairs Item 191,5914.56,6,0,1717.47
+ORD-100451,10/23/2020,11/1/2020,Standard Class,CUST-1240,Skyler Moore,Home Office,San Diego,CA,91389,Central,PROD-34687,Technology,Phones,Phones Item 457,23620.56,8,0,5141.33
+ORD-100452,3/11/2020,3/14/2020,Second Class,CUST-1489,Jordan Brown,Consumer,Los Angeles,CA,29392,South,PROD-78247,Office Supplies,Binders,Binders Item 488,77.29,1,0,-1.69
+ORD-100453,9/28/2018,10/6/2018,Second Class,CUST-1227,Alex Martinez,Consumer,New York,NY,40451,Central,PROD-95951,Furniture,Tables,Tables Item 331,8929.74,6,0,-277.11
+ORD-100454,12/21/2020,12/30/2020,Second Class,CUST-1155,Finley Jones,Home Office,Phoenix,AZ,32509,Central,PROD-58745,Office Supplies,Labels,Labels Item 498,114.3,5,0.1,16.45
+ORD-100455,4/7/2018,4/10/2018,Second Class,CUST-1233,Jamie Martin,Home Office,Jacksonville,FL,80165,Central,PROD-97340,Office Supplies,Binders,Binders Item 407,90.45,3,0,7.55
+ORD-100456,8/28/2018,8/29/2018,Same Day,CUST-1294,Casey Anderson,Consumer,Chicago,IL,36890,East,PROD-55068,Technology,Copiers,Copiers Item 76,5418,6,0,-281.96
+ORD-100457,11/29/2018,12/8/2018,Second Class,CUST-1471,Alex Gonzalez,Home Office,San Francisco,CA,29055,South,PROD-10562,Furniture,Bookcases,Bookcases Item 497,8664.45,9,0.3,304.23
+ORD-100458,11/10/2019,11/15/2019,Second Class,CUST-1148,Finley Jones,Corporate,Jacksonville,FL,67947,Central,PROD-72781,Technology,Phones,Phones Item 461,670.4,1,0,107.34
+ORD-100459,8/28/2018,9/2/2018,First Class,CUST-1316,Cameron Anderson,Consumer,Philadelphia,PA,17213,West,PROD-46428,Technology,Accessories,Accessories Item 101,2639.77,1,0,213.64
+ORD-100460,7/1/2020,7/3/2020,Same Day,CUST-1201,Riley Thomas,Consumer,San Jose,CA,77050,East,PROD-62108,Technology,Copiers,Copiers Item 76,19847.1,7,0,8931.19
+ORD-100461,2/3/2020,2/4/2020,Second Class,CUST-1179,Quinn Anderson,Home Office,Los Angeles,CA,38271,South,PROD-67999,Technology,Machines,Machines Item 148,1397.95,3,0.1,140.26
+ORD-100462,5/18/2020,5/25/2020,First Class,CUST-1300,Reese Williams,Consumer,Phoenix,AZ,72208,Central,PROD-59253,Office Supplies,Envelopes,Envelopes Item 46,99.13,1,0,31.73
+ORD-100463,7/14/2019,7/21/2019,First Class,CUST-1236,Finley Jones,Consumer,Columbus,OH,60039,Central,PROD-15535,Technology,Machines,Machines Item 422,6965.14,5,0.1,2608.67
+ORD-100464,9/15/2019,9/23/2019,Standard Class,CUST-1237,Cameron Smith,Corporate,Chicago,IL,44429,Central,PROD-26276,Technology,Machines,Machines Item 335,3537,5,0,417
+ORD-100465,10/4/2020,10/8/2020,First Class,CUST-1391,Drew Thomas,Home Office,Los Angeles,CA,88497,Central,PROD-84130,Technology,Machines,Machines Item 224,2877.95,5,0,311.19
+ORD-100466,9/1/2020,9/3/2020,Second Class,CUST-1375,Finley Smith,Corporate,Chicago,IL,86238,East,PROD-70429,Office Supplies,Writing,Writing Item 450,235.2,3,0,28.34
+ORD-100467,4/19/2018,4/24/2018,Second Class,CUST-1325,Parker Johnson,Consumer,Dallas,TX,93747,East,PROD-92317,Technology,Accessories,Accessories Item 94,5815.86,2,0,929.53
+ORD-100468,12/9/2018,12/18/2018,Second Class,CUST-1161,Quinn Rodriguez,Corporate,Jacksonville,FL,57516,East,PROD-28837,Technology,Copiers,Copiers Item 7,7961.04,3,0,1076.27
+ORD-100469,2/3/2020,2/11/2020,Second Class,CUST-1471,Jamie Brown,Consumer,Dallas,TX,38981,West,PROD-64702,Technology,Phones,Phones Item 236,4559.1,2,0,178.59
+ORD-100470,9/26/2018,9/27/2018,Second Class,CUST-1159,Parker Jones,Corporate,Fort Worth,TX,88335,Central,PROD-13769,Office Supplies,Writing,Writing Item 382,140.42,2,0,31.07
+ORD-100471,10/19/2018,10/23/2018,Second Class,CUST-1107,Casey Williams,Consumer,San Francisco,CA,24643,East,PROD-66524,Office Supplies,Labels,Labels Item 22,96,4,0,12.94
+ORD-100472,11/17/2020,11/27/2020,First Class,CUST-1060,Drew Johnson,Consumer,Austin,TX,11346,East,PROD-36922,Office Supplies,Envelopes,Envelopes Item 301,95.72,4,0,43.07
+ORD-100473,12/21/2019,12/22/2019,First Class,CUST-1433,Drew Jackson,Consumer,Chicago,IL,75619,West,PROD-22989,Technology,Phones,Phones Item 420,15737.94,10,0.1,4603.99
+ORD-100474,12/19/2020,12/23/2020,Standard Class,CUST-1493,Quinn Garcia,Home Office,Dallas,TX,10567,East,PROD-72221,Office Supplies,Envelopes,Envelopes Item 188,109.7,10,0,14.97
+ORD-100475,8/8/2018,8/11/2018,Standard Class,CUST-1194,Kendall Miller,Consumer,San Antonio,TX,24790,Central,PROD-24459,Office Supplies,Labels,Labels Item 267,44.07,3,0,11.02
+ORD-100476,1/10/2020,1/15/2020,Standard Class,CUST-1020,Jordan Hernandez,Consumer,San Antonio,TX,47173,South,PROD-68190,Technology,Copiers,Copiers Item 116,24016.23,9,0,5889.26
+ORD-100477,5/26/2020,5/30/2020,Standard Class,CUST-1458,Emerson Lopez,Consumer,Austin,TX,74441,East,PROD-78506,Furniture,Furnishings,Furnishings Item 338,2248.34,2,0,697.06
+ORD-100478,3/19/2020,3/26/2020,Standard Class,CUST-1052,Jamie Williams,Consumer,Houston,TX,54385,West,PROD-26090,Technology,Machines,Machines Item 120,1759.09,7,0.1,-52.47
+ORD-100479,7/25/2019,8/4/2019,Standard Class,CUST-1387,Hayden Lopez,Consumer,San Jose,CA,63011,South,PROD-29316,Technology,Copiers,Copiers Item 394,6352.56,8,0,184.98
+ORD-100480,5/29/2019,6/6/2019,Second Class,CUST-1321,Casey Smith,Consumer,New York,NY,18942,South,PROD-33474,Technology,Phones,Phones Item 196,19582.11,10,0.1,1548.77
+ORD-100481,11/9/2018,11/14/2018,Standard Class,CUST-1049,Jordan Taylor,Corporate,San Francisco,CA,71082,West,PROD-74258,Furniture,Furnishings,Furnishings Item 259,2396.8,5,0,429.04
+ORD-100482,2/6/2018,2/7/2018,Same Day,CUST-1450,Morgan Gonzalez,Consumer,Columbus,OH,59327,South,PROD-14306,Furniture,Chairs,Chairs Item 91,11197.03,9,0.1,-2661.5
+ORD-100483,9/13/2019,9/16/2019,Second Class,CUST-1068,Quinn Gonzalez,Consumer,Los Angeles,CA,84560,South,PROD-72378,Technology,Machines,Machines Item 288,5356.14,3,0,404.78
+ORD-100484,3/12/2020,3/17/2020,Second Class,CUST-1497,Hayden Martin,Corporate,San Francisco,CA,47281,Central,PROD-87393,Office Supplies,Paper,Paper Item 24,223.61,3,0.1,75.77
+ORD-100485,12/16/2019,12/26/2019,First Class,CUST-1456,Avery Gonzalez,Consumer,Philadelphia,PA,56840,South,PROD-96670,Furniture,Chairs,Chairs Item 126,4612.72,4,0,203.8
+ORD-100486,10/2/2019,10/12/2019,First Class,CUST-1352,Jordan Martinez,Consumer,Chicago,IL,12583,Central,PROD-96214,Office Supplies,Labels,Labels Item 443,197.19,7,0,41.17
+ORD-100487,5/12/2020,5/17/2020,First Class,CUST-1240,Finley Smith,Home Office,San Antonio,TX,84757,South,PROD-74010,Furniture,Chairs,Chairs Item 52,5335.92,4,0,1156.12
+ORD-100488,10/26/2020,11/1/2020,First Class,CUST-1153,Parker Wilson,Consumer,Austin,TX,19872,West,PROD-16230,Furniture,Tables,Tables Item 153,17086.3,10,0,3907.19
+ORD-100489,4/8/2019,4/18/2019,Standard Class,CUST-1047,Finley Brown,Consumer,Phoenix,AZ,18817,South,PROD-55523,Furniture,Bookcases,Bookcases Item 408,3027.92,2,0.1,804.82
+ORD-100490,9/11/2019,9/20/2019,Standard Class,CUST-1221,Skyler Hernandez,Consumer,San Antonio,TX,42933,South,PROD-12438,Technology,Accessories,Accessories Item 322,15108.91,9,0.2,4548.12
+ORD-100491,10/19/2020,10/23/2020,Standard Class,CUST-1421,Reese Rodriguez,Home Office,Dallas,TX,90533,South,PROD-78454,Technology,Phones,Phones Item 103,13578.6,6,0,4939.93
+ORD-100492,5/8/2019,5/11/2019,Standard Class,CUST-1391,Quinn Wilson,Consumer,Columbus,OH,18444,West,PROD-47623,Furniture,Tables,Tables Item 331,1077.84,3,0,146.11
+ORD-100493,4/29/2019,5/6/2019,First Class,CUST-1076,Riley Smith,Consumer,Columbus,OH,50703,South,PROD-65314,Furniture,Furnishings,Furnishings Item 332,1499.84,1,0,119.95
+ORD-100494,7/13/2019,7/16/2019,First Class,CUST-1404,Drew Moore,Consumer,Columbus,OH,15535,South,PROD-21000,Office Supplies,Paper,Paper Item 161,177.5,10,0,40.86
+ORD-100495,5/11/2018,5/18/2018,Standard Class,CUST-1343,Jordan Gonzalez,Home Office,Jacksonville,FL,28423,West,PROD-75568,Office Supplies,Envelopes,Envelopes Item 478,103.46,2,0,23.59
+ORD-100496,12/11/2020,12/16/2020,Second Class,CUST-1046,Cameron Martin,Consumer,San Francisco,CA,51079,Central,PROD-40924,Technology,Machines,Machines Item 479,273.21,7,0,75.99
+ORD-100497,8/7/2018,8/10/2018,First Class,CUST-1140,Reese Wilson,Consumer,San Jose,CA,17330,South,PROD-24806,Technology,Copiers,Copiers Item 163,26495.37,9,0,33.72
+ORD-100498,5/20/2019,5/25/2019,Standard Class,CUST-1479,Casey Lopez,Consumer,Philadelphia,PA,50392,East,PROD-96798,Technology,Phones,Phones Item 410,1712.52,1,0.1,463.06
+ORD-100499,5/6/2019,5/11/2019,Standard Class,CUST-1158,Parker Brown,Consumer,Houston,TX,67986,South,PROD-43493,Office Supplies,Labels,Labels Item 155,87.87,2,0.2,1.58
+ORD-100500,4/28/2019,5/3/2019,First Class,CUST-1455,Jamie Anderson,Corporate,Fort Worth,TX,94466,South,PROD-20498,Office Supplies,Writing,Writing Item 422,627.36,8,0,132.99
+ORD-100501,4/25/2020,5/1/2020,Standard Class,CUST-1448,Morgan Garcia,Corporate,Dallas,TX,18698,Central,PROD-69409,Furniture,Tables,Tables Item 356,994.92,1,0.1,131.16
+ORD-100502,1/12/2019,1/20/2019,Standard Class,CUST-1069,Alex Gonzalez,Consumer,Phoenix,AZ,51120,East,PROD-42716,Office Supplies,Binders,Binders Item 265,260.2,3,0.1,84.59
+ORD-100503,4/20/2020,4/26/2020,Second Class,CUST-1447,Casey Rodriguez,Consumer,San Jose,CA,52936,Central,PROD-64328,Office Supplies,Paper,Paper Item 189,280.02,3,0,1.97
+ORD-100504,2/12/2020,2/22/2020,First Class,CUST-1485,Alex Moore,Corporate,Austin,TX,39977,East,PROD-44312,Furniture,Bookcases,Bookcases Item 360,749.67,3,0,150.73
+ORD-100505,5/28/2020,6/7/2020,Second Class,CUST-1045,Parker Garcia,Home Office,Los Angeles,CA,11850,South,PROD-25533,Furniture,Furnishings,Furnishings Item 115,729.12,4,0,166.98
+ORD-100506,6/30/2019,7/5/2019,Standard Class,CUST-1195,Casey Wilson,Home Office,San Jose,CA,38254,Central,PROD-64831,Technology,Accessories,Accessories Item 93,5776.28,7,0.1,788.15
+ORD-100507,2/28/2018,3/5/2018,Same Day,CUST-1120,Reese Anderson,Home Office,Philadelphia,PA,86402,South,PROD-71457,Office Supplies,Paper,Paper Item 69,248.01,6,0.3,49.84
+ORD-100508,3/25/2020,3/29/2020,Standard Class,CUST-1362,Kendall Martin,Consumer,Los Angeles,CA,83007,East,PROD-40781,Office Supplies,Writing,Writing Item 242,150.78,6,0.3,18.45
+ORD-100509,4/4/2018,4/5/2018,Second Class,CUST-1317,Hayden Martinez,Home Office,Austin,TX,58614,West,PROD-86085,Technology,Phones,Phones Item 92,13085.9,5,0,2556.15
+ORD-100510,10/6/2020,10/12/2020,Standard Class,CUST-1067,Jordan Hernandez,Corporate,San Antonio,TX,28585,Central,PROD-15788,Office Supplies,Writing,Writing Item 66,623.36,8,0.2,139.67
+ORD-100511,7/30/2019,8/5/2019,Standard Class,CUST-1144,Drew Martin,Corporate,Fort Worth,TX,44571,Central,PROD-51358,Furniture,Bookcases,Bookcases Item 378,705.17,8,0.1,82.44
+ORD-100512,11/6/2018,11/15/2018,Standard Class,CUST-1336,Reese Johnson,Consumer,New York,NY,40128,West,PROD-44108,Office Supplies,Labels,Labels Item 84,33.36,8,0,5.48
+ORD-100513,10/10/2020,10/11/2020,Second Class,CUST-1363,Skyler Thomas,Consumer,Los Angeles,CA,29405,East,PROD-36703,Furniture,Chairs,Chairs Item 445,7761.45,5,0,-498.51
+ORD-100514,12/11/2018,12/20/2018,Standard Class,CUST-1288,Finley Miller,Consumer,New York,NY,78945,West,PROD-42264,Furniture,Chairs,Chairs Item 394,9953.5,8,0.1,-240.07
+ORD-100515,11/5/2019,11/6/2019,Second Class,CUST-1348,Morgan Gonzalez,Consumer,Fort Worth,TX,23902,Central,PROD-20625,Office Supplies,Paper,Paper Item 236,797.76,8,0,104.68
+ORD-100516,7/6/2019,7/16/2019,Standard Class,CUST-1168,Taylor Martin,Home Office,Philadelphia,PA,84600,West,PROD-94363,Office Supplies,Paper,Paper Item 145,236.36,6,0.1,7.66
+ORD-100517,5/25/2018,6/3/2018,Same Day,CUST-1195,Jordan Gonzalez,Consumer,Houston,TX,62286,East,PROD-31356,Office Supplies,Binders,Binders Item 199,559.23,7,0,88.73
+ORD-100518,11/12/2018,11/14/2018,Second Class,CUST-1410,Kendall Martinez,Home Office,San Jose,CA,27208,Central,PROD-58163,Technology,Phones,Phones Item 263,8348.68,4,0,2626.68
+ORD-100519,3/5/2020,3/13/2020,Second Class,CUST-1307,Kendall Williams,Corporate,San Francisco,CA,58265,West,PROD-22182,Furniture,Furnishings,Furnishings Item 21,5245.74,9,0,1769.21
+ORD-100520,8/7/2020,8/11/2020,Standard Class,CUST-1365,Casey Thomas,Consumer,Austin,TX,78770,East,PROD-67325,Furniture,Furnishings,Furnishings Item 41,15233.44,8,0,2335.45
+ORD-100521,9/19/2018,9/24/2018,Standard Class,CUST-1267,Kendall Martinez,Consumer,Dallas,TX,20031,East,PROD-76932,Technology,Phones,Phones Item 218,19823.86,7,0,839.84
+ORD-100522,6/3/2019,6/9/2019,Second Class,CUST-1041,Rowan Smith,Consumer,Austin,TX,70670,West,PROD-15932,Office Supplies,Labels,Labels Item 43,241.53,7,0.2,7.9
+ORD-100523,9/2/2019,9/8/2019,Standard Class,CUST-1232,Reese Martin,Corporate,Philadelphia,PA,34535,West,PROD-89174,Office Supplies,Paper,Paper Item 133,57.74,2,0,21.9
+ORD-100524,2/6/2018,2/7/2018,Second Class,CUST-1006,Jamie Thomas,Consumer,San Antonio,TX,96208,South,PROD-98316,Furniture,Tables,Tables Item 494,12403.19,7,0.1,3568.98
+ORD-100525,6/29/2018,7/2/2018,First Class,CUST-1097,Morgan Smith,Corporate,Houston,TX,13514,West,PROD-95162,Furniture,Bookcases,Bookcases Item 124,3139.98,7,0.1,487.36
+ORD-100526,1/26/2019,1/28/2019,Second Class,CUST-1237,Casey Thomas,Consumer,Los Angeles,CA,31771,West,PROD-73576,Technology,Machines,Machines Item 242,524.04,1,0.2,98.99
+ORD-100527,5/12/2019,5/16/2019,Second Class,CUST-1424,Hayden Johnson,Consumer,Los Angeles,CA,92629,South,PROD-85846,Furniture,Furnishings,Furnishings Item 306,4842.37,9,0.3,738.32
+ORD-100528,3/17/2018,3/25/2018,Second Class,CUST-1262,Finley Martin,Home Office,Fort Worth,TX,73950,West,PROD-79246,Technology,Phones,Phones Item 10,18170.53,7,0,4372.92
+ORD-100529,5/11/2018,5/16/2018,Standard Class,CUST-1213,Emerson Brown,Consumer,Austin,TX,55451,South,PROD-12727,Technology,Machines,Machines Item 83,2577.91,5,0.1,455.08
+ORD-100530,8/19/2020,8/25/2020,Second Class,CUST-1259,Cameron Jackson,Home Office,Philadelphia,PA,88918,South,PROD-61166,Office Supplies,Writing,Writing Item 492,548.92,7,0.1,145.42
+ORD-100531,1/8/2020,1/16/2020,Standard Class,CUST-1432,Jamie Martin,Consumer,Jacksonville,FL,21297,South,PROD-36146,Office Supplies,Binders,Binders Item 81,847.9,10,0,226.14
+ORD-100532,5/1/2020,5/9/2020,Second Class,CUST-1107,Skyler Johnson,Home Office,Philadelphia,PA,44184,Central,PROD-32900,Technology,Accessories,Accessories Item 424,20590.65,9,0,1372.9
+ORD-100533,5/11/2018,5/17/2018,Second Class,CUST-1316,Cameron Brown,Consumer,San Diego,CA,43793,Central,PROD-83010,Furniture,Chairs,Chairs Item 137,272.23,3,0.2,59.56
+ORD-100534,11/21/2020,12/1/2020,Standard Class,CUST-1361,Taylor Anderson,Corporate,Columbus,OH,24539,East,PROD-83724,Technology,Phones,Phones Item 22,24877.17,9,0,8207.08
+ORD-100535,8/30/2018,9/3/2018,Standard Class,CUST-1080,Quinn Anderson,Corporate,San Diego,CA,23014,West,PROD-53857,Technology,Copiers,Copiers Item 420,4364.82,3,0,1043.05
+ORD-100536,2/18/2019,2/26/2019,Same Day,CUST-1393,Alex Davis,Corporate,San Diego,CA,54737,Central,PROD-21171,Technology,Accessories,Accessories Item 137,1995.73,6,0.1,449.03
+ORD-100537,4/29/2020,5/5/2020,Standard Class,CUST-1125,Casey Taylor,Consumer,Houston,TX,28087,South,PROD-70129,Furniture,Furnishings,Furnishings Item 488,7201.71,9,0.1,641.76
+ORD-100538,1/11/2020,1/12/2020,Second Class,CUST-1394,Alex Taylor,Home Office,Los Angeles,CA,54342,Central,PROD-66894,Furniture,Bookcases,Bookcases Item 32,2778.43,7,0.1,253.12
+ORD-100539,11/6/2018,11/16/2018,First Class,CUST-1323,Rowan Martinez,Consumer,Fort Worth,TX,99243,Central,PROD-55109,Technology,Copiers,Copiers Item 5,7017.08,5,0.2,1251.04
+ORD-100540,10/28/2018,11/4/2018,Second Class,CUST-1105,Skyler Martin,Corporate,Austin,TX,67952,Central,PROD-35859,Technology,Machines,Machines Item 452,4108,5,0,426.61
+ORD-100541,11/17/2019,11/24/2019,Standard Class,CUST-1378,Casey Taylor,Home Office,Phoenix,AZ,38014,East,PROD-78332,Technology,Copiers,Copiers Item 175,4129.68,3,0,1236.8
+ORD-100542,6/14/2019,6/18/2019,Standard Class,CUST-1155,Kendall Taylor,Consumer,New York,NY,58887,Central,PROD-26228,Technology,Copiers,Copiers Item 25,109.26,2,0,17.4
+ORD-100543,1/11/2018,1/19/2018,Second Class,CUST-1120,Finley Jackson,Corporate,Austin,TX,97231,West,PROD-47294,Furniture,Tables,Tables Item 342,8872.92,10,0.1,864.41
+ORD-100544,2/13/2020,2/22/2020,Standard Class,CUST-1053,Avery Taylor,Consumer,Columbus,OH,57352,South,PROD-65796,Office Supplies,Binders,Binders Item 425,425.6,7,0,128.88
+ORD-100545,5/8/2018,5/15/2018,Standard Class,CUST-1243,Riley Anderson,Consumer,Austin,TX,78977,South,PROD-44562,Technology,Machines,Machines Item 300,20665.28,8,0,1007.73
+ORD-100546,6/20/2020,6/28/2020,Standard Class,CUST-1213,Jamie Jones,Consumer,San Diego,CA,69993,West,PROD-37871,Technology,Phones,Phones Item 234,18751.68,8,0,3320.9
+ORD-100547,11/18/2018,11/27/2018,Second Class,CUST-1487,Morgan Martin,Home Office,Los Angeles,CA,25842,Central,PROD-15279,Technology,Copiers,Copiers Item 268,998.07,3,0,111.26
+ORD-100548,9/17/2019,9/23/2019,Second Class,CUST-1248,Alex Jones,Consumer,San Jose,CA,65280,East,PROD-38256,Furniture,Tables,Tables Item 94,4175.92,8,0,1879.16
+ORD-100549,12/16/2019,12/18/2019,Standard Class,CUST-1213,Emerson Jackson,Consumer,San Diego,CA,54279,South,PROD-28156,Furniture,Bookcases,Bookcases Item 259,10222.63,8,0.1,1812.35
+ORD-100550,7/8/2020,7/11/2020,Standard Class,CUST-1166,Jordan Martin,Corporate,San Antonio,TX,60755,West,PROD-80909,Furniture,Tables,Tables Item 24,8217.43,8,0.1,615.01
+ORD-100551,7/1/2018,7/4/2018,Standard Class,CUST-1292,Quinn Moore,Corporate,Austin,TX,83315,East,PROD-81019,Office Supplies,Envelopes,Envelopes Item 296,25.45,1,0.3,4.7
+ORD-100552,12/4/2020,12/8/2020,Standard Class,CUST-1257,Alex Brown,Corporate,Dallas,TX,33559,East,PROD-42150,Furniture,Bookcases,Bookcases Item 425,1147.5,10,0,181.9
+ORD-100553,12/28/2020,1/7/2021,Second Class,CUST-1301,Taylor Thomas,Home Office,New York,NY,54558,South,PROD-13153,Office Supplies,Labels,Labels Item 441,135.09,9,0,12.45
+ORD-100554,6/11/2019,6/13/2019,First Class,CUST-1050,Skyler Garcia,Consumer,Chicago,IL,43496,East,PROD-63382,Office Supplies,Writing,Writing Item 348,172.86,3,0,51.63
+ORD-100555,10/29/2019,11/1/2019,First Class,CUST-1029,Quinn Gonzalez,Consumer,Chicago,IL,64109,Central,PROD-25855,Furniture,Furnishings,Furnishings Item 27,1761.16,4,0,448.74
+ORD-100556,4/30/2019,5/8/2019,Standard Class,CUST-1258,Hayden Brown,Consumer,Philadelphia,PA,70925,South,PROD-13788,Office Supplies,Labels,Labels Item 209,58.91,4,0.2,12.55
+ORD-100557,2/8/2018,2/13/2018,Standard Class,CUST-1300,Morgan Davis,Corporate,Austin,TX,26458,Central,PROD-68455,Technology,Machines,Machines Item 43,19127.7,9,0,1610.07
+ORD-100558,10/19/2018,10/25/2018,Standard Class,CUST-1086,Cameron Moore,Home Office,Fort Worth,TX,82764,South,PROD-70902,Office Supplies,Paper,Paper Item 493,51,10,0,20.27
+ORD-100559,12/9/2018,12/10/2018,First Class,CUST-1471,Emerson Rodriguez,Consumer,Columbus,OH,99128,South,PROD-86697,Furniture,Bookcases,Bookcases Item 431,15735.51,9,0,3508.25
+ORD-100560,11/27/2018,12/6/2018,Standard Class,CUST-1153,Jordan Gonzalez,Corporate,Columbus,OH,28304,Central,PROD-90012,Furniture,Bookcases,Bookcases Item 259,6923.86,6,0.2,764.84
+ORD-100561,12/3/2019,12/8/2019,Same Day,CUST-1362,Reese Rodriguez,Consumer,Philadelphia,PA,54778,West,PROD-12080,Furniture,Tables,Tables Item 468,4916.73,3,0,1527.54
+ORD-100562,1/5/2018,1/15/2018,Second Class,CUST-1461,Alex Garcia,Consumer,Fort Worth,TX,74091,South,PROD-95078,Technology,Phones,Phones Item 334,517.48,2,0,100.26
+ORD-100563,6/30/2020,7/2/2020,Second Class,CUST-1416,Hayden Martin,Consumer,Chicago,IL,11105,East,PROD-35295,Furniture,Tables,Tables Item 228,1643.73,1,0,483.29
+ORD-100564,2/10/2018,2/15/2018,Standard Class,CUST-1363,Parker Miller,Consumer,San Jose,CA,91951,Central,PROD-40704,Technology,Accessories,Accessories Item 253,8207.46,6,0,1872.62
+ORD-100565,10/6/2020,10/16/2020,First Class,CUST-1100,Hayden Brown,Home Office,San Jose,CA,75578,South,PROD-35397,Office Supplies,Envelopes,Envelopes Item 338,663.3,10,0.1,293.11
+ORD-100566,12/26/2018,12/28/2018,Standard Class,CUST-1381,Jordan Jones,Consumer,San Jose,CA,39879,Central,PROD-98832,Office Supplies,Paper,Paper Item 273,100,10,0,5.62
+ORD-100567,7/18/2020,7/19/2020,Standard Class,CUST-1328,Taylor Hernandez,Consumer,San Antonio,TX,45918,East,PROD-74955,Technology,Machines,Machines Item 186,19223.73,9,0.1,2239.26
+ORD-100568,4/5/2019,4/6/2019,Second Class,CUST-1215,Skyler Anderson,Consumer,San Antonio,TX,35507,Central,PROD-13325,Office Supplies,Envelopes,Envelopes Item 378,186.34,4,0.3,83.85
+ORD-100569,5/17/2020,5/19/2020,Standard Class,CUST-1100,Jamie Hernandez,Consumer,Austin,TX,91958,East,PROD-66616,Office Supplies,Labels,Labels Item 414,72.48,1,0,12.21
+ORD-100570,11/16/2019,11/21/2019,First Class,CUST-1242,Cameron Hernandez,Corporate,Columbus,OH,53724,West,PROD-91207,Office Supplies,Envelopes,Envelopes Item 225,48.78,2,0,2.18
+ORD-100571,9/13/2018,9/15/2018,Same Day,CUST-1469,Taylor Gonzalez,Consumer,Columbus,OH,18523,West,PROD-17181,Office Supplies,Labels,Labels Item 155,686.6,10,0,170.08
+ORD-100572,5/15/2018,5/17/2018,Standard Class,CUST-1286,Taylor Martinez,Corporate,San Antonio,TX,22560,South,PROD-96471,Office Supplies,Envelopes,Envelopes Item 320,9.08,1,0,2.82
+ORD-100573,8/8/2020,8/15/2020,Standard Class,CUST-1317,Morgan Hernandez,Corporate,Austin,TX,13404,South,PROD-87045,Technology,Copiers,Copiers Item 99,4373.92,2,0,729.18
+ORD-100574,5/19/2018,5/29/2018,Standard Class,CUST-1099,Finley Jones,Corporate,Phoenix,AZ,56581,South,PROD-34369,Furniture,Furnishings,Furnishings Item 125,4045.36,3,0.1,-176.86
+ORD-100575,5/4/2018,5/7/2018,Second Class,CUST-1223,Rowan Lopez,Consumer,Fort Worth,TX,80928,West,PROD-50458,Office Supplies,Labels,Labels Item 309,230.16,6,0,16.53
+ORD-100576,1/17/2018,1/26/2018,Standard Class,CUST-1347,Casey Johnson,Consumer,Columbus,OH,83328,East,PROD-35612,Furniture,Tables,Tables Item 500,7903.68,4,0,-58.62
+ORD-100577,2/17/2019,2/19/2019,Second Class,CUST-1341,Emerson Anderson,Consumer,Philadelphia,PA,85813,Central,PROD-64879,Technology,Copiers,Copiers Item 169,6543.81,3,0,2749.76
+ORD-100578,3/28/2018,4/5/2018,First Class,CUST-1001,Cameron Davis,Consumer,Houston,TX,41328,South,PROD-59271,Technology,Copiers,Copiers Item 106,10291.89,7,0,-164.2
+ORD-100579,1/14/2018,1/20/2018,First Class,CUST-1183,Alex Moore,Consumer,Phoenix,AZ,67725,West,PROD-15754,Technology,Copiers,Copiers Item 500,1785.2,1,0,198.64
+ORD-100580,8/5/2019,8/8/2019,First Class,CUST-1134,Jamie Hernandez,Corporate,Houston,TX,33401,West,PROD-44313,Office Supplies,Binders,Binders Item 467,182.82,2,0,44.6
+ORD-100581,10/9/2018,10/16/2018,Standard Class,CUST-1453,Morgan Hernandez,Home Office,Phoenix,AZ,69795,West,PROD-96626,Furniture,Tables,Tables Item 88,8073.7,9,0.3,238.52
+ORD-100582,6/7/2020,6/9/2020,First Class,CUST-1451,Casey Miller,Consumer,San Antonio,TX,59054,Central,PROD-93380,Technology,Machines,Machines Item 126,1984.21,1,0.1,452.79
+ORD-100583,1/23/2019,2/1/2019,Second Class,CUST-1076,Avery Davis,Consumer,San Francisco,CA,46709,West,PROD-37425,Technology,Machines,Machines Item 373,4912.06,2,0.1,480.04
+ORD-100584,5/13/2018,5/16/2018,Standard Class,CUST-1384,Rowan Lopez,Consumer,San Diego,CA,33461,Central,PROD-78875,Technology,Copiers,Copiers Item 356,3999.31,8,0.1,875.27
+ORD-100585,10/10/2020,10/18/2020,Second Class,CUST-1205,Finley Johnson,Consumer,Fort Worth,TX,36607,South,PROD-38651,Office Supplies,Labels,Labels Item 157,281.34,7,0.2,40.8
+ORD-100586,11/18/2018,11/24/2018,Second Class,CUST-1043,Casey Williams,Consumer,Dallas,TX,56081,West,PROD-70981,Technology,Phones,Phones Item 263,7567.5,10,0,1219.82
+ORD-100587,7/12/2020,7/20/2020,Second Class,CUST-1188,Emerson Hernandez,Consumer,New York,NY,33536,South,PROD-94587,Office Supplies,Writing,Writing Item 39,251.76,6,0.2,77.41
+ORD-100588,8/27/2019,9/5/2019,Standard Class,CUST-1329,Jordan Rodriguez,Home Office,Los Angeles,CA,25543,East,PROD-81568,Furniture,Chairs,Chairs Item 103,4503.06,6,0,186.12
+ORD-100589,11/6/2019,11/11/2019,Second Class,CUST-1417,Drew Miller,Corporate,Chicago,IL,81188,Central,PROD-46942,Office Supplies,Writing,Writing Item 422,217.78,6,0.1,47.54
+ORD-100590,4/7/2020,4/14/2020,Standard Class,CUST-1387,Alex Thomas,Corporate,San Francisco,CA,29566,South,PROD-37508,Office Supplies,Binders,Binders Item 243,388,4,0,107.43
+ORD-100591,8/17/2020,8/25/2020,Second Class,CUST-1043,Avery Miller,Consumer,Jacksonville,FL,64747,West,PROD-83196,Furniture,Furnishings,Furnishings Item 16,4104.72,6,0,125.23
+ORD-100592,9/20/2018,9/25/2018,Standard Class,CUST-1004,Emerson Lopez,Consumer,San Antonio,TX,65799,South,PROD-52739,Technology,Copiers,Copiers Item 301,2324.95,1,0,-15.6
+ORD-100593,3/7/2018,3/10/2018,First Class,CUST-1487,Avery Jackson,Corporate,San Jose,CA,89670,South,PROD-61201,Furniture,Bookcases,Bookcases Item 33,1739.88,9,0,256.31
+ORD-100594,8/30/2020,9/1/2020,Second Class,CUST-1492,Reese Martinez,Consumer,Los Angeles,CA,98458,West,PROD-74043,Office Supplies,Envelopes,Envelopes Item 14,55.92,3,0,-3.99
+ORD-100595,3/1/2020,3/6/2020,First Class,CUST-1149,Rowan Williams,Consumer,Philadelphia,PA,77964,East,PROD-63852,Office Supplies,Writing,Writing Item 201,174.78,3,0.3,36.79
+ORD-100596,9/22/2018,10/1/2018,Second Class,CUST-1380,Jordan Gonzalez,Home Office,Columbus,OH,37063,West,PROD-66649,Office Supplies,Writing,Writing Item 419,353.84,8,0,91.25
+ORD-100597,9/28/2019,10/8/2019,First Class,CUST-1366,Reese Rodriguez,Consumer,Chicago,IL,68422,East,PROD-78925,Furniture,Bookcases,Bookcases Item 169,11425.76,10,0.2,148.08
+ORD-100598,7/31/2020,8/8/2020,Standard Class,CUST-1377,Jordan Martinez,Corporate,Fort Worth,TX,69809,Central,PROD-61260,Technology,Copiers,Copiers Item 314,1553.34,3,0,437.5
+ORD-100599,1/3/2019,1/13/2019,Standard Class,CUST-1234,Hayden Garcia,Corporate,Los Angeles,CA,61583,East,PROD-45884,Office Supplies,Binders,Binders Item 452,436.59,9,0,142.63
+ORD-100600,5/17/2018,5/21/2018,Standard Class,CUST-1210,Skyler Brown,Home Office,Los Angeles,CA,23791,Central,PROD-31605,Furniture,Furnishings,Furnishings Item 130,6784.52,4,0,1516.47
+ORD-100601,8/4/2020,8/5/2020,First Class,CUST-1355,Reese Gonzalez,Consumer,San Antonio,TX,35480,South,PROD-42847,Office Supplies,Paper,Paper Item 59,261.27,3,0,87.75
+ORD-100602,8/8/2020,8/16/2020,Second Class,CUST-1042,Skyler Davis,Corporate,San Diego,CA,28383,South,PROD-32359,Furniture,Bookcases,Bookcases Item 430,451.39,1,0,63.54
+ORD-100603,12/29/2018,1/3/2019,First Class,CUST-1379,Hayden Garcia,Consumer,San Francisco,CA,11469,Central,PROD-56935,Office Supplies,Labels,Labels Item 92,27.32,4,0.1,3.11
+ORD-100604,12/26/2020,12/30/2020,Second Class,CUST-1024,Rowan Brown,Consumer,Phoenix,AZ,68194,East,PROD-16378,Technology,Phones,Phones Item 396,10098.21,7,0.1,1659.04
+ORD-100605,5/27/2019,6/2/2019,Standard Class,CUST-1102,Jordan Smith,Consumer,New York,NY,54186,West,PROD-38910,Technology,Phones,Phones Item 491,5045.31,2,0.1,281.56
+ORD-100606,12/10/2018,12/13/2018,First Class,CUST-1262,Morgan Hernandez,Consumer,Austin,TX,34844,West,PROD-66083,Technology,Machines,Machines Item 62,3848.6,4,0,420.84
+ORD-100607,1/1/2020,1/7/2020,First Class,CUST-1205,Avery Smith,Consumer,San Diego,CA,38848,East,PROD-95189,Technology,Copiers,Copiers Item 320,2772.36,6,0,502.12
+ORD-100608,3/24/2019,3/31/2019,Second Class,CUST-1306,Emerson Brown,Corporate,San Francisco,CA,84606,West,PROD-88625,Furniture,Chairs,Chairs Item 167,12435.76,7,0.1,2446.38
+ORD-100609,9/30/2018,10/6/2018,First Class,CUST-1389,Avery Thomas,Consumer,New York,NY,89761,South,PROD-75984,Furniture,Bookcases,Bookcases Item 301,1742.44,1,0,408.26
+ORD-100610,9/12/2018,9/17/2018,First Class,CUST-1219,Cameron Martin,Consumer,Chicago,IL,59089,South,PROD-29879,Furniture,Bookcases,Bookcases Item 193,3746.96,4,0,-270.19
+ORD-100611,5/3/2019,5/13/2019,Same Day,CUST-1227,Avery Jones,Consumer,Austin,TX,15191,South,PROD-13105,Technology,Copiers,Copiers Item 118,12043.56,6,0,5419.6
+ORD-100612,2/26/2019,3/7/2019,First Class,CUST-1469,Cameron Davis,Corporate,San Antonio,TX,78350,Central,PROD-92546,Office Supplies,Labels,Labels Item 4,25.1,2,0.2,1.69
+ORD-100613,5/24/2018,5/28/2018,First Class,CUST-1072,Riley Jones,Consumer,San Jose,CA,81938,West,PROD-20245,Office Supplies,Envelopes,Envelopes Item 219,544,8,0,139.98
+ORD-100614,2/9/2019,2/13/2019,Second Class,CUST-1310,Cameron Martinez,Consumer,San Diego,CA,93309,West,PROD-20487,Furniture,Furnishings,Furnishings Item 487,11647.98,6,0,2483.21
+ORD-100615,12/10/2018,12/18/2018,Second Class,CUST-1258,Reese Wilson,Corporate,Columbus,OH,73176,East,PROD-20909,Furniture,Furnishings,Furnishings Item 389,4576.55,5,0,466.42
+ORD-100616,11/9/2018,11/18/2018,Standard Class,CUST-1131,Hayden Anderson,Consumer,Phoenix,AZ,59171,South,PROD-27911,Office Supplies,Writing,Writing Item 367,696.64,8,0,171.14
+ORD-100617,1/24/2019,1/25/2019,First Class,CUST-1256,Parker Thomas,Consumer,San Antonio,TX,61727,Central,PROD-50345,Furniture,Furnishings,Furnishings Item 329,16843.2,10,0,1178.03
+ORD-100618,3/21/2018,3/23/2018,Second Class,CUST-1289,Jamie Miller,Corporate,Phoenix,AZ,55688,South,PROD-17563,Technology,Copiers,Copiers Item 334,15875.72,7,0.2,2798.79
+ORD-100619,5/21/2019,5/25/2019,Second Class,CUST-1471,Parker Smith,Corporate,Austin,TX,29383,Central,PROD-99268,Technology,Machines,Machines Item 76,9305.9,5,0,3912.28
+ORD-100620,11/27/2018,11/28/2018,First Class,CUST-1047,Hayden Gonzalez,Corporate,Fort Worth,TX,20531,West,PROD-65950,Furniture,Bookcases,Bookcases Item 130,8721.8,5,0,1100.08
+ORD-100621,12/27/2020,1/3/2021,Standard Class,CUST-1375,Kendall Williams,Consumer,San Jose,CA,55140,West,PROD-62162,Furniture,Bookcases,Bookcases Item 358,9326.75,5,0,1754.36
+ORD-100622,12/11/2018,12/19/2018,First Class,CUST-1035,Kendall Taylor,Consumer,Phoenix,AZ,66485,West,PROD-34431,Office Supplies,Writing,Writing Item 361,208.71,3,0,10.6
+ORD-100623,1/8/2019,1/17/2019,Standard Class,CUST-1230,Finley Miller,Consumer,New York,NY,33950,West,PROD-67767,Furniture,Furnishings,Furnishings Item 321,13348.3,10,0,3473.35
+ORD-100624,12/7/2018,12/9/2018,Second Class,CUST-1193,Morgan Rodriguez,Consumer,New York,NY,86761,West,PROD-98185,Furniture,Furnishings,Furnishings Item 390,1636.08,2,0,143
+ORD-100625,6/29/2019,6/30/2019,Standard Class,CUST-1404,Taylor Brown,Consumer,San Francisco,CA,10951,South,PROD-73691,Technology,Copiers,Copiers Item 243,11882.28,6,0,2561.76
+ORD-100626,11/21/2019,11/27/2019,Standard Class,CUST-1175,Avery Davis,Home Office,Austin,TX,62228,South,PROD-56665,Technology,Phones,Phones Item 448,16190.55,6,0.1,4867.16
+ORD-100627,1/7/2018,1/15/2018,Standard Class,CUST-1205,Casey Smith,Corporate,Columbus,OH,79550,Central,PROD-58290,Technology,Accessories,Accessories Item 232,21163.59,10,0.1,3168.49
+ORD-100628,8/31/2020,9/9/2020,Second Class,CUST-1096,Alex Hernandez,Consumer,Philadelphia,PA,15997,Central,PROD-40612,Technology,Machines,Machines Item 311,13677.68,8,0,3388.35
+ORD-100629,6/16/2018,6/22/2018,Second Class,CUST-1476,Emerson Brown,Corporate,Phoenix,AZ,89583,West,PROD-78164,Technology,Accessories,Accessories Item 449,11019.06,10,0.1,2453.57
+ORD-100630,10/30/2020,10/31/2020,First Class,CUST-1407,Jordan Martinez,Corporate,Dallas,TX,71184,West,PROD-73198,Furniture,Chairs,Chairs Item 340,6189.39,9,0,1891.67
+ORD-100631,3/10/2019,3/13/2019,Standard Class,CUST-1337,Jordan Brown,Consumer,Jacksonville,FL,13830,West,PROD-46747,Furniture,Furnishings,Furnishings Item 113,6914.07,5,0.1,1717.41
+ORD-100632,9/10/2018,9/13/2018,Standard Class,CUST-1324,Emerson Williams,Corporate,Philadelphia,PA,39334,East,PROD-59415,Technology,Copiers,Copiers Item 467,15104.12,7,0.1,5056.42
+ORD-100633,6/13/2020,6/17/2020,First Class,CUST-1059,Quinn Williams,Consumer,Philadelphia,PA,87620,West,PROD-85083,Technology,Phones,Phones Item 189,907.73,3,0.2,134.92
+ORD-100634,2/18/2020,2/28/2020,Standard Class,CUST-1159,Taylor Jackson,Consumer,Columbus,OH,60875,South,PROD-99037,Furniture,Tables,Tables Item 479,3335.25,3,0,88.84
+ORD-100635,3/31/2019,4/2/2019,Second Class,CUST-1275,Reese Hernandez,Consumer,Phoenix,AZ,38692,South,PROD-29323,Technology,Machines,Machines Item 308,10462.45,5,0,-180.47
+ORD-100636,3/12/2018,3/22/2018,Second Class,CUST-1257,Morgan Rodriguez,Home Office,Jacksonville,FL,85231,South,PROD-74883,Technology,Accessories,Accessories Item 150,8245.3,7,0,-52.17
+ORD-100637,11/14/2019,11/17/2019,Standard Class,CUST-1107,Cameron Johnson,Home Office,San Francisco,CA,33464,South,PROD-49203,Technology,Machines,Machines Item 418,2377.81,3,0.3,341.4
+ORD-100638,3/14/2020,3/20/2020,Second Class,CUST-1242,Parker Gonzalez,Consumer,Dallas,TX,47098,Central,PROD-81828,Technology,Accessories,Accessories Item 202,1394.52,2,0,279.41
+ORD-100639,4/21/2018,4/26/2018,Second Class,CUST-1083,Finley Jones,Consumer,San Diego,CA,48152,West,PROD-35644,Office Supplies,Binders,Binders Item 377,67.48,1,0,6.48
+ORD-100640,7/28/2018,7/31/2018,Second Class,CUST-1218,Jamie Johnson,Consumer,San Diego,CA,33544,East,PROD-95209,Office Supplies,Envelopes,Envelopes Item 174,627.1,10,0,-56.37
+ORD-100641,11/1/2018,11/8/2018,First Class,CUST-1060,Cameron Gonzalez,Consumer,Jacksonville,FL,88139,West,PROD-97914,Technology,Machines,Machines Item 338,4666.91,2,0.1,457.55
+ORD-100642,2/22/2020,2/27/2020,Standard Class,CUST-1227,Parker Smith,Consumer,Los Angeles,CA,25997,South,PROD-13018,Technology,Accessories,Accessories Item 301,10968.02,10,0.3,1376.38
+ORD-100643,9/9/2020,9/14/2020,Standard Class,CUST-1048,Finley Garcia,Consumer,Austin,TX,66840,Central,PROD-23033,Technology,Accessories,Accessories Item 167,1866.46,2,0.1,331.5
+ORD-100644,1/14/2019,1/21/2019,Standard Class,CUST-1010,Hayden Moore,Corporate,San Francisco,CA,79479,South,PROD-86640,Office Supplies,Envelopes,Envelopes Item 276,70.67,2,0.1,24.98
+ORD-100645,3/1/2019,3/3/2019,First Class,CUST-1306,Jamie Smith,Consumer,San Francisco,CA,51195,East,PROD-85377,Office Supplies,Binders,Binders Item 106,162.87,3,0,-6.33
+ORD-100646,6/10/2019,6/11/2019,First Class,CUST-1063,Rowan Martinez,Consumer,Dallas,TX,32492,South,PROD-42550,Technology,Phones,Phones Item 154,1465.25,1,0.2,383.3
+ORD-100647,11/29/2020,12/4/2020,Standard Class,CUST-1227,Casey Jackson,Consumer,Philadelphia,PA,78506,Central,PROD-22977,Technology,Accessories,Accessories Item 340,2160.01,1,0,537.96
+ORD-100648,1/21/2019,1/24/2019,Second Class,CUST-1426,Riley Jones,Corporate,Houston,TX,87566,Central,PROD-91567,Furniture,Bookcases,Bookcases Item 217,3826.54,2,0,572.75
+ORD-100649,6/18/2019,6/25/2019,Standard Class,CUST-1083,Hayden Anderson,Consumer,Phoenix,AZ,98673,South,PROD-80242,Technology,Accessories,Accessories Item 105,5565.12,2,0,1263.56
+ORD-100650,7/6/2019,7/10/2019,Standard Class,CUST-1288,Rowan Martin,Consumer,Columbus,OH,30118,Central,PROD-13396,Furniture,Furnishings,Furnishings Item 494,1675.2,10,0,263.56
+ORD-100651,7/8/2019,7/10/2019,Standard Class,CUST-1350,Skyler Wilson,Consumer,Austin,TX,21662,Central,PROD-29179,Furniture,Tables,Tables Item 445,991.08,4,0,244.17
+ORD-100652,7/20/2018,7/27/2018,Same Day,CUST-1113,Hayden Brown,Corporate,Los Angeles,CA,33033,Central,PROD-22522,Technology,Machines,Machines Item 271,7926.66,6,0.1,598.71
+ORD-100653,8/1/2019,8/10/2019,Second Class,CUST-1050,Taylor Garcia,Consumer,San Francisco,CA,61060,West,PROD-72503,Furniture,Furnishings,Furnishings Item 304,1947.66,3,0,120.54
+ORD-100654,11/17/2020,11/20/2020,Standard Class,CUST-1073,Hayden Jackson,Corporate,New York,NY,93780,Central,PROD-98895,Technology,Accessories,Accessories Item 312,15202.03,7,0.1,-751.78
+ORD-100655,1/10/2019,1/18/2019,Same Day,CUST-1408,Reese Taylor,Consumer,San Antonio,TX,78235,West,PROD-50063,Furniture,Chairs,Chairs Item 209,6696.81,6,0.1,1524.33
+ORD-100656,6/12/2018,6/14/2018,Standard Class,CUST-1483,Jordan Garcia,Consumer,Los Angeles,CA,47467,South,PROD-98740,Office Supplies,Labels,Labels Item 261,216.54,3,0,23.3
+ORD-100657,11/20/2020,11/29/2020,Standard Class,CUST-1207,Alex Martin,Consumer,Columbus,OH,10955,South,PROD-42011,Technology,Copiers,Copiers Item 379,3104.08,9,0.1,-32.34
+ORD-100658,3/28/2018,4/7/2018,Second Class,CUST-1086,Rowan Davis,Consumer,Philadelphia,PA,27474,Central,PROD-74947,Office Supplies,Labels,Labels Item 195,59.25,3,0,3.77
+ORD-100659,8/20/2018,8/26/2018,Standard Class,CUST-1127,Skyler Brown,Consumer,San Diego,CA,48475,Central,PROD-92729,Office Supplies,Paper,Paper Item 292,374.29,7,0,92.12
+ORD-100660,9/17/2019,9/26/2019,Standard Class,CUST-1018,Reese Martin,Corporate,New York,NY,56628,East,PROD-53063,Technology,Machines,Machines Item 153,12797.76,6,0,2550.05
+ORD-100661,12/18/2019,12/21/2019,Second Class,CUST-1004,Morgan Wilson,Consumer,Los Angeles,CA,79349,West,PROD-73886,Furniture,Chairs,Chairs Item 4,1485.81,3,0.1,100.34
+ORD-100662,5/28/2019,6/1/2019,Second Class,CUST-1191,Quinn Lopez,Consumer,Chicago,IL,80310,Central,PROD-96019,Office Supplies,Labels,Labels Item 430,770.96,8,0,268.05
+ORD-100663,12/26/2019,1/2/2020,First Class,CUST-1452,Riley Brown,Consumer,New York,NY,27521,South,PROD-14142,Furniture,Tables,Tables Item 83,3593.41,4,0.2,614.41
+ORD-100664,6/29/2019,7/1/2019,Second Class,CUST-1281,Emerson Jones,Consumer,San Francisco,CA,62412,South,PROD-24139,Office Supplies,Paper,Paper Item 406,6.25,1,0,1.48
+ORD-100665,12/6/2019,12/15/2019,First Class,CUST-1350,Cameron Johnson,Corporate,Philadelphia,PA,66317,East,PROD-47940,Furniture,Furnishings,Furnishings Item 145,9785.12,8,0,1924.79
+ORD-100666,5/28/2020,6/1/2020,Standard Class,CUST-1373,Rowan Garcia,Consumer,San Francisco,CA,25075,Central,PROD-97337,Technology,Accessories,Accessories Item 421,17228.26,7,0,2514.07
+ORD-100667,7/31/2018,8/9/2018,Standard Class,CUST-1096,Finley Jones,Consumer,Chicago,IL,62596,East,PROD-29163,Furniture,Bookcases,Bookcases Item 219,463.49,1,0,105.74
+ORD-100668,7/6/2018,7/7/2018,Second Class,CUST-1268,Quinn Davis,Consumer,San Antonio,TX,72809,East,PROD-94393,Technology,Machines,Machines Item 27,9203.6,5,0,2926.1
+ORD-100669,1/15/2020,1/20/2020,Standard Class,CUST-1364,Kendall Davis,Consumer,New York,NY,33822,East,PROD-96563,Office Supplies,Paper,Paper Item 382,541.2,6,0,77.87
+ORD-100670,8/24/2020,8/29/2020,Standard Class,CUST-1051,Kendall Garcia,Consumer,San Diego,CA,57655,Central,PROD-22699,Furniture,Chairs,Chairs Item 343,665.25,1,0.1,179.39
+ORD-100671,9/24/2018,9/30/2018,Second Class,CUST-1414,Parker Jackson,Consumer,Philadelphia,PA,41228,Central,PROD-60338,Office Supplies,Envelopes,Envelopes Item 45,57.86,2,0,5.55
+ORD-100672,9/4/2018,9/5/2018,Standard Class,CUST-1467,Riley Miller,Corporate,Fort Worth,TX,22928,East,PROD-49515,Technology,Copiers,Copiers Item 372,13839.78,8,0.3,5513.06
+ORD-100673,2/18/2019,2/27/2019,Standard Class,CUST-1022,Casey Miller,Consumer,Jacksonville,FL,43099,Central,PROD-92557,Furniture,Furnishings,Furnishings Item 368,378.06,2,0.2,30.48
+ORD-100674,5/19/2018,5/27/2018,Second Class,CUST-1476,Rowan Smith,Consumer,Phoenix,AZ,26899,Central,PROD-17968,Office Supplies,Envelopes,Envelopes Item 407,227.3,4,0.1,101.54
+ORD-100675,3/25/2020,4/2/2020,Standard Class,CUST-1445,Rowan Williams,Consumer,San Francisco,CA,76752,South,PROD-62540,Technology,Machines,Machines Item 311,2603.4,5,0,81.91
+ORD-100676,1/8/2018,1/11/2018,Standard Class,CUST-1303,Alex Taylor,Consumer,Jacksonville,FL,78822,Central,PROD-48844,Furniture,Bookcases,Bookcases Item 363,7434.5,5,0,1022.3
+ORD-100677,12/17/2018,12/21/2018,First Class,CUST-1121,Quinn Johnson,Corporate,Fort Worth,TX,46406,West,PROD-94202,Furniture,Chairs,Chairs Item 128,946.56,4,0,221.9
+ORD-100678,1/3/2018,1/9/2018,Standard Class,CUST-1497,Parker Hernandez,Consumer,Jacksonville,FL,81994,Central,PROD-63522,Technology,Accessories,Accessories Item 460,904.4,10,0,295.69
+ORD-100679,4/28/2018,4/29/2018,Standard Class,CUST-1112,Drew Garcia,Consumer,New York,NY,80436,East,PROD-95698,Technology,Machines,Machines Item 132,16491.6,10,0,6181.18
+ORD-100680,6/24/2020,6/28/2020,Second Class,CUST-1104,Finley Gonzalez,Consumer,Houston,TX,66872,Central,PROD-22280,Office Supplies,Labels,Labels Item 254,74.19,3,0,26.35
+ORD-100681,12/27/2018,12/31/2018,Standard Class,CUST-1482,Jamie Martinez,Consumer,Chicago,IL,33295,South,PROD-19103,Technology,Accessories,Accessories Item 74,3000.74,2,0,-66.73
+ORD-100682,7/20/2020,7/27/2020,First Class,CUST-1269,Casey Smith,Corporate,San Antonio,TX,60330,East,PROD-94473,Office Supplies,Paper,Paper Item 479,98.8,1,0,22.7
+ORD-100683,6/21/2018,6/26/2018,First Class,CUST-1321,Reese Smith,Corporate,New York,NY,23938,Central,PROD-36518,Technology,Phones,Phones Item 72,8819.06,8,0.1,770.11
+ORD-100684,6/28/2020,7/1/2020,Second Class,CUST-1245,Casey Davis,Consumer,Jacksonville,FL,45056,East,PROD-23476,Office Supplies,Paper,Paper Item 279,219.8,5,0,65.32
+ORD-100685,4/30/2020,5/3/2020,First Class,CUST-1114,Alex Davis,Consumer,Chicago,IL,56309,Central,PROD-24733,Office Supplies,Labels,Labels Item 252,208.19,3,0.3,65.06
+ORD-100686,4/5/2019,4/7/2019,Same Day,CUST-1144,Parker Williams,Corporate,Los Angeles,CA,57250,East,PROD-29805,Office Supplies,Envelopes,Envelopes Item 92,102.06,7,0,22.08
+ORD-100687,1/7/2019,1/14/2019,First Class,CUST-1341,Quinn Martin,Corporate,Philadelphia,PA,23621,Central,PROD-44786,Furniture,Tables,Tables Item 416,2120.13,2,0.1,245.73
+ORD-100688,11/1/2018,11/4/2018,Second Class,CUST-1199,Reese Thomas,Corporate,Los Angeles,CA,85739,South,PROD-28961,Technology,Copiers,Copiers Item 47,3515.4,6,0.3,168.41
+ORD-100689,1/8/2019,1/15/2019,Second Class,CUST-1253,Kendall Thomas,Corporate,San Antonio,TX,88871,Central,PROD-60224,Office Supplies,Binders,Binders Item 215,331.11,9,0,31.34
+ORD-100690,12/29/2020,1/6/2021,Standard Class,CUST-1420,Cameron Gonzalez,Consumer,Jacksonville,FL,65291,West,PROD-40827,Technology,Phones,Phones Item 186,226.88,1,0,20.17
+ORD-100691,2/5/2018,2/11/2018,Standard Class,CUST-1490,Casey Brown,Consumer,Philadelphia,PA,57298,West,PROD-28892,Furniture,Furnishings,Furnishings Item 428,10147.41,9,0.3,1867.28
+ORD-100692,5/12/2020,5/16/2020,First Class,CUST-1114,Taylor Jones,Consumer,Jacksonville,FL,28753,South,PROD-65667,Technology,Phones,Phones Item 191,644.81,1,0.1,195.85
+ORD-100693,6/1/2018,6/9/2018,Standard Class,CUST-1445,Jamie Smith,Consumer,Chicago,IL,20353,West,PROD-84603,Office Supplies,Paper,Paper Item 426,460.53,7,0,88.89
+ORD-100694,1/9/2019,1/17/2019,Standard Class,CUST-1383,Rowan Martinez,Consumer,Jacksonville,FL,54215,South,PROD-47587,Technology,Phones,Phones Item 57,4824.63,3,0,189.55
+ORD-100695,3/7/2018,3/17/2018,Standard Class,CUST-1257,Jamie Smith,Consumer,San Antonio,TX,99116,South,PROD-84981,Technology,Copiers,Copiers Item 257,9067.82,5,0.1,290.02
+ORD-100696,5/17/2020,5/20/2020,Second Class,CUST-1047,Rowan Gonzalez,Home Office,Chicago,IL,37769,South,PROD-38692,Technology,Phones,Phones Item 201,8052.86,3,0.1,2121.12
+ORD-100697,6/8/2018,6/16/2018,Second Class,CUST-1334,Hayden Gonzalez,Consumer,San Francisco,CA,58690,South,PROD-24208,Office Supplies,Writing,Writing Item 54,147.2,2,0,60.88
+ORD-100698,11/19/2019,11/20/2019,First Class,CUST-1083,Skyler Brown,Consumer,San Jose,CA,11438,Central,PROD-36440,Office Supplies,Envelopes,Envelopes Item 327,47.59,1,0,9.12
+ORD-100699,6/24/2018,7/4/2018,Standard Class,CUST-1288,Emerson Johnson,Consumer,Los Angeles,CA,50449,East,PROD-62184,Furniture,Tables,Tables Item 257,7669.48,4,0,753.86
+ORD-100700,3/11/2020,3/17/2020,Same Day,CUST-1359,Morgan Hernandez,Consumer,Jacksonville,FL,76005,East,PROD-13104,Technology,Accessories,Accessories Item 301,3796.8,7,0,232.05
+ORD-100701,3/18/2018,3/23/2018,First Class,CUST-1349,Reese Williams,Home Office,Los Angeles,CA,40352,West,PROD-31108,Technology,Accessories,Accessories Item 494,14550.93,9,0,3718.19
+ORD-100702,12/7/2020,12/13/2020,Second Class,CUST-1067,Avery Martinez,Consumer,Columbus,OH,66479,East,PROD-41340,Technology,Machines,Machines Item 107,3081,10,0,1140.02
+ORD-100703,11/9/2018,11/19/2018,Standard Class,CUST-1254,Morgan Smith,Consumer,Columbus,OH,50572,East,PROD-69612,Furniture,Chairs,Chairs Item 161,1746.62,3,0.2,250.09
+ORD-100704,11/27/2018,11/29/2018,Second Class,CUST-1186,Parker Williams,Consumer,Jacksonville,FL,70390,Central,PROD-67939,Furniture,Tables,Tables Item 333,3231.79,3,0.2,374.66
+ORD-100705,9/26/2020,9/27/2020,Second Class,CUST-1146,Hayden Wilson,Home Office,Fort Worth,TX,99205,West,PROD-77171,Furniture,Tables,Tables Item 433,2430.47,10,0.3,27.08
+ORD-100706,2/5/2020,2/7/2020,Standard Class,CUST-1259,Reese Rodriguez,Home Office,Austin,TX,15593,East,PROD-83505,Technology,Accessories,Accessories Item 5,7146.24,3,0.2,1348.92
+ORD-100707,8/19/2019,8/26/2019,First Class,CUST-1204,Jordan Davis,Consumer,San Diego,CA,97706,East,PROD-71405,Furniture,Furnishings,Furnishings Item 329,12182.11,9,0.2,3333.14
+ORD-100708,8/10/2020,8/12/2020,First Class,CUST-1374,Morgan Gonzalez,Corporate,Houston,TX,62628,Central,PROD-54882,Office Supplies,Writing,Writing Item 310,424.4,8,0,38.24
+ORD-100709,9/2/2020,9/4/2020,Second Class,CUST-1019,Skyler Jones,Home Office,Chicago,IL,93914,West,PROD-88784,Furniture,Chairs,Chairs Item 397,10659.46,7,0,2206.95
+ORD-100710,1/11/2020,1/18/2020,Same Day,CUST-1109,Taylor Miller,Home Office,San Francisco,CA,99610,South,PROD-93320,Furniture,Tables,Tables Item 91,598.08,2,0,143.81
+ORD-100711,7/15/2019,7/22/2019,First Class,CUST-1447,Reese Wilson,Consumer,Austin,TX,44006,West,PROD-66168,Office Supplies,Paper,Paper Item 176,357.3,5,0,89.28
+ORD-100712,12/17/2019,12/24/2019,Second Class,CUST-1274,Jamie Wilson,Consumer,Jacksonville,FL,84752,South,PROD-88266,Office Supplies,Envelopes,Envelopes Item 102,9.97,2,0.1,0.51
+ORD-100713,10/24/2018,10/30/2018,Standard Class,CUST-1421,Avery Smith,Consumer,San Diego,CA,29331,South,PROD-98335,Furniture,Chairs,Chairs Item 209,3761.35,5,0,275.45
+ORD-100714,1/8/2018,1/16/2018,Standard Class,CUST-1438,Casey Anderson,Corporate,San Jose,CA,22772,East,PROD-65073,Office Supplies,Binders,Binders Item 357,85.78,9,0.1,16.34
+ORD-100715,2/13/2020,2/17/2020,Second Class,CUST-1487,Riley Jackson,Home Office,Philadelphia,PA,57683,East,PROD-75809,Furniture,Tables,Tables Item 420,1162.39,2,0.1,308
+ORD-100716,7/22/2020,7/29/2020,Second Class,CUST-1180,Skyler Wilson,Consumer,San Francisco,CA,54017,East,PROD-66149,Office Supplies,Labels,Labels Item 192,122.7,3,0,53.83
+ORD-100717,11/30/2018,12/9/2018,Second Class,CUST-1145,Kendall Martinez,Corporate,Fort Worth,TX,23005,East,PROD-95147,Office Supplies,Paper,Paper Item 9,420.32,10,0.2,18.59
+ORD-100718,8/1/2018,8/9/2018,Standard Class,CUST-1319,Skyler Brown,Corporate,Dallas,TX,86183,East,PROD-65134,Technology,Copiers,Copiers Item 109,9935.24,4,0.1,2087.96
+ORD-100719,2/20/2020,2/22/2020,First Class,CUST-1240,Morgan Lopez,Home Office,Fort Worth,TX,70810,South,PROD-10996,Technology,Machines,Machines Item 482,13809.15,6,0.1,2483.08
+ORD-100720,11/5/2020,11/10/2020,Second Class,CUST-1337,Drew Martinez,Corporate,San Francisco,CA,64357,West,PROD-14282,Office Supplies,Labels,Labels Item 8,22.43,1,0,2.86
+ORD-100721,2/6/2020,2/15/2020,Standard Class,CUST-1307,Avery Hernandez,Consumer,San Jose,CA,66363,West,PROD-35252,Technology,Machines,Machines Item 316,16609.07,7,0.1,5314.18
+ORD-100722,5/28/2020,5/31/2020,Standard Class,CUST-1199,Jamie Gonzalez,Home Office,Dallas,TX,30767,South,PROD-26558,Office Supplies,Paper,Paper Item 259,174.14,2,0,43.22
+ORD-100723,3/13/2020,3/18/2020,Standard Class,CUST-1081,Avery Miller,Consumer,New York,NY,67333,East,PROD-13646,Technology,Accessories,Accessories Item 317,6681.17,9,0.2,1683.33
+ORD-100724,6/11/2018,6/21/2018,Second Class,CUST-1380,Casey Anderson,Corporate,San Francisco,CA,56939,West,PROD-48918,Office Supplies,Binders,Binders Item 100,80.43,9,0.1,3.01
+ORD-100725,2/14/2020,2/19/2020,Standard Class,CUST-1140,Jordan Jones,Corporate,Austin,TX,85937,East,PROD-88105,Office Supplies,Labels,Labels Item 63,140.22,2,0,19.3
+ORD-100726,6/21/2019,6/24/2019,First Class,CUST-1253,Parker Miller,Consumer,San Diego,CA,12877,South,PROD-92009,Office Supplies,Labels,Labels Item 40,129.31,4,0.1,24.06
+ORD-100727,2/8/2020,2/14/2020,Standard Class,CUST-1230,Jamie Garcia,Consumer,Fort Worth,TX,33419,East,PROD-55453,Office Supplies,Writing,Writing Item 248,826,10,0,165.58
+ORD-100728,1/11/2018,1/14/2018,Standard Class,CUST-1130,Morgan Miller,Corporate,Dallas,TX,13019,West,PROD-25045,Office Supplies,Writing,Writing Item 461,59.96,4,0,26.98
+ORD-100729,10/11/2018,10/15/2018,First Class,CUST-1354,Casey Rodriguez,Consumer,Houston,TX,22054,Central,PROD-71216,Technology,Copiers,Copiers Item 382,18393.04,8,0,2648.29
+ORD-100730,3/30/2020,4/3/2020,Second Class,CUST-1101,Drew Gonzalez,Consumer,San Francisco,CA,87015,Central,PROD-73941,Office Supplies,Binders,Binders Item 222,153.04,8,0,-18.84
+ORD-100731,7/11/2019,7/17/2019,Standard Class,CUST-1310,Hayden Wilson,Consumer,Philadelphia,PA,59015,East,PROD-14424,Furniture,Bookcases,Bookcases Item 491,3018.87,9,0,566.57
+ORD-100732,4/19/2020,4/24/2020,Standard Class,CUST-1449,Rowan Lopez,Consumer,Los Angeles,CA,33580,Central,PROD-56890,Furniture,Bookcases,Bookcases Item 126,1533.38,2,0,369.44
+ORD-100733,2/1/2020,2/7/2020,First Class,CUST-1160,Morgan Smith,Consumer,New York,NY,53105,West,PROD-40493,Furniture,Tables,Tables Item 288,1786.74,2,0,333.19
+ORD-100734,3/11/2019,3/20/2019,First Class,CUST-1287,Drew Martin,Home Office,San Francisco,CA,97994,East,PROD-99408,Technology,Machines,Machines Item 388,6644.47,7,0,-1106.92
+ORD-100735,10/18/2019,10/22/2019,First Class,CUST-1410,Emerson Thomas,Consumer,Phoenix,AZ,65212,East,PROD-32431,Office Supplies,Labels,Labels Item 308,74.16,6,0,15.96
+ORD-100736,4/30/2019,5/10/2019,First Class,CUST-1009,Finley Smith,Home Office,Phoenix,AZ,27178,South,PROD-79142,Office Supplies,Envelopes,Envelopes Item 21,388.8,6,0,95.18
+ORD-100737,5/23/2018,5/31/2018,First Class,CUST-1410,Kendall Martinez,Consumer,San Francisco,CA,55327,South,PROD-51048,Office Supplies,Envelopes,Envelopes Item 253,657.2,10,0,17.15
+ORD-100738,9/4/2019,9/12/2019,Second Class,CUST-1328,Morgan Lopez,Home Office,Los Angeles,CA,13838,West,PROD-28184,Office Supplies,Paper,Paper Item 54,81.12,6,0.2,7.9
+ORD-100739,6/11/2020,6/15/2020,First Class,CUST-1097,Parker Moore,Home Office,Fort Worth,TX,16880,Central,PROD-16291,Office Supplies,Paper,Paper Item 485,497.5,5,0,85.81
+ORD-100740,11/6/2019,11/16/2019,Standard Class,CUST-1194,Drew Garcia,Home Office,San Jose,CA,70384,East,PROD-29398,Office Supplies,Writing,Writing Item 386,61.28,10,0.2,6.89
+ORD-100741,4/26/2020,5/4/2020,Standard Class,CUST-1267,Rowan Davis,Consumer,Austin,TX,74238,Central,PROD-39600,Furniture,Furnishings,Furnishings Item 48,1290.15,5,0.1,168.61
+ORD-100742,6/19/2018,6/25/2018,Standard Class,CUST-1446,Cameron Miller,Corporate,Los Angeles,CA,74828,East,PROD-97883,Office Supplies,Paper,Paper Item 111,228.38,8,0.1,49.4
+ORD-100743,1/20/2019,1/28/2019,First Class,CUST-1106,Finley Taylor,Consumer,Philadelphia,PA,50871,South,PROD-76127,Technology,Accessories,Accessories Item 55,616.89,3,0,64.56
+ORD-100744,1/15/2020,1/22/2020,Same Day,CUST-1444,Reese Taylor,Consumer,San Antonio,TX,34635,East,PROD-31521,Furniture,Furnishings,Furnishings Item 352,3651.79,5,0.3,-15.03
+ORD-100745,7/29/2018,8/1/2018,Second Class,CUST-1054,Morgan Davis,Consumer,San Diego,CA,34514,Central,PROD-96754,Office Supplies,Labels,Labels Item 272,505.12,8,0,146.23
+ORD-100746,8/31/2018,9/9/2018,First Class,CUST-1220,Riley Jones,Consumer,San Antonio,TX,76574,Central,PROD-45728,Office Supplies,Labels,Labels Item 190,107.3,2,0,5.87
+ORD-100747,2/23/2020,3/1/2020,First Class,CUST-1096,Hayden Garcia,Consumer,Dallas,TX,89619,South,PROD-24311,Technology,Machines,Machines Item 349,2662.08,1,0,412.42
+ORD-100748,8/16/2018,8/20/2018,First Class,CUST-1458,Taylor Jackson,Consumer,Los Angeles,CA,79747,East,PROD-91293,Furniture,Bookcases,Bookcases Item 359,6489.56,7,0,773.21
+ORD-100749,7/27/2018,7/31/2018,Standard Class,CUST-1450,Drew Thomas,Consumer,San Francisco,CA,36683,Central,PROD-88159,Technology,Copiers,Copiers Item 148,1254.11,1,0,49.51
+ORD-100750,10/27/2020,11/6/2020,Second Class,CUST-1156,Cameron Garcia,Consumer,Los Angeles,CA,31842,West,PROD-28590,Furniture,Furnishings,Furnishings Item 493,1497.33,1,0.1,427.39
+ORD-100751,5/26/2020,6/1/2020,First Class,CUST-1498,Drew Williams,Consumer,San Francisco,CA,11275,Central,PROD-74003,Furniture,Chairs,Chairs Item 448,286.04,4,0,77.65
+ORD-100752,4/3/2018,4/4/2018,Standard Class,CUST-1148,Cameron Taylor,Consumer,San Francisco,CA,29212,East,PROD-53997,Office Supplies,Writing,Writing Item 232,308.02,8,0.1,40.97
+ORD-100753,6/12/2019,6/20/2019,Second Class,CUST-1234,Alex Lopez,Consumer,Philadelphia,PA,77873,South,PROD-99887,Office Supplies,Writing,Writing Item 266,27.46,1,0,4.89
+ORD-100754,4/20/2020,4/24/2020,Standard Class,CUST-1072,Parker Thomas,Consumer,San Jose,CA,66455,Central,PROD-35407,Office Supplies,Paper,Paper Item 472,535.57,7,0,103.4
+ORD-100755,7/15/2019,7/24/2019,Standard Class,CUST-1230,Rowan Garcia,Consumer,Austin,TX,55723,Central,PROD-46208,Furniture,Furnishings,Furnishings Item 159,1878.56,4,0,85.97
+ORD-100756,12/1/2020,12/7/2020,Standard Class,CUST-1062,Kendall Anderson,Consumer,San Francisco,CA,55481,Central,PROD-75395,Office Supplies,Paper,Paper Item 475,9.57,3,0,0.58
+ORD-100757,11/4/2018,11/13/2018,Same Day,CUST-1319,Skyler Garcia,Consumer,Phoenix,AZ,18469,Central,PROD-15367,Office Supplies,Labels,Labels Item 112,250.65,5,0.1,44.19
+ORD-100758,9/10/2018,9/11/2018,Second Class,CUST-1002,Kendall Lopez,Corporate,New York,NY,16540,Central,PROD-47128,Office Supplies,Writing,Writing Item 403,376.89,9,0.1,13.88
+ORD-100759,11/14/2018,11/16/2018,Standard Class,CUST-1073,Riley Wilson,Consumer,Los Angeles,CA,48116,West,PROD-56482,Office Supplies,Labels,Labels Item 128,236.74,7,0,41.47
+ORD-100760,7/20/2018,7/25/2018,Standard Class,CUST-1305,Quinn Garcia,Consumer,Austin,TX,52268,West,PROD-42770,Technology,Accessories,Accessories Item 70,15521.24,7,0,-1495.06
+ORD-100761,9/9/2019,9/14/2019,First Class,CUST-1290,Reese Moore,Consumer,San Francisco,CA,67264,East,PROD-67920,Office Supplies,Envelopes,Envelopes Item 356,243.96,6,0,30.89
+ORD-100762,1/3/2020,1/11/2020,Second Class,CUST-1238,Kendall Wilson,Consumer,Fort Worth,TX,83257,East,PROD-28426,Furniture,Chairs,Chairs Item 315,4256.64,5,0.1,911.72
+ORD-100763,11/14/2020,11/20/2020,First Class,CUST-1278,Finley Martinez,Consumer,Columbus,OH,61466,West,PROD-70661,Furniture,Chairs,Chairs Item 414,17216.1,9,0,3526.74
+ORD-100764,4/22/2018,4/24/2018,First Class,CUST-1424,Morgan Hernandez,Consumer,Columbus,OH,48086,South,PROD-17977,Technology,Copiers,Copiers Item 63,21284.73,10,0.1,6748.94
+ORD-100765,4/19/2018,4/23/2018,Standard Class,CUST-1287,Emerson Jones,Consumer,Austin,TX,93842,West,PROD-10845,Furniture,Tables,Tables Item 413,7226.64,8,0,328.82
+ORD-100766,2/16/2019,2/18/2019,First Class,CUST-1078,Reese Brown,Consumer,Houston,TX,36777,East,PROD-76296,Furniture,Chairs,Chairs Item 228,3826.27,7,0,648.17
+ORD-100767,9/7/2018,9/12/2018,Second Class,CUST-1094,Cameron Moore,Consumer,San Jose,CA,99302,South,PROD-66669,Technology,Phones,Phones Item 75,1918.86,1,0,557.55
+ORD-100768,5/8/2019,5/11/2019,Standard Class,CUST-1358,Skyler Miller,Consumer,Phoenix,AZ,47938,East,PROD-58147,Technology,Machines,Machines Item 342,9924.35,5,0,2115.72
+ORD-100769,8/8/2018,8/16/2018,Second Class,CUST-1217,Casey Smith,Consumer,Los Angeles,CA,83952,South,PROD-49683,Office Supplies,Envelopes,Envelopes Item 18,621.7,10,0,171.55
+ORD-100770,12/28/2019,12/31/2019,Second Class,CUST-1370,Reese Rodriguez,Consumer,Chicago,IL,56890,West,PROD-77245,Furniture,Furnishings,Furnishings Item 33,485.92,3,0.1,18
+ORD-100771,12/22/2019,1/1/2020,Second Class,CUST-1366,Casey Rodriguez,Corporate,Austin,TX,49705,South,PROD-59351,Office Supplies,Labels,Labels Item 493,594.16,8,0,111.42
+ORD-100772,1/5/2019,1/15/2019,Standard Class,CUST-1259,Rowan Rodriguez,Consumer,Philadelphia,PA,87182,Central,PROD-18856,Technology,Machines,Machines Item 24,1237.14,1,0.2,188.69
+ORD-100773,11/22/2018,11/26/2018,First Class,CUST-1054,Emerson Thomas,Consumer,Houston,TX,41013,East,PROD-65057,Office Supplies,Labels,Labels Item 473,20.62,2,0,3.93
+ORD-100774,5/28/2019,5/30/2019,First Class,CUST-1383,Jordan Anderson,Corporate,San Jose,CA,92744,East,PROD-24111,Office Supplies,Writing,Writing Item 358,577.6,8,0,48.35
+ORD-100775,2/14/2019,2/18/2019,Second Class,CUST-1224,Quinn Davis,Consumer,Chicago,IL,66893,West,PROD-13177,Office Supplies,Envelopes,Envelopes Item 323,62.12,2,0,20.86
+ORD-100776,10/15/2018,10/16/2018,Second Class,CUST-1208,Finley Moore,Home Office,Philadelphia,PA,34288,South,PROD-84759,Office Supplies,Binders,Binders Item 424,290.16,8,0,75.92
+ORD-100777,1/1/2020,1/11/2020,Standard Class,CUST-1436,Casey Williams,Consumer,Austin,TX,59298,East,PROD-26671,Technology,Phones,Phones Item 401,5146.92,9,0,1641.55
+ORD-100778,8/30/2018,9/7/2018,First Class,CUST-1307,Skyler Hernandez,Consumer,Columbus,OH,47997,Central,PROD-18906,Furniture,Tables,Tables Item 447,817.97,3,0.3,174.97
+ORD-100779,6/3/2018,6/12/2018,Standard Class,CUST-1436,Rowan Martin,Consumer,San Antonio,TX,91087,East,PROD-86385,Technology,Phones,Phones Item 242,10340.24,5,0.1,982.92
+ORD-100780,3/8/2018,3/14/2018,Second Class,CUST-1102,Avery Johnson,Consumer,Dallas,TX,53202,East,PROD-19556,Office Supplies,Labels,Labels Item 413,223.76,10,0.2,56.58
+ORD-100781,3/14/2018,3/20/2018,Same Day,CUST-1486,Kendall Martin,Corporate,Fort Worth,TX,20563,South,PROD-15471,Office Supplies,Writing,Writing Item 54,39.43,1,0,13.3
+ORD-100782,4/7/2019,4/13/2019,Second Class,CUST-1155,Cameron Smith,Home Office,New York,NY,35712,South,PROD-82416,Technology,Phones,Phones Item 247,632.95,1,0,135.29
+ORD-100783,2/12/2020,2/15/2020,Second Class,CUST-1218,Skyler Jones,Consumer,Los Angeles,CA,90694,Central,PROD-54974,Furniture,Bookcases,Bookcases Item 224,1560.54,1,0,107.56
+ORD-100784,7/8/2018,7/18/2018,First Class,CUST-1211,Skyler Jackson,Consumer,San Francisco,CA,11952,West,PROD-17425,Office Supplies,Paper,Paper Item 65,520.8,8,0,57.29
+ORD-100785,3/31/2018,4/6/2018,Second Class,CUST-1335,Cameron Martinez,Consumer,San Antonio,TX,72744,East,PROD-20011,Technology,Phones,Phones Item 129,26154.9,9,0,4829.01
+ORD-100786,1/2/2020,1/6/2020,Second Class,CUST-1154,Parker Moore,Consumer,Austin,TX,42008,Central,PROD-17077,Furniture,Chairs,Chairs Item 178,10127.19,7,0.1,3591.85
+ORD-100787,9/22/2020,9/27/2020,First Class,CUST-1466,Casey Taylor,Consumer,Jacksonville,FL,82478,West,PROD-28607,Office Supplies,Writing,Writing Item 19,271.12,4,0.1,107.34
+ORD-100788,7/18/2020,7/20/2020,First Class,CUST-1428,Taylor Rodriguez,Consumer,San Antonio,TX,49375,East,PROD-89920,Office Supplies,Writing,Writing Item 197,652.4,8,0,50.59
+ORD-100789,2/23/2020,3/1/2020,Second Class,CUST-1114,Riley Gonzalez,Consumer,San Antonio,TX,79794,East,PROD-14103,Technology,Copiers,Copiers Item 278,4934.59,6,0.2,1100.93
+ORD-100790,11/20/2019,11/25/2019,Standard Class,CUST-1302,Riley Smith,Consumer,Columbus,OH,91465,South,PROD-24314,Furniture,Chairs,Chairs Item 284,9112.82,7,0.3,989.9
+ORD-100791,8/12/2019,8/21/2019,Second Class,CUST-1293,Finley Taylor,Consumer,San Antonio,TX,71254,West,PROD-46791,Office Supplies,Paper,Paper Item 410,221.7,5,0,5.82
+ORD-100792,5/27/2019,6/5/2019,Second Class,CUST-1292,Hayden Johnson,Corporate,Philadelphia,PA,45225,Central,PROD-26293,Technology,Phones,Phones Item 158,11964.87,10,0.1,2985.63
+ORD-100793,6/26/2019,6/29/2019,Second Class,CUST-1008,Reese Smith,Consumer,Philadelphia,PA,72941,West,PROD-85965,Furniture,Chairs,Chairs Item 481,1038.7,2,0,205.38
+ORD-100794,10/6/2019,10/8/2019,Second Class,CUST-1132,Drew Rodriguez,Home Office,Chicago,IL,39808,West,PROD-95980,Office Supplies,Envelopes,Envelopes Item 26,55.64,4,0,11.42
+ORD-100795,3/20/2018,3/23/2018,Standard Class,CUST-1440,Reese Jackson,Consumer,Dallas,TX,39878,East,PROD-43743,Technology,Copiers,Copiers Item 9,11667.12,6,0,1869.68
+ORD-100796,4/2/2018,4/12/2018,First Class,CUST-1055,Jordan Taylor,Consumer,Dallas,TX,20151,West,PROD-84758,Office Supplies,Writing,Writing Item 191,210.14,7,0,45.49
+ORD-100797,5/23/2020,5/28/2020,First Class,CUST-1167,Reese Lopez,Consumer,San Antonio,TX,95456,Central,PROD-91515,Furniture,Tables,Tables Item 16,5102.1,3,0,1081.17
+ORD-100798,8/19/2019,8/22/2019,Standard Class,CUST-1013,Morgan Martin,Consumer,Philadelphia,PA,76951,Central,PROD-86373,Office Supplies,Labels,Labels Item 17,276.15,3,0,77.46
+ORD-100799,6/10/2018,6/12/2018,Same Day,CUST-1114,Finley Taylor,Home Office,Austin,TX,81857,South,PROD-79174,Technology,Phones,Phones Item 409,1392.41,1,0,114.68
+ORD-100800,12/10/2020,12/19/2020,Second Class,CUST-1137,Riley Jackson,Consumer,Houston,TX,53081,West,PROD-69745,Furniture,Bookcases,Bookcases Item 162,3045.42,2,0.1,872.91
+ORD-100801,6/30/2020,7/7/2020,Second Class,CUST-1180,Skyler Taylor,Consumer,Philadelphia,PA,95633,South,PROD-68847,Technology,Accessories,Accessories Item 403,13827.52,7,0,3707.63
+ORD-100802,9/14/2018,9/23/2018,First Class,CUST-1465,Kendall Jackson,Corporate,San Jose,CA,44115,Central,PROD-25461,Furniture,Tables,Tables Item 42,2771.93,7,0,607.48
+ORD-100803,10/31/2018,11/10/2018,Second Class,CUST-1451,Riley Garcia,Home Office,New York,NY,31859,East,PROD-82689,Furniture,Tables,Tables Item 365,13520.95,8,0.1,2482.95
+ORD-100804,9/16/2018,9/17/2018,Standard Class,CUST-1012,Jamie Williams,Consumer,Columbus,OH,79377,South,PROD-26705,Furniture,Tables,Tables Item 206,1207.71,9,0,203.71
+ORD-100805,8/24/2019,8/26/2019,Second Class,CUST-1422,Avery Jackson,Corporate,Los Angeles,CA,15929,East,PROD-68837,Technology,Copiers,Copiers Item 467,15283.94,7,0,2593.57
+ORD-100806,6/11/2020,6/16/2020,Standard Class,CUST-1358,Casey Garcia,Corporate,San Jose,CA,76764,East,PROD-87798,Office Supplies,Paper,Paper Item 304,443.56,6,0.1,81.46
+ORD-100807,7/17/2020,7/24/2020,Second Class,CUST-1090,Rowan Jackson,Consumer,San Francisco,CA,22700,West,PROD-54710,Furniture,Furnishings,Furnishings Item 25,16893.7,10,0,16.35
+ORD-100808,12/11/2020,12/21/2020,Standard Class,CUST-1475,Kendall Martinez,Consumer,Philadelphia,PA,33385,West,PROD-66431,Office Supplies,Binders,Binders Item 266,369.05,5,0,166.07
+ORD-100809,10/6/2019,10/8/2019,Second Class,CUST-1084,Morgan Martinez,Consumer,San Diego,CA,39312,West,PROD-89451,Furniture,Tables,Tables Item 386,1666.08,2,0.2,514.91
+ORD-100810,7/25/2019,7/28/2019,First Class,CUST-1282,Rowan Garcia,Consumer,Fort Worth,TX,15209,West,PROD-13378,Office Supplies,Labels,Labels Item 190,124.64,4,0,49.53
+ORD-100811,5/23/2020,5/31/2020,Standard Class,CUST-1425,Reese Martinez,Home Office,Jacksonville,FL,25720,South,PROD-44479,Furniture,Furnishings,Furnishings Item 45,3681.26,3,0.3,938.08
+ORD-100812,8/27/2018,9/2/2018,Standard Class,CUST-1381,Cameron Williams,Consumer,Dallas,TX,53953,Central,PROD-51262,Furniture,Chairs,Chairs Item 457,1290.77,1,0,135.94
+ORD-100813,12/3/2020,12/9/2020,First Class,CUST-1285,Taylor Smith,Consumer,San Jose,CA,59310,West,PROD-44771,Technology,Accessories,Accessories Item 241,4186.32,3,0,993.71
+ORD-100814,1/19/2019,1/27/2019,Second Class,CUST-1101,Jordan Taylor,Home Office,Jacksonville,FL,38074,East,PROD-74315,Furniture,Chairs,Chairs Item 286,682,10,0,190.56
+ORD-100815,12/31/2018,1/1/2019,Second Class,CUST-1134,Reese Gonzalez,Corporate,Houston,TX,93586,Central,PROD-49334,Furniture,Bookcases,Bookcases Item 431,6348.9,4,0.2,436.77
+ORD-100816,9/20/2020,9/28/2020,Standard Class,CUST-1200,Reese Lopez,Consumer,Phoenix,AZ,22652,West,PROD-64997,Office Supplies,Writing,Writing Item 497,93.76,8,0,31.37
+ORD-100817,5/20/2020,5/22/2020,First Class,CUST-1489,Avery Brown,Consumer,San Antonio,TX,26784,South,PROD-40783,Furniture,Furnishings,Furnishings Item 15,2239.35,5,0,289.46
+ORD-100818,3/17/2019,3/24/2019,First Class,CUST-1395,Avery Rodriguez,Corporate,San Antonio,TX,61298,South,PROD-44170,Furniture,Furnishings,Furnishings Item 468,1132.42,1,0,301.65
+ORD-100819,3/25/2019,3/31/2019,Standard Class,CUST-1023,Quinn Anderson,Consumer,San Jose,CA,31828,West,PROD-90386,Technology,Phones,Phones Item 313,3481.86,6,0,1231.12
+ORD-100820,2/10/2018,2/11/2018,Standard Class,CUST-1046,Avery Lopez,Corporate,Dallas,TX,18318,East,PROD-57460,Technology,Accessories,Accessories Item 275,3021.34,4,0.3,644.63
+ORD-100821,3/21/2020,3/25/2020,Second Class,CUST-1082,Parker Hernandez,Consumer,Dallas,TX,42598,East,PROD-79016,Office Supplies,Paper,Paper Item 53,22.59,9,0,8.01
+ORD-100822,9/20/2020,9/21/2020,First Class,CUST-1154,Alex Davis,Corporate,Jacksonville,FL,42415,East,PROD-59526,Furniture,Chairs,Chairs Item 336,10737.51,7,0,64.61
+ORD-100823,7/7/2019,7/9/2019,First Class,CUST-1258,Kendall Smith,Consumer,Columbus,OH,81001,West,PROD-61265,Office Supplies,Envelopes,Envelopes Item 100,132.72,10,0.2,6.27
+ORD-100824,10/25/2019,11/1/2019,Standard Class,CUST-1011,Quinn Rodriguez,Consumer,Los Angeles,CA,44638,South,PROD-66299,Furniture,Tables,Tables Item 48,1808.6,4,0.3,148.19
+ORD-100825,7/25/2019,8/2/2019,Second Class,CUST-1359,Skyler Taylor,Consumer,New York,NY,75147,South,PROD-69279,Furniture,Chairs,Chairs Item 115,10206.28,10,0.3,-727.65
+ORD-100826,3/24/2020,3/28/2020,Second Class,CUST-1244,Finley Brown,Corporate,Philadelphia,PA,28844,East,PROD-32184,Office Supplies,Envelopes,Envelopes Item 107,710.8,8,0,-16.96
+ORD-100827,6/21/2018,6/24/2018,Second Class,CUST-1429,Emerson Taylor,Corporate,San Jose,CA,40465,East,PROD-63983,Furniture,Tables,Tables Item 160,4614.89,6,0.1,1637.66
+ORD-100828,3/16/2018,3/22/2018,Standard Class,CUST-1306,Kendall Smith,Consumer,Houston,TX,83716,South,PROD-51027,Technology,Machines,Machines Item 492,8371.76,4,0,2678.84
+ORD-100829,9/16/2020,9/25/2020,Standard Class,CUST-1378,Jordan Brown,Consumer,Los Angeles,CA,59241,West,PROD-78149,Office Supplies,Binders,Binders Item 384,22.22,2,0,2.47
+ORD-100830,6/15/2020,6/17/2020,First Class,CUST-1217,Emerson Garcia,Corporate,Dallas,TX,73857,West,PROD-62350,Technology,Machines,Machines Item 5,8864.2,5,0,3950.86
+ORD-100831,8/26/2019,8/31/2019,Standard Class,CUST-1314,Parker Jackson,Corporate,Chicago,IL,48036,West,PROD-78076,Technology,Copiers,Copiers Item 310,1066.3,5,0,154.06
+ORD-100832,3/8/2019,3/14/2019,Standard Class,CUST-1368,Casey Garcia,Consumer,Columbus,OH,72111,East,PROD-33491,Furniture,Furnishings,Furnishings Item 77,9447.76,8,0,3810.83
+ORD-100833,1/12/2018,1/17/2018,Standard Class,CUST-1102,Morgan Moore,Consumer,Los Angeles,CA,18009,South,PROD-18751,Technology,Accessories,Accessories Item 180,13092.41,9,0.2,5320.67
+ORD-100834,12/8/2019,12/9/2019,Standard Class,CUST-1140,Quinn Wilson,Consumer,Phoenix,AZ,58139,South,PROD-20154,Furniture,Bookcases,Bookcases Item 304,4107.33,3,0,431.37
+ORD-100835,3/20/2019,3/25/2019,First Class,CUST-1288,Morgan Jones,Corporate,San Jose,CA,94519,South,PROD-90725,Furniture,Tables,Tables Item 343,13270.8,8,0,3707.09
+ORD-100836,1/6/2018,1/10/2018,Same Day,CUST-1046,Reese Jones,Consumer,San Diego,CA,10032,Central,PROD-27953,Office Supplies,Paper,Paper Item 262,406.64,8,0,127.65
+ORD-100837,8/24/2020,8/30/2020,Second Class,CUST-1389,Morgan Davis,Consumer,San Antonio,TX,60532,South,PROD-78417,Furniture,Tables,Tables Item 163,12869.82,9,0,1313.86
+ORD-100838,3/15/2019,3/18/2019,Standard Class,CUST-1426,Drew Jones,Corporate,Dallas,TX,67887,South,PROD-99832,Technology,Copiers,Copiers Item 62,17064.5,9,0.2,-2607.93
+ORD-100839,12/15/2019,12/18/2019,First Class,CUST-1187,Reese Lopez,Corporate,Houston,TX,90868,West,PROD-33462,Furniture,Tables,Tables Item 478,337.53,1,0,93.2
+ORD-100840,1/10/2020,1/19/2020,First Class,CUST-1300,Quinn Hernandez,Consumer,Philadelphia,PA,43260,East,PROD-14394,Technology,Copiers,Copiers Item 332,4990.05,5,0,393.26
+ORD-100841,3/26/2020,3/27/2020,Same Day,CUST-1360,Drew Rodriguez,Corporate,San Jose,CA,13988,South,PROD-74264,Technology,Machines,Machines Item 89,4877.42,8,0.1,798.78
+ORD-100842,8/1/2018,8/2/2018,Second Class,CUST-1313,Casey Garcia,Home Office,Chicago,IL,20855,South,PROD-68114,Office Supplies,Paper,Paper Item 327,60.63,1,0,12.29
+ORD-100843,7/23/2019,7/27/2019,Standard Class,CUST-1377,Alex Hernandez,Corporate,Columbus,OH,51481,West,PROD-77677,Technology,Copiers,Copiers Item 8,8927.24,7,0,2224.77
+ORD-100844,5/6/2018,5/8/2018,First Class,CUST-1389,Rowan Jones,Corporate,Los Angeles,CA,32621,South,PROD-89761,Office Supplies,Writing,Writing Item 102,579.15,9,0,79.95
+ORD-100845,1/7/2018,1/12/2018,Second Class,CUST-1179,Morgan Hernandez,Consumer,Columbus,OH,21284,South,PROD-21870,Office Supplies,Paper,Paper Item 94,84.34,2,0,17.83
+ORD-100846,2/11/2018,2/14/2018,Standard Class,CUST-1111,Parker Anderson,Consumer,Jacksonville,FL,42339,Central,PROD-27397,Technology,Accessories,Accessories Item 159,2522.61,1,0,816.91
+ORD-100847,8/11/2019,8/14/2019,Second Class,CUST-1289,Avery Wilson,Consumer,Houston,TX,45756,West,PROD-43994,Office Supplies,Writing,Writing Item 358,476.8,8,0,-25.02
+ORD-100848,9/30/2020,10/6/2020,Standard Class,CUST-1178,Rowan Anderson,Corporate,Austin,TX,32344,East,PROD-30408,Technology,Machines,Machines Item 276,5697.4,10,0,60.97
+ORD-100849,6/7/2020,6/13/2020,Standard Class,CUST-1349,Quinn Miller,Consumer,Dallas,TX,82300,Central,PROD-37619,Office Supplies,Envelopes,Envelopes Item 133,18.28,4,0,0.71
+ORD-100850,3/6/2018,3/8/2018,Standard Class,CUST-1323,Jamie Thomas,Consumer,San Jose,CA,52335,Central,PROD-96285,Technology,Machines,Machines Item 302,92.09,1,0,10.74
+ORD-100851,8/3/2018,8/9/2018,Standard Class,CUST-1004,Jamie Wilson,Consumer,Philadelphia,PA,94919,East,PROD-50144,Office Supplies,Writing,Writing Item 84,422.16,8,0,115.07
+ORD-100852,2/14/2018,2/22/2018,Standard Class,CUST-1233,Finley Jackson,Corporate,Jacksonville,FL,62341,South,PROD-58918,Office Supplies,Writing,Writing Item 308,187.68,6,0,57.05
+ORD-100853,4/1/2020,4/6/2020,First Class,CUST-1475,Cameron Taylor,Consumer,San Antonio,TX,45305,South,PROD-31499,Technology,Phones,Phones Item 263,6069.5,3,0.2,950.52
+ORD-100854,12/9/2020,12/13/2020,Same Day,CUST-1290,Casey Jones,Corporate,San Francisco,CA,17051,East,PROD-55364,Furniture,Bookcases,Bookcases Item 235,2890.3,7,0,453.62
+ORD-100855,1/2/2018,1/5/2018,First Class,CUST-1088,Quinn Martinez,Consumer,Houston,TX,36649,South,PROD-30203,Office Supplies,Binders,Binders Item 351,399.57,9,0.1,138.59
+ORD-100856,2/6/2020,2/7/2020,Second Class,CUST-1176,Morgan Thomas,Consumer,San Antonio,TX,37851,South,PROD-70749,Technology,Machines,Machines Item 362,1503.97,4,0.1,307.84
+ORD-100857,7/16/2018,7/23/2018,First Class,CUST-1390,Casey Gonzalez,Corporate,Fort Worth,TX,47118,South,PROD-80007,Technology,Machines,Machines Item 37,8996.7,6,0,1210.83
+ORD-100858,2/25/2018,3/1/2018,Standard Class,CUST-1091,Cameron Lopez,Consumer,Dallas,TX,10208,South,PROD-28098,Office Supplies,Binders,Binders Item 256,179.24,4,0,51.62
+ORD-100859,9/11/2019,9/18/2019,First Class,CUST-1196,Jamie Wilson,Consumer,Phoenix,AZ,60700,South,PROD-65277,Office Supplies,Writing,Writing Item 92,52.71,3,0,14.41
+ORD-100860,11/25/2020,11/27/2020,Second Class,CUST-1042,Parker Brown,Corporate,San Antonio,TX,11602,West,PROD-85324,Furniture,Bookcases,Bookcases Item 260,7811.62,7,0.1,1776.65
+ORD-100861,1/24/2018,2/1/2018,Standard Class,CUST-1343,Hayden Wilson,Corporate,Phoenix,AZ,65703,Central,PROD-89119,Technology,Phones,Phones Item 414,15821.84,8,0,1759.19
+ORD-100862,8/27/2020,9/2/2020,Standard Class,CUST-1497,Parker Brown,Corporate,San Antonio,TX,79692,South,PROD-29711,Technology,Phones,Phones Item 4,13779.41,6,0.2,865.83
+ORD-100863,6/13/2019,6/17/2019,Standard Class,CUST-1314,Reese Wilson,Consumer,Phoenix,AZ,15222,East,PROD-58117,Furniture,Furnishings,Furnishings Item 26,4784.49,10,0.1,348.81
+ORD-100864,6/1/2019,6/8/2019,Second Class,CUST-1151,Alex Moore,Consumer,Phoenix,AZ,56777,South,PROD-52550,Office Supplies,Labels,Labels Item 153,90.81,1,0,7.19
+ORD-100865,1/2/2020,1/3/2020,Standard Class,CUST-1202,Cameron Garcia,Consumer,Los Angeles,CA,26522,West,PROD-66505,Technology,Machines,Machines Item 458,11415.05,5,0,790.61
+ORD-100866,7/27/2020,8/6/2020,First Class,CUST-1422,Rowan Jackson,Consumer,Los Angeles,CA,52806,Central,PROD-89869,Office Supplies,Binders,Binders Item 371,92.14,2,0,10.77
+ORD-100867,6/11/2018,6/17/2018,Standard Class,CUST-1383,Quinn Wilson,Consumer,Chicago,IL,43666,East,PROD-35119,Furniture,Chairs,Chairs Item 293,602.59,5,0.3,107.45
+ORD-100868,11/18/2020,11/27/2020,Standard Class,CUST-1124,Taylor Lopez,Consumer,Houston,TX,67271,Central,PROD-46287,Technology,Accessories,Accessories Item 257,2721.18,1,0,523
+ORD-100869,1/7/2019,1/12/2019,Second Class,CUST-1208,Riley Smith,Corporate,Austin,TX,27008,Central,PROD-88522,Furniture,Furnishings,Furnishings Item 405,5109.84,6,0,226.25
+ORD-100870,4/6/2019,4/7/2019,Standard Class,CUST-1113,Jordan Martin,Consumer,Jacksonville,FL,89864,South,PROD-93200,Technology,Machines,Machines Item 305,6330.48,6,0,1327.18
+ORD-100871,9/1/2020,9/10/2020,First Class,CUST-1174,Avery Lopez,Corporate,Chicago,IL,70548,South,PROD-32283,Office Supplies,Envelopes,Envelopes Item 345,398.3,7,0,75.87
+ORD-100872,3/8/2018,3/18/2018,Same Day,CUST-1323,Emerson Moore,Home Office,Los Angeles,CA,37204,Central,PROD-51331,Furniture,Tables,Tables Item 232,15014.4,8,0,2505.21
+ORD-100873,12/8/2018,12/18/2018,Second Class,CUST-1220,Kendall Smith,Corporate,Phoenix,AZ,82933,South,PROD-80463,Office Supplies,Labels,Labels Item 68,192.5,7,0,20.7
+ORD-100874,9/10/2018,9/12/2018,Second Class,CUST-1108,Morgan Jackson,Consumer,Columbus,OH,30855,South,PROD-56140,Technology,Machines,Machines Item 385,8791.4,4,0,411.02
+ORD-100875,7/26/2019,8/1/2019,Standard Class,CUST-1322,Morgan Hernandez,Consumer,Dallas,TX,61402,West,PROD-70806,Furniture,Furnishings,Furnishings Item 147,9219.12,8,0,2286.77
+ORD-100876,12/30/2018,1/6/2019,Second Class,CUST-1272,Avery Anderson,Corporate,Austin,TX,22887,South,PROD-64823,Technology,Machines,Machines Item 211,5610.08,4,0,1063.67
+ORD-100877,4/5/2019,4/8/2019,Standard Class,CUST-1257,Jordan Martin,Consumer,San Antonio,TX,12992,Central,PROD-31818,Technology,Accessories,Accessories Item 292,7643.02,8,0.1,1694.83
+ORD-100878,1/29/2020,1/30/2020,Standard Class,CUST-1452,Hayden Moore,Consumer,Houston,TX,31152,South,PROD-32965,Furniture,Bookcases,Bookcases Item 242,1089.96,4,0,140.38
+ORD-100879,8/24/2019,8/26/2019,Standard Class,CUST-1105,Finley Anderson,Consumer,Austin,TX,89069,South,PROD-70477,Office Supplies,Binders,Binders Item 257,47.86,2,0.1,5.5
+ORD-100880,11/10/2019,11/13/2019,First Class,CUST-1369,Jordan Smith,Corporate,Austin,TX,98719,South,PROD-60504,Technology,Machines,Machines Item 37,12518.72,7,0.3,3781.91
+ORD-100881,9/5/2018,9/15/2018,Standard Class,CUST-1273,Alex Anderson,Consumer,Jacksonville,FL,17836,Central,PROD-57628,Furniture,Chairs,Chairs Item 205,2464.2,9,0,1108.89
+ORD-100882,6/20/2020,6/27/2020,Standard Class,CUST-1053,Casey Rodriguez,Corporate,San Jose,CA,24651,West,PROD-96053,Furniture,Furnishings,Furnishings Item 174,4145.45,3,0.2,599.16
+ORD-100883,9/15/2020,9/19/2020,Second Class,CUST-1168,Jordan Anderson,Home Office,San Diego,CA,42077,Central,PROD-68284,Furniture,Tables,Tables Item 170,10298.02,8,0.1,2041.87
+ORD-100884,7/18/2019,7/28/2019,First Class,CUST-1071,Casey Taylor,Consumer,Houston,TX,58608,Central,PROD-50194,Technology,Copiers,Copiers Item 484,4919.22,3,0,836.67
+ORD-100885,9/17/2019,9/25/2019,Standard Class,CUST-1344,Quinn Jones,Corporate,Jacksonville,FL,26849,West,PROD-60361,Technology,Copiers,Copiers Item 132,5857.56,4,0,471.64
+ORD-100886,3/10/2019,3/20/2019,Second Class,CUST-1299,Alex Rodriguez,Consumer,Dallas,TX,77740,South,PROD-55116,Furniture,Bookcases,Bookcases Item 330,1119.78,3,0,141.31
+ORD-100887,10/23/2020,10/29/2020,Standard Class,CUST-1193,Emerson Garcia,Home Office,San Diego,CA,32988,South,PROD-97653,Furniture,Chairs,Chairs Item 485,1705.88,2,0,718.52
+ORD-100888,9/26/2019,9/30/2019,First Class,CUST-1142,Reese Brown,Corporate,Philadelphia,PA,75377,South,PROD-78697,Technology,Phones,Phones Item 460,7055.64,4,0.1,668.23
+ORD-100889,1/15/2020,1/16/2020,Second Class,CUST-1050,Avery Taylor,Consumer,Dallas,TX,80091,East,PROD-84278,Office Supplies,Labels,Labels Item 268,208.92,4,0,39.46
+ORD-100890,1/10/2019,1/14/2019,First Class,CUST-1367,Reese Garcia,Consumer,San Jose,CA,44834,Central,PROD-18345,Office Supplies,Binders,Binders Item 464,243.09,3,0,24.88
+ORD-100891,5/5/2018,5/9/2018,First Class,CUST-1299,Finley Thomas,Consumer,Dallas,TX,16695,Central,PROD-35745,Technology,Phones,Phones Item 245,4726.22,2,0,817.32
+ORD-100892,9/1/2020,9/5/2020,First Class,CUST-1301,Riley Martin,Consumer,San Jose,CA,11258,South,PROD-94230,Office Supplies,Labels,Labels Item 100,195.57,10,0.1,18.56
+ORD-100893,7/23/2020,7/24/2020,Second Class,CUST-1208,Reese Rodriguez,Consumer,Chicago,IL,53075,South,PROD-94578,Technology,Copiers,Copiers Item 154,4016.16,5,0.2,476.91
+ORD-100894,5/25/2019,5/31/2019,Second Class,CUST-1287,Rowan Martinez,Corporate,Los Angeles,CA,33878,South,PROD-76787,Office Supplies,Writing,Writing Item 241,609.28,8,0,3.94
+ORD-100895,5/15/2018,5/22/2018,Standard Class,CUST-1048,Reese Hernandez,Corporate,Dallas,TX,33941,West,PROD-37946,Office Supplies,Binders,Binders Item 158,792.27,9,0,151.64
+ORD-100896,12/22/2020,12/30/2020,First Class,CUST-1153,Reese Miller,Consumer,Chicago,IL,52436,West,PROD-32515,Office Supplies,Labels,Labels Item 437,264.6,3,0,36.18
+ORD-100897,11/18/2018,11/24/2018,Same Day,CUST-1242,Reese Wilson,Corporate,Phoenix,AZ,39979,Central,PROD-58600,Furniture,Tables,Tables Item 75,4649.6,5,0,1122.27
+ORD-100898,12/26/2019,1/1/2020,Second Class,CUST-1217,Finley Gonzalez,Corporate,New York,NY,62963,East,PROD-94645,Furniture,Tables,Tables Item 413,4138.53,3,0.3,714.62
+ORD-100899,7/16/2019,7/17/2019,Standard Class,CUST-1103,Riley Rodriguez,Consumer,Philadelphia,PA,13103,Central,PROD-52688,Furniture,Furnishings,Furnishings Item 286,14766.14,9,0.1,1354.01
+ORD-100900,3/17/2019,3/27/2019,Standard Class,CUST-1438,Drew Brown,Consumer,Chicago,IL,52661,South,PROD-16029,Technology,Machines,Machines Item 400,10239.58,7,0.1,647
+ORD-100901,9/24/2020,9/28/2020,Second Class,CUST-1310,Finley Gonzalez,Consumer,New York,NY,93837,Central,PROD-67425,Furniture,Tables,Tables Item 473,6653.6,5,0,1193.34
+ORD-100902,10/3/2018,10/5/2018,Second Class,CUST-1396,Kendall Jones,Home Office,San Jose,CA,49171,West,PROD-67443,Technology,Phones,Phones Item 126,14819.22,6,0,4996.1
+ORD-100903,6/18/2019,6/27/2019,Standard Class,CUST-1149,Alex Jones,Corporate,Los Angeles,CA,51151,Central,PROD-34135,Furniture,Bookcases,Bookcases Item 165,15445.84,8,0,1727.2
+ORD-100904,1/12/2020,1/18/2020,First Class,CUST-1497,Drew Rodriguez,Corporate,Fort Worth,TX,13032,West,PROD-66011,Office Supplies,Labels,Labels Item 203,158.18,8,0.1,-6.28
+ORD-100905,12/18/2020,12/19/2020,Standard Class,CUST-1262,Parker Smith,Consumer,New York,NY,76088,Central,PROD-47047,Technology,Machines,Machines Item 295,14296.26,6,0,2917.56
+ORD-100906,6/4/2018,6/14/2018,First Class,CUST-1285,Morgan Moore,Consumer,Dallas,TX,21498,South,PROD-19579,Technology,Accessories,Accessories Item 393,10969.75,7,0.1,3538.59
+ORD-100907,8/11/2020,8/19/2020,Standard Class,CUST-1378,Casey Hernandez,Consumer,Austin,TX,85395,Central,PROD-12815,Furniture,Furnishings,Furnishings Item 206,8221.4,10,0,2009.39
+ORD-100908,3/9/2020,3/10/2020,First Class,CUST-1165,Kendall Jones,Consumer,Houston,TX,86595,Central,PROD-95670,Technology,Machines,Machines Item 341,9889.09,4,0.1,333.32
+ORD-100909,12/28/2019,1/7/2020,First Class,CUST-1395,Casey Miller,Consumer,Los Angeles,CA,13437,East,PROD-55681,Office Supplies,Envelopes,Envelopes Item 489,140.4,2,0,27.26
+ORD-100910,10/8/2019,10/12/2019,Standard Class,CUST-1103,Quinn Garcia,Consumer,Phoenix,AZ,40537,West,PROD-27997,Furniture,Chairs,Chairs Item 450,12774.88,8,0,3577.69
+ORD-100911,2/8/2020,2/9/2020,Second Class,CUST-1380,Riley Gonzalez,Consumer,San Diego,CA,62321,West,PROD-87360,Office Supplies,Labels,Labels Item 418,181.6,2,0,23.37
+ORD-100912,12/25/2018,1/3/2019,Standard Class,CUST-1370,Rowan Brown,Consumer,Houston,TX,25775,South,PROD-51534,Technology,Copiers,Copiers Item 213,3380.72,4,0,386.82
+ORD-100913,7/5/2018,7/14/2018,Second Class,CUST-1130,Rowan Brown,Home Office,New York,NY,10951,South,PROD-23115,Furniture,Furnishings,Furnishings Item 182,8607.74,6,0.2,1016.69
+ORD-100914,5/14/2018,5/21/2018,Standard Class,CUST-1333,Quinn Davis,Home Office,Los Angeles,CA,95253,South,PROD-46007,Furniture,Chairs,Chairs Item 374,7955.22,6,0,1241.46
+ORD-100915,5/25/2019,5/28/2019,Standard Class,CUST-1065,Rowan Jones,Consumer,San Diego,CA,15110,East,PROD-96632,Technology,Accessories,Accessories Item 151,11121.54,6,0,449.5
+ORD-100916,11/19/2018,11/26/2018,First Class,CUST-1479,Rowan Jones,Corporate,San Francisco,CA,97643,West,PROD-31282,Furniture,Chairs,Chairs Item 16,1702,8,0,345.48
+ORD-100917,4/6/2020,4/12/2020,Standard Class,CUST-1135,Reese Hernandez,Consumer,New York,NY,53461,East,PROD-28919,Furniture,Chairs,Chairs Item 468,7246.05,7,0,1514.05
+ORD-100918,2/12/2020,2/22/2020,Standard Class,CUST-1086,Jamie Brown,Consumer,Fort Worth,TX,39189,East,PROD-24733,Furniture,Chairs,Chairs Item 496,15487.2,8,0,3280.29
+ORD-100919,4/30/2020,5/9/2020,Second Class,CUST-1438,Reese Smith,Consumer,San Diego,CA,43667,West,PROD-90427,Furniture,Tables,Tables Item 343,2704.88,2,0,472.26
+ORD-100920,2/6/2019,2/9/2019,First Class,CUST-1066,Casey Davis,Corporate,Jacksonville,FL,22424,South,PROD-42739,Furniture,Chairs,Chairs Item 116,6438.05,5,0,240.26
+ORD-100921,9/9/2019,9/15/2019,Standard Class,CUST-1236,Finley Taylor,Consumer,Fort Worth,TX,44960,West,PROD-59121,Furniture,Furnishings,Furnishings Item 339,223.74,3,0,33.42
+ORD-100922,3/12/2018,3/19/2018,Standard Class,CUST-1406,Riley Garcia,Consumer,Austin,TX,14471,West,PROD-52274,Office Supplies,Labels,Labels Item 6,568.6,10,0,224.68
+ORD-100923,12/6/2019,12/10/2019,Standard Class,CUST-1418,Finley Gonzalez,Consumer,Houston,TX,69400,Central,PROD-25442,Technology,Machines,Machines Item 382,12028.36,5,0.1,2488.36
+ORD-100924,11/19/2020,11/25/2020,Second Class,CUST-1456,Jamie Rodriguez,Consumer,Columbus,OH,73878,South,PROD-97557,Technology,Phones,Phones Item 439,1385.8,6,0.1,115.51
+ORD-100925,6/23/2019,6/25/2019,Standard Class,CUST-1218,Alex Moore,Consumer,Houston,TX,69956,East,PROD-48759,Office Supplies,Envelopes,Envelopes Item 65,516.6,6,0,129.96
+ORD-100926,6/12/2020,6/21/2020,Same Day,CUST-1042,Rowan Garcia,Consumer,Fort Worth,TX,76965,West,PROD-12191,Office Supplies,Binders,Binders Item 102,493.62,6,0,195.94
+ORD-100927,11/7/2018,11/17/2018,Standard Class,CUST-1268,Taylor Moore,Consumer,Houston,TX,79582,West,PROD-23125,Furniture,Bookcases,Bookcases Item 349,1988.94,3,0,441.73
+ORD-100928,4/9/2019,4/12/2019,Standard Class,CUST-1489,Reese Wilson,Home Office,Phoenix,AZ,16411,South,PROD-78386,Furniture,Furnishings,Furnishings Item 498,5425.17,7,0.2,868.85
+ORD-100929,8/16/2020,8/22/2020,First Class,CUST-1480,Quinn Smith,Consumer,Jacksonville,FL,82844,Central,PROD-87854,Office Supplies,Envelopes,Envelopes Item 492,74.12,2,0,24.96
+ORD-100930,4/20/2020,4/23/2020,First Class,CUST-1421,Jamie Davis,Consumer,Chicago,IL,94683,South,PROD-42580,Furniture,Bookcases,Bookcases Item 428,6082.26,6,0,731.07
+ORD-100931,7/20/2019,7/23/2019,Standard Class,CUST-1063,Finley Jones,Consumer,Chicago,IL,98111,Central,PROD-93460,Furniture,Chairs,Chairs Item 61,3499.56,9,0,1046.8
+ORD-100932,7/30/2018,8/9/2018,Second Class,CUST-1338,Reese Martinez,Corporate,Dallas,TX,89958,South,PROD-54744,Office Supplies,Paper,Paper Item 449,287.12,5,0.2,32.21
+ORD-100933,3/25/2018,4/1/2018,Standard Class,CUST-1130,Morgan Anderson,Consumer,Chicago,IL,73871,Central,PROD-23506,Office Supplies,Envelopes,Envelopes Item 46,252.7,10,0.3,33.03
+ORD-100934,1/13/2020,1/17/2020,Standard Class,CUST-1340,Emerson Wilson,Consumer,Austin,TX,23787,Central,PROD-42986,Technology,Copiers,Copiers Item 328,12258.45,9,0,3329.77
+ORD-100935,5/30/2019,6/5/2019,First Class,CUST-1051,Emerson Davis,Consumer,Houston,TX,87474,South,PROD-23626,Technology,Copiers,Copiers Item 400,14962.96,8,0,4950.45
+ORD-100936,2/9/2020,2/19/2020,Standard Class,CUST-1473,Hayden Johnson,Corporate,San Jose,CA,94237,East,PROD-25397,Technology,Phones,Phones Item 495,4280.32,4,0,717.54
+ORD-100937,5/13/2020,5/20/2020,Standard Class,CUST-1020,Parker Anderson,Home Office,San Jose,CA,78519,East,PROD-97696,Furniture,Furnishings,Furnishings Item 465,1959.25,1,0,640.71
+ORD-100938,1/6/2019,1/7/2019,Standard Class,CUST-1168,Morgan Martinez,Home Office,San Francisco,CA,13719,South,PROD-99523,Furniture,Tables,Tables Item 177,5403.64,6,0.3,1214.16
+ORD-100939,5/25/2019,5/30/2019,Second Class,CUST-1024,Avery Anderson,Corporate,Austin,TX,44494,West,PROD-81732,Office Supplies,Envelopes,Envelopes Item 332,182.84,6,0.1,15.58
+ORD-100940,12/15/2019,12/18/2019,Standard Class,CUST-1438,Jordan Hernandez,Consumer,Dallas,TX,39828,Central,PROD-21853,Furniture,Chairs,Chairs Item 328,9718.38,7,0,1280.42
+ORD-100941,10/15/2020,10/18/2020,Standard Class,CUST-1103,Drew Thomas,Consumer,San Francisco,CA,67379,Central,PROD-52304,Office Supplies,Binders,Binders Item 9,168.06,2,0,40.82
+ORD-100942,9/28/2019,10/7/2019,Standard Class,CUST-1286,Quinn Moore,Consumer,San Antonio,TX,91064,East,PROD-21867,Office Supplies,Paper,Paper Item 365,234.96,10,0.2,81.09
+ORD-100943,4/8/2020,4/13/2020,First Class,CUST-1174,Skyler Lopez,Consumer,Fort Worth,TX,60494,East,PROD-90402,Technology,Copiers,Copiers Item 292,3095.42,2,0,933.29
+ORD-100944,4/6/2019,4/14/2019,Standard Class,CUST-1125,Skyler Jones,Corporate,Phoenix,AZ,13454,South,PROD-42158,Office Supplies,Binders,Binders Item 449,127.68,4,0,38.74
+ORD-100945,3/19/2019,3/22/2019,First Class,CUST-1124,Alex Martin,Consumer,San Diego,CA,64332,West,PROD-77970,Furniture,Bookcases,Bookcases Item 298,13157.83,7,0,289.34
+ORD-100946,3/3/2020,3/8/2020,Standard Class,CUST-1186,Drew Wilson,Consumer,Fort Worth,TX,40763,Central,PROD-20097,Technology,Copiers,Copiers Item 491,7848.57,3,0,2094.26
+ORD-100947,5/21/2019,5/30/2019,Standard Class,CUST-1049,Rowan Thomas,Consumer,Los Angeles,CA,89179,West,PROD-94536,Technology,Copiers,Copiers Item 500,16213.45,9,0.1,4217.04
+ORD-100948,4/4/2019,4/12/2019,Second Class,CUST-1428,Taylor Anderson,Corporate,San Diego,CA,87471,South,PROD-12898,Office Supplies,Binders,Binders Item 287,220.08,8,0,46.82
+ORD-100949,4/28/2018,5/4/2018,Second Class,CUST-1361,Casey Williams,Corporate,Los Angeles,CA,46187,Central,PROD-88346,Technology,Phones,Phones Item 252,10647.69,7,0.1,2747.59
+ORD-100950,10/1/2018,10/8/2018,First Class,CUST-1231,Quinn Moore,Corporate,Phoenix,AZ,53323,West,PROD-28904,Technology,Machines,Machines Item 393,2209.72,9,0.3,-54.33
+ORD-100951,10/7/2019,10/8/2019,Same Day,CUST-1027,Parker Jackson,Consumer,Los Angeles,CA,90458,East,PROD-31129,Technology,Machines,Machines Item 376,10385.6,4,0,-968.34
+ORD-100952,1/3/2019,1/6/2019,First Class,CUST-1475,Emerson Brown,Consumer,Los Angeles,CA,62894,South,PROD-72181,Furniture,Furnishings,Furnishings Item 71,6695.76,6,0,1408.47
+ORD-100953,9/30/2019,10/6/2019,First Class,CUST-1220,Drew Thomas,Consumer,Phoenix,AZ,62615,West,PROD-94833,Office Supplies,Writing,Writing Item 325,25.7,2,0,4.43
+ORD-100954,7/12/2018,7/21/2018,Second Class,CUST-1450,Reese Johnson,Home Office,New York,NY,99484,Central,PROD-10226,Office Supplies,Binders,Binders Item 494,390.69,9,0,59.92
+ORD-100955,11/1/2019,11/8/2019,Second Class,CUST-1409,Finley Jackson,Consumer,Los Angeles,CA,32595,West,PROD-33827,Technology,Machines,Machines Item 275,7218.01,4,0.3,1664.49
+ORD-100956,7/18/2018,7/21/2018,Standard Class,CUST-1293,Jamie Anderson,Corporate,Fort Worth,TX,33264,West,PROD-91537,Furniture,Chairs,Chairs Item 20,4462.78,9,0.2,908.25
+ORD-100957,9/4/2018,9/9/2018,Standard Class,CUST-1055,Parker Garcia,Consumer,Chicago,IL,23070,South,PROD-30349,Office Supplies,Envelopes,Envelopes Item 314,388.22,6,0.2,84.65
+ORD-100958,3/7/2020,3/15/2020,Standard Class,CUST-1342,Skyler Williams,Consumer,Philadelphia,PA,28531,West,PROD-62990,Furniture,Bookcases,Bookcases Item 22,510.66,6,0,146.38
+ORD-100959,9/10/2020,9/20/2020,First Class,CUST-1266,Jordan Hernandez,Home Office,San Jose,CA,85377,South,PROD-47035,Technology,Accessories,Accessories Item 165,2576.79,3,0,300.94
+ORD-100960,2/10/2019,2/15/2019,Standard Class,CUST-1218,Hayden Wilson,Consumer,San Diego,CA,13123,South,PROD-83564,Office Supplies,Writing,Writing Item 248,875.3,10,0,193.22
+ORD-100961,10/16/2020,10/21/2020,Standard Class,CUST-1357,Taylor Taylor,Corporate,Houston,TX,21689,Central,PROD-94008,Technology,Accessories,Accessories Item 161,1631.28,1,0,167.22
+ORD-100962,4/7/2018,4/12/2018,Second Class,CUST-1180,Skyler Johnson,Corporate,Austin,TX,66859,West,PROD-99277,Technology,Copiers,Copiers Item 358,246.14,1,0.2,-11.38
+ORD-100963,7/22/2018,7/30/2018,Standard Class,CUST-1456,Cameron Hernandez,Consumer,Houston,TX,74916,West,PROD-15928,Technology,Phones,Phones Item 473,12621.77,7,0,1823.19
+ORD-100964,8/27/2018,9/1/2018,First Class,CUST-1123,Avery Garcia,Home Office,Columbus,OH,39933,Central,PROD-30437,Furniture,Chairs,Chairs Item 73,6296.1,10,0,1926.69
+ORD-100965,6/13/2019,6/20/2019,Standard Class,CUST-1363,Quinn Miller,Home Office,Austin,TX,45732,South,PROD-64511,Technology,Phones,Phones Item 422,1144.29,7,0,87.34
+ORD-100966,1/24/2019,2/1/2019,Second Class,CUST-1005,Hayden Johnson,Corporate,San Diego,CA,26893,West,PROD-25109,Office Supplies,Paper,Paper Item 82,723.84,8,0,167.49
+ORD-100967,11/2/2019,11/5/2019,Standard Class,CUST-1131,Hayden Martinez,Consumer,Phoenix,AZ,84725,Central,PROD-61761,Office Supplies,Paper,Paper Item 422,168.39,4,0.3,48.48
+ORD-100968,10/16/2020,10/20/2020,First Class,CUST-1018,Emerson Thomas,Consumer,Houston,TX,14984,South,PROD-18834,Office Supplies,Paper,Paper Item 124,626.15,7,0,167.88
+ORD-100969,6/16/2020,6/19/2020,Second Class,CUST-1393,Taylor Taylor,Corporate,Houston,TX,37581,Central,PROD-11862,Office Supplies,Envelopes,Envelopes Item 486,16.2,3,0,1.65
+ORD-100970,5/29/2019,6/1/2019,Second Class,CUST-1102,Taylor Gonzalez,Consumer,Phoenix,AZ,76269,East,PROD-92210,Office Supplies,Binders,Binders Item 100,319.25,6,0.1,29.35
+ORD-100971,6/17/2020,6/18/2020,Standard Class,CUST-1035,Cameron Martin,Consumer,Dallas,TX,31115,West,PROD-17433,Technology,Copiers,Copiers Item 58,4994.98,2,0,920.71
+ORD-100972,12/30/2020,12/31/2020,Standard Class,CUST-1086,Avery Lopez,Consumer,Fort Worth,TX,23604,West,PROD-10448,Office Supplies,Labels,Labels Item 289,54.63,1,0.1,11.57
+ORD-100973,9/3/2018,9/7/2018,Standard Class,CUST-1018,Finley Moore,Consumer,Austin,TX,72446,South,PROD-68939,Furniture,Furnishings,Furnishings Item 467,6001.6,4,0.1,1542.6
+ORD-100974,5/28/2019,6/3/2019,Same Day,CUST-1325,Reese Thomas,Home Office,Chicago,IL,69535,Central,PROD-47599,Office Supplies,Binders,Binders Item 327,185.09,3,0.3,47.83
+ORD-100975,3/6/2020,3/11/2020,Standard Class,CUST-1188,Alex Wilson,Corporate,Chicago,IL,15577,South,PROD-62721,Furniture,Bookcases,Bookcases Item 65,5335.98,6,0,2401.19
+ORD-100976,4/11/2020,4/18/2020,Standard Class,CUST-1235,Reese Anderson,Home Office,San Diego,CA,57652,Central,PROD-27447,Furniture,Furnishings,Furnishings Item 371,6012.45,9,0,2145.76
+ORD-100977,3/21/2019,3/25/2019,Standard Class,CUST-1485,Reese Lopez,Home Office,Dallas,TX,63504,Central,PROD-37985,Technology,Copiers,Copiers Item 202,5441.19,3,0,749.57
+ORD-100978,7/15/2020,7/20/2020,Standard Class,CUST-1489,Reese Wilson,Consumer,Houston,TX,54260,West,PROD-77829,Technology,Machines,Machines Item 222,6431.33,3,0.2,2782.35
+ORD-100979,2/18/2018,2/22/2018,Second Class,CUST-1341,Jamie Rodriguez,Home Office,Austin,TX,83841,West,PROD-85375,Technology,Machines,Machines Item 401,7605.2,4,0,353.14
+ORD-100980,10/11/2019,10/19/2019,First Class,CUST-1378,Casey Thomas,Consumer,Fort Worth,TX,90258,East,PROD-18566,Technology,Phones,Phones Item 44,1783.26,1,0,103.91
+ORD-100981,4/19/2018,4/25/2018,Standard Class,CUST-1160,Parker Miller,Corporate,Houston,TX,50312,East,PROD-86473,Furniture,Tables,Tables Item 464,8392.88,8,0,2299.18
+ORD-100982,12/25/2018,12/30/2018,Second Class,CUST-1410,Skyler Garcia,Home Office,Chicago,IL,31398,South,PROD-91040,Office Supplies,Envelopes,Envelopes Item 210,36.63,3,0,5.47
+ORD-100983,8/19/2020,8/24/2020,Standard Class,CUST-1462,Cameron Brown,Corporate,Chicago,IL,68314,East,PROD-59931,Office Supplies,Binders,Binders Item 243,461.44,7,0,-49.99
+ORD-100984,2/10/2018,2/20/2018,Standard Class,CUST-1418,Parker Anderson,Consumer,Chicago,IL,68632,East,PROD-54535,Furniture,Tables,Tables Item 44,11421.24,6,0,4082.97
+ORD-100985,10/4/2018,10/14/2018,Second Class,CUST-1201,Casey Brown,Home Office,San Francisco,CA,97674,West,PROD-48318,Technology,Copiers,Copiers Item 365,3057.34,2,0,774.54
+ORD-100986,10/10/2020,10/11/2020,Standard Class,CUST-1302,Kendall Garcia,Consumer,Phoenix,AZ,35168,Central,PROD-74174,Technology,Phones,Phones Item 164,5728.89,3,0,958.65
+ORD-100987,5/5/2019,5/10/2019,Second Class,CUST-1221,Avery Johnson,Consumer,San Francisco,CA,96074,South,PROD-53636,Technology,Phones,Phones Item 283,1098.32,1,0,173.4
+ORD-100988,1/22/2018,2/1/2018,First Class,CUST-1194,Riley Thomas,Consumer,New York,NY,98067,Central,PROD-53992,Technology,Machines,Machines Item 188,10281.82,9,0.2,1579.05
+ORD-100989,5/19/2020,5/26/2020,Standard Class,CUST-1067,Parker Rodriguez,Consumer,San Diego,CA,46915,Central,PROD-98055,Office Supplies,Labels,Labels Item 44,101.86,6,0.2,-6.94
+ORD-100990,8/21/2018,8/22/2018,Standard Class,CUST-1412,Morgan Davis,Consumer,Philadelphia,PA,18514,West,PROD-21453,Technology,Accessories,Accessories Item 443,3680.24,2,0,267.48
+ORD-100991,1/28/2018,2/3/2018,Standard Class,CUST-1316,Jordan Jones,Consumer,Columbus,OH,70393,Central,PROD-90290,Technology,Phones,Phones Item 63,1403.45,1,0.1,139.88
+ORD-100992,2/13/2019,2/15/2019,First Class,CUST-1367,Jordan Smith,Consumer,Austin,TX,40549,West,PROD-60711,Office Supplies,Paper,Paper Item 165,22.86,9,0,7.09
+ORD-100993,2/9/2019,2/17/2019,Standard Class,CUST-1095,Emerson Martinez,Corporate,San Jose,CA,18030,South,PROD-10827,Office Supplies,Envelopes,Envelopes Item 41,121.93,3,0.3,13.5
+ORD-100994,6/24/2019,6/27/2019,Standard Class,CUST-1294,Riley Brown,Corporate,Los Angeles,CA,34667,West,PROD-31289,Furniture,Bookcases,Bookcases Item 203,10497,10,0,2364.79
+ORD-100995,4/24/2020,5/3/2020,Standard Class,CUST-1111,Kendall Rodriguez,Corporate,Jacksonville,FL,41558,East,PROD-46890,Technology,Copiers,Copiers Item 387,3609.3,3,0,571.5
+ORD-100996,5/9/2018,5/17/2018,Second Class,CUST-1375,Taylor Martin,Corporate,San Antonio,TX,20479,South,PROD-51733,Office Supplies,Paper,Paper Item 302,56.92,6,0.1,4.19
+ORD-100997,5/15/2018,5/25/2018,Second Class,CUST-1429,Avery Anderson,Consumer,San Francisco,CA,72973,Central,PROD-74105,Furniture,Tables,Tables Item 161,4556.1,9,0.3,966.98
+ORD-100998,1/25/2019,1/29/2019,Standard Class,CUST-1021,Parker Wilson,Consumer,San Diego,CA,52515,South,PROD-69267,Furniture,Furnishings,Furnishings Item 79,2806.52,3,0.1,498.92
+ORD-100999,2/29/2020,3/7/2020,Standard Class,CUST-1447,Casey Hernandez,Consumer,Columbus,OH,92862,West,PROD-11828,Furniture,Tables,Tables Item 223,4258.2,3,0,1316.37
